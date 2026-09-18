@@ -1,0 +1,48 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[animation]
+
+compatibility/default_parent_skeleton_in_mesh_instance_3d=true
+
+[application]
+
+config/name="Math Cat"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+
+[audio]
+
+default_bus_layout="res://audio/default_bus_layout.tres"
+
+[autoload]
+
+ProfileManager="*res://autoload/profile_manager.gd"
+ProgressionManager="*res://autoload/progression_manager.gd"
+BlitzLeaderboard="*res://autoload/blitz_leaderboard.gd"
+BlitzDuelLeaderboard="*res://autoload/blitz_duel_leaderboard.gd"
+GameManager="*res://autoload/game_manager.gd"
+AudioManager="*res://autoload/audio_manager.gd"
+AchievementManager="*res://autoload/achievement_manager.gd"
+DebugMenu="*res://autoload/debug_menu.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

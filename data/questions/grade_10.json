@@ -1,0 +1,7982 @@
+[
+  {
+    "choices": [
+      "2",
+      "5",
+      "4",
+      "7"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2x + 3 = 7",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "3",
+      "9",
+      "13"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3x + 4 = 13",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "16",
+      "4",
+      "21"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 5 = 21",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "25",
+      "31",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 6 = 31",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "13",
+      "36",
+      "43"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 7 = 43",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "7",
+      "14",
+      "22"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x + 8 = 22",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "24",
+      "8",
+      "33"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 3x + 9 = 33",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "36",
+      "46",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x + 10 = 46",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "21",
+      "50",
+      "61"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 5x + 11 = 61",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "11",
+      "66",
+      "78"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 6x + 12 = 78",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "24",
+      "12",
+      "37"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2x + 13 = 37",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "39",
+      "53",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3x + 14 = 53",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "29",
+      "56",
+      "71"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 15 = 71",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "15",
+      "75",
+      "91"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 16 = 91",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "96",
+      "16",
+      "113"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 17 = 113",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "34",
+      "52",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x + 18 = 52",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "37",
+      "54",
+      "73"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 3x + 19 = 73",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "19",
+      "76",
+      "96"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x + 20 = 96",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "100",
+      "20",
+      "121"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 5x + 21 = 121",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "126",
+      "148",
+      "21"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 6x + 22 = 148",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "45",
+      "44",
+      "67"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2x + 23 = 67",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "23",
+      "69",
+      "93"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3x + 24 = 93",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "96",
+      "24",
+      "121"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 25 = 121",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "125",
+      "151",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 26 = 151",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "53",
+      "156",
+      "183"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 27 = 183",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "55",
+      "27",
+      "54",
+      "82"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x + 28 = 82",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "84",
+      "28",
+      "113"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 3x + 29 = 113",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "59",
+      "116",
+      "146",
+      "29"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x + 30 = 146",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "61",
+      "150",
+      "181"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 5x + 31 = 181",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "31",
+      "186",
+      "218"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 6x + 32 = 218",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65",
+      "64",
+      "32",
+      "97"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2x + 33 = 97",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "67",
+      "99",
+      "133",
+      "33"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3x + 34 = 133",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "69",
+      "136",
+      "171"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 35 = 171",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "71",
+      "35",
+      "175",
+      "211"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 36 = 211",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "73",
+      "216",
+      "36",
+      "253"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 37 = 253",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "75",
+      "74",
+      "112",
+      "37"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x + 38 = 112",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "77",
+      "114",
+      "153"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 3x + 39 = 153",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "79",
+      "39",
+      "156",
+      "196"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x + 40 = 196",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "81",
+      "200",
+      "40",
+      "241"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 5x + 41 = 241",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "83",
+      "246",
+      "288",
+      "41"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 6x + 42 = 288",
+    "topic": "Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "-1"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 1) - 3 = 7",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "9",
+      "-1"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 2) - 4 = 20",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "16",
+      "4",
+      "-1"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 3) - 5 = 39",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "25",
+      "-1",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 4) - 6 = 64",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "11",
+      "12",
+      "-1"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 5) - 7 = 27",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "7",
+      "21",
+      "-1"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 6) - 8 = 52",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "32",
+      "8",
+      "-1"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 7) - 9 = 83",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "45",
+      "6",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 8) - 3 = 127",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "19",
+      "20",
+      "6"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 9) - 4 = 54",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "11",
+      "33",
+      "6"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 10) - 5 = 91",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "48",
+      "12",
+      "6"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 11) - 6 = 134",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "65",
+      "6",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 12) - 7 = 183",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "27",
+      "28",
+      "6"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 13) - 8 = 74",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "15",
+      "45",
+      "6"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 14) - 9 = 123",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "64",
+      "16",
+      "13"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 15) - 3 = 185",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "85",
+      "13",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 16) - 4 = 246",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "35",
+      "36",
+      "13"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 17) - 5 = 101",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37",
+      "19",
+      "57",
+      "13"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 18) - 6 = 162",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "80",
+      "20",
+      "13"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 19) - 7 = 229",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "105",
+      "13",
+      "21"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 20) - 8 = 302",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "43",
+      "44",
+      "13"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 21) - 9 = 121",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45",
+      "23",
+      "69",
+      "20"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 22) - 3 = 201",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "96",
+      "24",
+      "20"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 23) - 4 = 280",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "125",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 24) - 5 = 365",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "51",
+      "52",
+      "20"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 25) - 6 = 148",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "53",
+      "27",
+      "81",
+      "20"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 26) - 7 = 233",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "55",
+      "112",
+      "28",
+      "20"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 27) - 8 = 324",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "145",
+      "20",
+      "29"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 28) - 9 = 421",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "59",
+      "60",
+      "27"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 29) - 3 = 175",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61",
+      "31",
+      "93",
+      "27"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 30) - 4 = 272",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "128",
+      "32",
+      "27"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 31) - 5 = 375",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65",
+      "165",
+      "27",
+      "33"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 32) - 6 = 484",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "67",
+      "68",
+      "27"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 33) - 7 = 195",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "69",
+      "35",
+      "105",
+      "27"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 34) - 8 = 304",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "71",
+      "144",
+      "36",
+      "27"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 35) - 9 = 419",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "73",
+      "185",
+      "34",
+      "37"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 36) - 3 = 547",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "75",
+      "76",
+      "34"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 2(2x + 37) - 4 = 222",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "77",
+      "39",
+      "117",
+      "34"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 3(2x + 38) - 5 = 343",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "79",
+      "160",
+      "40",
+      "34"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4(2x + 39) - 6 = 470",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "81",
+      "205",
+      "34",
+      "41"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5(2x + 40) - 7 = 603",
+    "topic": "Multi-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "8",
+      "-2",
+      "12"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 5 = 1x + 14",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "4",
+      "-2",
+      "20"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 6 = 2x + 18",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "-2",
+      "5",
+      "30"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 7 = 3x + 22",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "-2",
+      "42",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 8 = 1x + 44",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "16",
+      "-2",
+      "28"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 9 = 2x + 23",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "8",
+      "-2",
+      "40"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 10 = 3x + 26",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "-2",
+      "9",
+      "54"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 11 = 1x + 56",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "-2",
+      "70",
+      "10"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 12 = 2x + 62",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "24",
+      "-2",
+      "44"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 13 = 3x + 24",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "12",
+      "-2",
+      "60"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 14 = 1x + 62",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "-2",
+      "13",
+      "78"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 15 = 2x + 67",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "-2",
+      "98",
+      "14"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 16 = 3x + 72",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "32",
+      "-2",
+      "60"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 17 = 1x + 62",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "16",
+      "-2",
+      "80"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 18 = 2x + 66",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "-2",
+      "17",
+      "102"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 19 = 3x + 70",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "-2",
+      "126",
+      "18"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 20 = 1x + 128",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "40",
+      "-2",
+      "76"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 21 = 2x + 59",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "20",
+      "-2",
+      "100"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 22 = 3x + 62",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44",
+      "-2",
+      "21",
+      "126"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 23 = 1x + 128",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46",
+      "-2",
+      "154",
+      "22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 24 = 2x + 134",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "48",
+      "-2",
+      "92"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 25 = 3x + 48",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "24",
+      "-2",
+      "120"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 26 = 1x + 122",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "52",
+      "-2",
+      "25",
+      "150"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 27 = 2x + 127",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54",
+      "-2",
+      "182",
+      "26"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 28 = 3x + 132",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "56",
+      "-2",
+      "108"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 29 = 1x + 110",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "58",
+      "28",
+      "-2",
+      "140"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 30 = 2x + 114",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "60",
+      "-2",
+      "29",
+      "174"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 6x + 31 = 3x + 118",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "62",
+      "-2",
+      "210",
+      "30"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 7x + 32 = 1x + 212",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "64",
+      "-2",
+      "124"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: 4x + 33 = 2x + 95",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "66",
+      "32",
+      "-2",
+      "160"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 5x + 34 = 3x + 98",
+    "topic": "Variables on Both Sides",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, -7)",
+      "(2, -9)",
+      "(2, -8)",
+      "(1, -10)"
+    ],
+    "correctAnswer": "(2, -8)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 2x + -12, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = -11x + 3",
+      "y = -3x + -11",
+      "y = 3x - -11",
+      "y = 3x + -11"
+    ],
+    "correctAnswer": "y = 3x + -11",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 3 and y-intercept -11. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, -2)",
+      "(2, -1)",
+      "(2, -3)",
+      "(1, -6)"
+    ],
+    "correctAnswer": "(2, -2)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 4x + -10, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = -9x + 5",
+      "y = 5x + -9",
+      "y = -5x + -9",
+      "y = 5x - -9"
+    ],
+    "correctAnswer": "y = 5x + -9",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 5 and y-intercept -9. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 5)",
+      "(2, 3)",
+      "(2, 4)",
+      "(1, -2)"
+    ],
+    "correctAnswer": "(2, 4)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 6x + -8, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = -7x + 2",
+      "y = -2x + -7",
+      "y = 2x - -7",
+      "y = 2x + -7"
+    ],
+    "correctAnswer": "y = 2x + -7",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 2 and y-intercept -7. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 0)",
+      "(2, 1)",
+      "(2, -1)",
+      "(1, -3)"
+    ],
+    "correctAnswer": "(2, 0)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 3x + -6, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = -5x + 4",
+      "y = 4x + -5",
+      "y = -4x + -5",
+      "y = 4x - -5"
+    ],
+    "correctAnswer": "y = 4x + -5",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 4 and y-intercept -5. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 7)",
+      "(2, 5)",
+      "(2, 6)",
+      "(1, 1)"
+    ],
+    "correctAnswer": "(2, 6)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 5x + -4, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = -3x + 6",
+      "y = -6x + -3",
+      "y = 6x - -3",
+      "y = 6x + -3"
+    ],
+    "correctAnswer": "y = 6x + -3",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 6 and y-intercept -3. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 2)",
+      "(2, 3)",
+      "(2, 1)",
+      "(1, 0)"
+    ],
+    "correctAnswer": "(2, 2)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 2x + -2, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = -1x + 3",
+      "y = 3x + -1",
+      "y = -3x + -1",
+      "y = 3x - -1"
+    ],
+    "correctAnswer": "y = 3x + -1",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 3 and y-intercept -1. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 9)",
+      "(2, 7)",
+      "(2, 8)",
+      "(1, 4)"
+    ],
+    "correctAnswer": "(2, 8)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 4x + 0, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 1x + 5",
+      "y = -5x + 1",
+      "y = 5x - 1",
+      "y = 5x + 1"
+    ],
+    "correctAnswer": "y = 5x + 1",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 5 and y-intercept 1. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 14)",
+      "(2, 15)",
+      "(2, 13)",
+      "(1, 8)"
+    ],
+    "correctAnswer": "(2, 14)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 6x + 2, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + 2",
+      "y = 2x + 3",
+      "y = -2x + 3",
+      "y = 2x - 3"
+    ],
+    "correctAnswer": "y = 2x + 3",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 2 and y-intercept 3. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 11)",
+      "(2, 9)",
+      "(2, 10)",
+      "(1, 7)"
+    ],
+    "correctAnswer": "(2, 10)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 3x + 4, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + 4",
+      "y = -4x + 5",
+      "y = 4x - 5",
+      "y = 4x + 5"
+    ],
+    "correctAnswer": "y = 4x + 5",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 4 and y-intercept 5. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 16)",
+      "(2, 17)",
+      "(2, 15)",
+      "(1, 11)"
+    ],
+    "correctAnswer": "(2, 16)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 5x + 6, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 7x + 6",
+      "y = 6x + 7",
+      "y = -6x + 7",
+      "y = 6x - 7"
+    ],
+    "correctAnswer": "y = 6x + 7",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 6 and y-intercept 7. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 13)",
+      "(2, 11)",
+      "(2, 12)",
+      "(1, 10)"
+    ],
+    "correctAnswer": "(2, 12)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 2x + 8, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 9x + 3",
+      "y = -3x + 9",
+      "y = 3x - 9",
+      "y = 3x + 9"
+    ],
+    "correctAnswer": "y = 3x + 9",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 3 and y-intercept 9. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 18)",
+      "(2, 19)",
+      "(2, 17)",
+      "(1, 14)"
+    ],
+    "correctAnswer": "(2, 18)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 4x + 10, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 11x + 5",
+      "y = 5x + 11",
+      "y = -5x + 11",
+      "y = 5x - 11"
+    ],
+    "correctAnswer": "y = 5x + 11",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 5 and y-intercept 11. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 25)",
+      "(2, 23)",
+      "(2, 24)",
+      "(1, 18)"
+    ],
+    "correctAnswer": "(2, 24)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 6x + 12, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 13x + 2",
+      "y = -2x + 13",
+      "y = 2x - 13",
+      "y = 2x + 13"
+    ],
+    "correctAnswer": "y = 2x + 13",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 2 and y-intercept 13. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 20)",
+      "(2, 21)",
+      "(2, 19)",
+      "(1, 17)"
+    ],
+    "correctAnswer": "(2, 20)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 3x + 14, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 15x + 4",
+      "y = 4x + 15",
+      "y = -4x + 15",
+      "y = 4x - 15"
+    ],
+    "correctAnswer": "y = 4x + 15",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 4 and y-intercept 15. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 27)",
+      "(2, 25)",
+      "(2, 26)",
+      "(1, 21)"
+    ],
+    "correctAnswer": "(2, 26)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 5x + 16, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 17x + 6",
+      "y = -6x + 17",
+      "y = 6x - 17",
+      "y = 6x + 17"
+    ],
+    "correctAnswer": "y = 6x + 17",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 6 and y-intercept 17. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 22)",
+      "(2, 23)",
+      "(2, 21)",
+      "(1, 20)"
+    ],
+    "correctAnswer": "(2, 22)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 2x + 18, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 19x + 3",
+      "y = 3x + 19",
+      "y = -3x + 19",
+      "y = 3x - 19"
+    ],
+    "correctAnswer": "y = 3x + 19",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 3 and y-intercept 19. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 29)",
+      "(2, 27)",
+      "(2, 28)",
+      "(1, 24)"
+    ],
+    "correctAnswer": "(2, 28)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 4x + 20, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 21x + 5",
+      "y = -5x + 21",
+      "y = 5x - 21",
+      "y = 5x + 21"
+    ],
+    "correctAnswer": "y = 5x + 21",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A line has slope 5 and y-intercept 21. Which equation represents it?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 34)",
+      "(2, 35)",
+      "(2, 33)",
+      "(1, 28)"
+    ],
+    "correctAnswer": "(2, 34)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "For y = 6x + 22, which point is on the line?",
+    "topic": "Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + -10",
+      "y = 2x + -10",
+      "y = -2x + -10",
+      "y = 2x + -9"
+    ],
+    "correctAnswer": "y = 2x + -10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept -10.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-5",
+      "-13",
+      "-9",
+      "-8"
+    ],
+    "correctAnswer": "-9",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = -18?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + -8",
+      "y = -4x + -8",
+      "y = 4x + -7",
+      "y = 4x + -8"
+    ],
+    "correctAnswer": "y = 4x + -8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept -8.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-7",
+      "-1",
+      "-13",
+      "-6"
+    ],
+    "correctAnswer": "-7",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = -14?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + -6",
+      "y = 2x + -6",
+      "y = -2x + -6",
+      "y = 2x + -5"
+    ],
+    "correctAnswer": "y = 2x + -6",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept -6.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "-9",
+      "-5",
+      "-4"
+    ],
+    "correctAnswer": "-5",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = -10?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + -4",
+      "y = -4x + -4",
+      "y = 4x + -3",
+      "y = 4x + -4"
+    ],
+    "correctAnswer": "y = 4x + -4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept -4.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "3",
+      "-9",
+      "-2"
+    ],
+    "correctAnswer": "-3",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = -6?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + -2",
+      "y = 2x + -2",
+      "y = -2x + -2",
+      "y = 2x + -1"
+    ],
+    "correctAnswer": "y = 2x + -2",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept -2.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "-5",
+      "-1",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = -2?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + 0",
+      "y = -4x + 0",
+      "y = 4x + 1",
+      "y = 4x + 0"
+    ],
+    "correctAnswer": "y = 4x + 0",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept 0.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "7",
+      "-5",
+      "2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = 2?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + 2",
+      "y = 2x + 2",
+      "y = -2x + 2",
+      "y = 2x + 3"
+    ],
+    "correctAnswer": "y = 2x + 2",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept 2.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "-1",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = 6?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + 4",
+      "y = -4x + 4",
+      "y = 4x + 5",
+      "y = 4x + 4"
+    ],
+    "correctAnswer": "y = 4x + 4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept 4.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "11",
+      "-1",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = 10?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + 6",
+      "y = 2x + 6",
+      "y = -2x + 6",
+      "y = 2x + 7"
+    ],
+    "correctAnswer": "y = 2x + 6",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept 6.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "3",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = 14?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + 8",
+      "y = -4x + 8",
+      "y = 4x + 9",
+      "y = 4x + 8"
+    ],
+    "correctAnswer": "y = 4x + 8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept 8.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "15",
+      "3",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = 18?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + 10",
+      "y = 2x + 10",
+      "y = -2x + 10",
+      "y = 2x + 11"
+    ],
+    "correctAnswer": "y = 2x + 10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept 10.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "7",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = 22?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + 12",
+      "y = -4x + 12",
+      "y = 4x + 13",
+      "y = 4x + 12"
+    ],
+    "correctAnswer": "y = 4x + 12",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept 12.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "19",
+      "7",
+      "14"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = 26?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + 14",
+      "y = 2x + 14",
+      "y = -2x + 14",
+      "y = 2x + 15"
+    ],
+    "correctAnswer": "y = 2x + 14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept 14.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "11",
+      "15",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = 30?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5x + 16",
+      "y = -4x + 16",
+      "y = 4x + 17",
+      "y = 4x + 16"
+    ],
+    "correctAnswer": "y = 4x + 16",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 4 and y-intercept 16.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "23",
+      "11",
+      "18"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 10x = 34?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3x + 18",
+      "y = 2x + 18",
+      "y = -2x + 18",
+      "y = 2x + 19"
+    ],
+    "correctAnswer": "y = 2x + 18",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Write a line with slope 2 and y-intercept 18.",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "15",
+      "19",
+      "20"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the y-intercept of 2y - 6x = 38?",
+    "topic": "Slope-Intercept Form",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 6 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "8",
+      "2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 11 and x + y = 8. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "4",
+      "2",
+      "10"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 10 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "12",
+      "5",
+      "-2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 12 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "14",
+      "2",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve 2x + y = 20 and x + y = 14. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "9",
+      "2",
+      "16"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 16 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "8",
+      "18",
+      "-2"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 18 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "20",
+      "11",
+      "2"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 29 and x + y = 20. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "2",
+      "22",
+      "10"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 22 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "13",
+      "24",
+      "-2"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 24 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "14",
+      "26",
+      "2"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve 2x + y = 38 and x + y = 26. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "2",
+      "13",
+      "28"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 28 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "30",
+      "-2",
+      "14"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 30 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "15",
+      "32",
+      "2"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 47 and x + y = 32. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "16",
+      "2",
+      "34"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 34 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "36",
+      "17",
+      "-2"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 36 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "38",
+      "2",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve 2x + y = 56 and x + y = 38. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "21",
+      "2",
+      "40"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 40 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "20",
+      "42",
+      "-2"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 42 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "44",
+      "23",
+      "2"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 65 and x + y = 44. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "2",
+      "46",
+      "22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 46 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "48",
+      "-2"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 48 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "26",
+      "50",
+      "2"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve 2x + y = 74 and x + y = 50. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "2",
+      "25",
+      "52"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 52 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "54",
+      "-2",
+      "26"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 54 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "27",
+      "56",
+      "2"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 83 and x + y = 56. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "28",
+      "2",
+      "58"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 58 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "60",
+      "29",
+      "-2"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 60 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "62",
+      "2",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve 2x + y = 92 and x + y = 62. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "2",
+      "64"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 64 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "32",
+      "66",
+      "-2"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 66 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "68",
+      "35",
+      "2"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 101 and x + y = 68. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "2",
+      "70",
+      "34"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 70 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "37",
+      "72",
+      "-2"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 72 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "38",
+      "74",
+      "2"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve 2x + y = 110 and x + y = 74. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "2",
+      "37",
+      "76"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 76 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "78",
+      "-2",
+      "38"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve x + y = 78 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "39",
+      "80",
+      "2"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve 2x + y = 119 and x + y = 80. Find y.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "40",
+      "2",
+      "82"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Lines y = x + 2 and y = -x + 82 intersect at what x-value?",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "84",
+      "41",
+      "-2"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve x + y = 84 and x - y = -2. Find x.",
+    "topic": "Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 3",
+      "x <= 6",
+      "x <= 1",
+      "x <= 3"
+    ],
+    "correctAnswer": "x <= 3",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 2 <= 4",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 4",
+      "x > 4",
+      "x < 12",
+      "x > -4"
+    ],
+    "correctAnswer": "x < 4",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -12",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 5",
+      "x <= 5",
+      "x <= 20",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 5",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 4 <= 16",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 6",
+      "x < 30",
+      "x < 6",
+      "x > -6"
+    ],
+    "correctAnswer": "x < 6",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -30",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 7",
+      "x <= 14",
+      "x <= 1",
+      "x <= 7"
+    ],
+    "correctAnswer": "x <= 7",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 6 <= 8",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 8",
+      "x > 8",
+      "x < 24",
+      "x > -8"
+    ],
+    "correctAnswer": "x < 8",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -24",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 9",
+      "x <= 9",
+      "x <= 36",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 9",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 8 <= 28",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 10",
+      "x < 50",
+      "x < 10",
+      "x > -10"
+    ],
+    "correctAnswer": "x < 10",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -50",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 11",
+      "x <= 22",
+      "x <= 1",
+      "x <= 11"
+    ],
+    "correctAnswer": "x <= 11",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 10 <= 12",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 12",
+      "x > 12",
+      "x < 36",
+      "x > -12"
+    ],
+    "correctAnswer": "x < 12",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -36",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 13",
+      "x <= 13",
+      "x <= 52",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 13",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 12 <= 40",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 14",
+      "x < 70",
+      "x < 14",
+      "x > -14"
+    ],
+    "correctAnswer": "x < 14",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -70",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 15",
+      "x <= 30",
+      "x <= 1",
+      "x <= 15"
+    ],
+    "correctAnswer": "x <= 15",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 14 <= 16",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 16",
+      "x > 16",
+      "x < 48",
+      "x > -16"
+    ],
+    "correctAnswer": "x < 16",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -48",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 17",
+      "x <= 17",
+      "x <= 68",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 17",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 16 <= 52",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 18",
+      "x < 90",
+      "x < 18",
+      "x > -18"
+    ],
+    "correctAnswer": "x < 18",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -90",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 19",
+      "x <= 38",
+      "x <= 1",
+      "x <= 19"
+    ],
+    "correctAnswer": "x <= 19",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 18 <= 20",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 20",
+      "x > 20",
+      "x < 60",
+      "x > -20"
+    ],
+    "correctAnswer": "x < 20",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -60",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 21",
+      "x <= 21",
+      "x <= 84",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 21",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 20 <= 64",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 22",
+      "x < 110",
+      "x < 22",
+      "x > -22"
+    ],
+    "correctAnswer": "x < 22",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -110",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 23",
+      "x <= 46",
+      "x <= 1",
+      "x <= 23"
+    ],
+    "correctAnswer": "x <= 23",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 22 <= 24",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 24",
+      "x > 24",
+      "x < 72",
+      "x > -24"
+    ],
+    "correctAnswer": "x < 24",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -72",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 25",
+      "x <= 25",
+      "x <= 100",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 25",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 24 <= 76",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 26",
+      "x < 130",
+      "x < 26",
+      "x > -26"
+    ],
+    "correctAnswer": "x < 26",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -130",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 27",
+      "x <= 54",
+      "x <= 1",
+      "x <= 27"
+    ],
+    "correctAnswer": "x <= 27",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 26 <= 28",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 28",
+      "x > 28",
+      "x < 84",
+      "x > -28"
+    ],
+    "correctAnswer": "x < 28",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -84",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 29",
+      "x <= 29",
+      "x <= 116",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 29",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 28 <= 88",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 30",
+      "x < 150",
+      "x < 30",
+      "x > -30"
+    ],
+    "correctAnswer": "x < 30",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -150",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 31",
+      "x <= 62",
+      "x <= 1",
+      "x <= 31"
+    ],
+    "correctAnswer": "x <= 31",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 30 <= 32",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 32",
+      "x > 32",
+      "x < 96",
+      "x > -32"
+    ],
+    "correctAnswer": "x < 32",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -96",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 33",
+      "x <= 33",
+      "x <= 132",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 33",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 32 <= 100",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 34",
+      "x < 170",
+      "x < 34",
+      "x > -34"
+    ],
+    "correctAnswer": "x < 34",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -5x > -170",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 35",
+      "x <= 70",
+      "x <= 1",
+      "x <= 35"
+    ],
+    "correctAnswer": "x <= 35",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 2x - 34 <= 36",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 36",
+      "x > 36",
+      "x < 108",
+      "x > -36"
+    ],
+    "correctAnswer": "x < 36",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: -3x > -108",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x >= 37",
+      "x <= 37",
+      "x <= 148",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 37",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Solve: 4x - 36 <= 112",
+    "topic": "Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "-1",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 1)(x - 3) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-4",
+      "6",
+      "8",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 6x + 8 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "-3",
+      "8"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 3)(x - 5) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-6",
+      "6",
+      "10",
+      "24"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 10x + 24 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "-5",
+      "5",
+      "12"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 5)(x - 7) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-8",
+      "14",
+      "48",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 14x + 48 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "9",
+      "-7",
+      "16"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 7)(x - 9) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-10",
+      "10",
+      "18",
+      "80"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 18x + 80 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "-9",
+      "9",
+      "20"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 9)(x - 11) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-12",
+      "22",
+      "120",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 22x + 120 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "13",
+      "-11",
+      "24"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 11)(x - 13) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-14",
+      "14",
+      "26",
+      "168"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 26x + 168 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "-13",
+      "13",
+      "28"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 13)(x - 15) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-16",
+      "30",
+      "224",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 30x + 224 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "-15",
+      "32"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 15)(x - 17) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-18",
+      "18",
+      "34",
+      "288"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 34x + 288 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "-17",
+      "17",
+      "36"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 17)(x - 19) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-20",
+      "38",
+      "360",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 38x + 360 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "21",
+      "-19",
+      "40"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 19)(x - 21) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-22",
+      "22",
+      "42",
+      "440"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 42x + 440 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "-21",
+      "21",
+      "44"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 21)(x - 23) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-24",
+      "46",
+      "528",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 46x + 528 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "-23",
+      "48"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 23)(x - 25) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-26",
+      "26",
+      "50",
+      "624"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 50x + 624 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "-25",
+      "25",
+      "52"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 25)(x - 27) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-28",
+      "54",
+      "728",
+      "28"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 54x + 728 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "29",
+      "-27",
+      "56"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 27)(x - 29) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-30",
+      "30",
+      "58",
+      "840"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 58x + 840 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "-29",
+      "29",
+      "60"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 29)(x - 31) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-32",
+      "62",
+      "960",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 62x + 960 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "-31",
+      "64"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 31)(x - 33) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-34",
+      "34",
+      "66",
+      "1088"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 66x + 1088 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "-33",
+      "33",
+      "68"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 33)(x - 35) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-36",
+      "70",
+      "1224",
+      "36"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 70x + 1224 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "37",
+      "-35",
+      "72"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 35)(x - 37) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-38",
+      "38",
+      "74",
+      "1368"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 74x + 1368 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "-37",
+      "37",
+      "76"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 37)(x - 39) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-40",
+      "78",
+      "1520",
+      "40"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 78x + 1520 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "41",
+      "-39",
+      "80"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 39)(x - 41) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-42",
+      "42",
+      "82",
+      "1680"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 82x + 1680 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "-41",
+      "41",
+      "84"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 41)(x - 43) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-44",
+      "86",
+      "1848",
+      "44"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 86x + 1848 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "45",
+      "-43",
+      "88"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 43)(x - 45) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-46",
+      "46",
+      "90",
+      "2024"
+    ],
+    "correctAnswer": "46",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 90x + 2024 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "-45",
+      "45",
+      "92"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 45)(x - 47) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-48",
+      "94",
+      "2208",
+      "48"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 94x + 2208 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "49",
+      "-47",
+      "96"
+    ],
+    "correctAnswer": "47",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 47)(x - 49) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-50",
+      "50",
+      "98",
+      "2400"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 98x + 2400 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "-49",
+      "49",
+      "100"
+    ],
+    "correctAnswer": "49",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Solve: (x - 49)(x - 51) = 0. What is the smaller root?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-52",
+      "102",
+      "2600",
+      "52"
+    ],
+    "correctAnswer": "52",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Which value is a root of x² - 102x + 2600 = 0?",
+    "topic": "Solving Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-15, 2)",
+      "(--15, 2)",
+      "(-15, -2)",
+      "(2, -15)"
+    ],
+    "correctAnswer": "(-15, 2)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -15)² + 2?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 3",
+      "x = -14",
+      "x = 3",
+      "x = --14"
+    ],
+    "correctAnswer": "x = -14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -14)² + 3?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(--13, 4)",
+      "(-13, -4)",
+      "(-13, 4)",
+      "(4, -13)"
+    ],
+    "correctAnswer": "(-13, 4)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -13)² + 4?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 5",
+      "x = 5",
+      "x = --12",
+      "x = -12"
+    ],
+    "correctAnswer": "x = -12",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -12)² + 5?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-11, 6)",
+      "(--11, 6)",
+      "(-11, -6)",
+      "(6, -11)"
+    ],
+    "correctAnswer": "(-11, 6)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -11)² + 6?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 7",
+      "x = -10",
+      "x = 7",
+      "x = --10"
+    ],
+    "correctAnswer": "x = -10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -10)² + 7?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(--9, 8)",
+      "(-9, -8)",
+      "(-9, 8)",
+      "(8, -9)"
+    ],
+    "correctAnswer": "(-9, 8)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -9)² + 8?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 9",
+      "x = 9",
+      "x = --8",
+      "x = -8"
+    ],
+    "correctAnswer": "x = -8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -8)² + 9?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-7, 10)",
+      "(--7, 10)",
+      "(-7, -10)",
+      "(10, -7)"
+    ],
+    "correctAnswer": "(-7, 10)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -7)² + 10?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 11",
+      "x = -6",
+      "x = 11",
+      "x = --6"
+    ],
+    "correctAnswer": "x = -6",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -6)² + 11?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(--5, 12)",
+      "(-5, -12)",
+      "(-5, 12)",
+      "(12, -5)"
+    ],
+    "correctAnswer": "(-5, 12)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -5)² + 12?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 13",
+      "x = 13",
+      "x = --4",
+      "x = -4"
+    ],
+    "correctAnswer": "x = -4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -4)² + 13?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-3, 14)",
+      "(--3, 14)",
+      "(-3, -14)",
+      "(14, -3)"
+    ],
+    "correctAnswer": "(-3, 14)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -3)² + 14?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 15",
+      "x = -2",
+      "x = 15",
+      "x = --2"
+    ],
+    "correctAnswer": "x = -2",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - -2)² + 15?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(--1, 16)",
+      "(-1, -16)",
+      "(-1, 16)",
+      "(16, -1)"
+    ],
+    "correctAnswer": "(-1, 16)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - -1)² + 16?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 17",
+      "x = 17",
+      "x = -0",
+      "x = 0"
+    ],
+    "correctAnswer": "x = 0",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 0)² + 17?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(1, 18)",
+      "(-1, 18)",
+      "(1, -18)",
+      "(18, 1)"
+    ],
+    "correctAnswer": "(1, 18)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 1)² + 18?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 19",
+      "x = 2",
+      "x = 19",
+      "x = -2"
+    ],
+    "correctAnswer": "x = 2",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 2)² + 19?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-3, 20)",
+      "(3, -20)",
+      "(3, 20)",
+      "(20, 3)"
+    ],
+    "correctAnswer": "(3, 20)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 3)² + 20?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 21",
+      "x = 21",
+      "x = -4",
+      "x = 4"
+    ],
+    "correctAnswer": "x = 4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 4)² + 21?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(5, 22)",
+      "(-5, 22)",
+      "(5, -22)",
+      "(22, 5)"
+    ],
+    "correctAnswer": "(5, 22)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 5)² + 22?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 23",
+      "x = 6",
+      "x = 23",
+      "x = -6"
+    ],
+    "correctAnswer": "x = 6",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 6)² + 23?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-7, 24)",
+      "(7, -24)",
+      "(7, 24)",
+      "(24, 7)"
+    ],
+    "correctAnswer": "(7, 24)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 7)² + 24?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 25",
+      "x = 25",
+      "x = -8",
+      "x = 8"
+    ],
+    "correctAnswer": "x = 8",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 8)² + 25?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(9, 26)",
+      "(-9, 26)",
+      "(9, -26)",
+      "(26, 9)"
+    ],
+    "correctAnswer": "(9, 26)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 9)² + 26?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 27",
+      "x = 10",
+      "x = 27",
+      "x = -10"
+    ],
+    "correctAnswer": "x = 10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 10)² + 27?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-11, 28)",
+      "(11, -28)",
+      "(11, 28)",
+      "(28, 11)"
+    ],
+    "correctAnswer": "(11, 28)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 11)² + 28?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 29",
+      "x = 29",
+      "x = -12",
+      "x = 12"
+    ],
+    "correctAnswer": "x = 12",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 12)² + 29?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(13, 30)",
+      "(-13, 30)",
+      "(13, -30)",
+      "(30, 13)"
+    ],
+    "correctAnswer": "(13, 30)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 13)² + 30?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 31",
+      "x = 14",
+      "x = 31",
+      "x = -14"
+    ],
+    "correctAnswer": "x = 14",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 14)² + 31?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-15, 32)",
+      "(15, -32)",
+      "(15, 32)",
+      "(32, 15)"
+    ],
+    "correctAnswer": "(15, 32)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 15)² + 32?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 33",
+      "x = 33",
+      "x = -16",
+      "x = 16"
+    ],
+    "correctAnswer": "x = 16",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 16)² + 33?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(17, 34)",
+      "(-17, 34)",
+      "(17, -34)",
+      "(34, 17)"
+    ],
+    "correctAnswer": "(17, 34)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 17)² + 34?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 35",
+      "x = 18",
+      "x = 35",
+      "x = -18"
+    ],
+    "correctAnswer": "x = 18",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 18)² + 35?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-19, 36)",
+      "(19, -36)",
+      "(19, 36)",
+      "(36, 19)"
+    ],
+    "correctAnswer": "(19, 36)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 19)² + 36?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 37",
+      "x = 37",
+      "x = -20",
+      "x = 20"
+    ],
+    "correctAnswer": "x = 20",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 20)² + 37?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(21, 38)",
+      "(-21, 38)",
+      "(21, -38)",
+      "(38, 21)"
+    ],
+    "correctAnswer": "(21, 38)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 21)² + 38?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 39",
+      "x = 22",
+      "x = 39",
+      "x = -22"
+    ],
+    "correctAnswer": "x = 22",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 22)² + 39?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-23, 40)",
+      "(23, -40)",
+      "(23, 40)",
+      "(40, 23)"
+    ],
+    "correctAnswer": "(23, 40)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "What is the vertex of y = (x - 23)² + 40?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "y = 41",
+      "x = 41",
+      "x = -24",
+      "x = 24"
+    ],
+    "correctAnswer": "x = 24",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "What is the axis of symmetry of y = (x - 24)² + 41?",
+    "topic": "Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6x² + 2x",
+      "8x² + 2x",
+      "6x² + 6x",
+      "6x²"
+    ],
+    "correctAnswer": "6x² + 2x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (2x² + 4x) + (4x² - 2x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8x² + 2x",
+      "-2x² + 8x",
+      "-2x²",
+      "8x"
+    ],
+    "correctAnswer": "-2x² + 8x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (3x² + 5x) - (5x² - 3x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 24x + 10",
+      "x² + 2x + 24",
+      "x² + 10x + 24",
+      "x² + 24"
+    ],
+    "correctAnswer": "x² + 10x + 24",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Expand: (x + 4)(x + 6)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35x² + 2x",
+      "12x² + 12x",
+      "12x²",
+      "12x² + 2x"
+    ],
+    "correctAnswer": "12x² + 2x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (5x² + 7x) + (7x² - 5x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-2x² + 14x",
+      "14x² + 2x",
+      "-2x²",
+      "14x"
+    ],
+    "correctAnswer": "-2x² + 14x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (6x² + 8x) - (8x² - 6x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 63x + 16",
+      "x² + 16x + 63",
+      "x² + 2x + 63",
+      "x² + 63"
+    ],
+    "correctAnswer": "x² + 16x + 63",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Expand: (x + 7)(x + 9)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80x² + 2x",
+      "18x² + 18x",
+      "18x² + 2x",
+      "18x²"
+    ],
+    "correctAnswer": "18x² + 2x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (8x² + 10x) + (10x² - 8x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20x² + 2x",
+      "-2x²",
+      "20x",
+      "-2x² + 20x"
+    ],
+    "correctAnswer": "-2x² + 20x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (9x² + 11x) - (11x² - 9x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 22x + 120",
+      "x² + 120x + 22",
+      "x² + 2x + 120",
+      "x² + 120"
+    ],
+    "correctAnswer": "x² + 22x + 120",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Expand: (x + 10)(x + 12)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "143x² + 2x",
+      "24x² + 2x",
+      "24x² + 24x",
+      "24x²"
+    ],
+    "correctAnswer": "24x² + 2x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (11x² + 13x) + (13x² - 11x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26x² + 2x",
+      "-2x²",
+      "-2x² + 26x",
+      "26x"
+    ],
+    "correctAnswer": "-2x² + 26x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (12x² + 14x) - (14x² - 12x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 195x + 28",
+      "x² + 2x + 195",
+      "x² + 195",
+      "x² + 28x + 195"
+    ],
+    "correctAnswer": "x² + 28x + 195",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Expand: (x + 13)(x + 15)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30x² + 2x",
+      "224x² + 2x",
+      "30x² + 30x",
+      "30x²"
+    ],
+    "correctAnswer": "30x² + 2x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (14x² + 16x) + (16x² - 14x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32x² + 2x",
+      "-2x² + 32x",
+      "-2x²",
+      "32x"
+    ],
+    "correctAnswer": "-2x² + 32x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (15x² + 17x) - (17x² - 15x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 288x + 34",
+      "x² + 2x + 288",
+      "x² + 34x + 288",
+      "x² + 288"
+    ],
+    "correctAnswer": "x² + 34x + 288",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Expand: (x + 16)(x + 18)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "323x² + 2x",
+      "36x² + 36x",
+      "36x²",
+      "36x² + 2x"
+    ],
+    "correctAnswer": "36x² + 2x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (17x² + 19x) + (19x² - 17x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-2x² + 38x",
+      "38x² + 2x",
+      "-2x²",
+      "38x"
+    ],
+    "correctAnswer": "-2x² + 38x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (18x² + 20x) - (20x² - 18x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 399x + 40",
+      "x² + 40x + 399",
+      "x² + 2x + 399",
+      "x² + 399"
+    ],
+    "correctAnswer": "x² + 40x + 399",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Expand: (x + 19)(x + 21)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "440x² + 2x",
+      "42x² + 42x",
+      "42x² + 2x",
+      "42x²"
+    ],
+    "correctAnswer": "42x² + 2x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (20x² + 22x) + (22x² - 20x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44x² + 2x",
+      "-2x²",
+      "44x",
+      "-2x² + 44x"
+    ],
+    "correctAnswer": "-2x² + 44x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (21x² + 23x) - (23x² - 21x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 46x + 528",
+      "x² + 528x + 46",
+      "x² + 2x + 528",
+      "x² + 528"
+    ],
+    "correctAnswer": "x² + 46x + 528",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Expand: (x + 22)(x + 24)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "575x² + 2x",
+      "48x² + 2x",
+      "48x² + 48x",
+      "48x²"
+    ],
+    "correctAnswer": "48x² + 2x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (23x² + 25x) + (25x² - 23x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50x² + 2x",
+      "-2x²",
+      "-2x² + 50x",
+      "50x"
+    ],
+    "correctAnswer": "-2x² + 50x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (24x² + 26x) - (26x² - 24x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 675x + 52",
+      "x² + 2x + 675",
+      "x² + 675",
+      "x² + 52x + 675"
+    ],
+    "correctAnswer": "x² + 52x + 675",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Expand: (x + 25)(x + 27)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54x² + 2x",
+      "728x² + 2x",
+      "54x² + 54x",
+      "54x²"
+    ],
+    "correctAnswer": "54x² + 2x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (26x² + 28x) + (28x² - 26x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56x² + 2x",
+      "-2x² + 56x",
+      "-2x²",
+      "56x"
+    ],
+    "correctAnswer": "-2x² + 56x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (27x² + 29x) - (29x² - 27x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 840x + 58",
+      "x² + 2x + 840",
+      "x² + 58x + 840",
+      "x² + 840"
+    ],
+    "correctAnswer": "x² + 58x + 840",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Expand: (x + 28)(x + 30)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "899x² + 2x",
+      "60x² + 60x",
+      "60x²",
+      "60x² + 2x"
+    ],
+    "correctAnswer": "60x² + 2x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (29x² + 31x) + (31x² - 29x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-2x² + 62x",
+      "62x² + 2x",
+      "-2x²",
+      "62x"
+    ],
+    "correctAnswer": "-2x² + 62x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (30x² + 32x) - (32x² - 30x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 1023x + 64",
+      "x² + 64x + 1023",
+      "x² + 2x + 1023",
+      "x² + 1023"
+    ],
+    "correctAnswer": "x² + 64x + 1023",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Expand: (x + 31)(x + 33)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1088x² + 2x",
+      "66x² + 66x",
+      "66x² + 2x",
+      "66x²"
+    ],
+    "correctAnswer": "66x² + 2x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (32x² + 34x) + (34x² - 32x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "68x² + 2x",
+      "-2x²",
+      "68x",
+      "-2x² + 68x"
+    ],
+    "correctAnswer": "-2x² + 68x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (33x² + 35x) - (35x² - 33x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x² + 70x + 1224",
+      "x² + 1224x + 70",
+      "x² + 2x + 1224",
+      "x² + 1224"
+    ],
+    "correctAnswer": "x² + 70x + 1224",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Expand: (x + 34)(x + 36)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1295x² + 2x",
+      "72x² + 2x",
+      "72x² + 72x",
+      "72x²"
+    ],
+    "correctAnswer": "72x² + 2x",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Simplify: (35x² + 37x) + (37x² - 35x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "74x² + 2x",
+      "-2x²",
+      "-2x² + 74x",
+      "74x"
+    ],
+    "correctAnswer": "-2x² + 74x",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Simplify: (36x² + 38x) - (38x² - 36x)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 2)(x - 5)",
+      "(x + 2)(x - 5)",
+      "(x + 7)²",
+      "(x + 2)(x + 5)"
+    ],
+    "correctAnswer": "(x + 2)(x + 5)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 7x + 10",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3(x + 6)",
+      "6(x + 3)",
+      "x(3 + 6)",
+      "3(x - 6)"
+    ],
+    "correctAnswer": "3(x + 6)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 3x + 18",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 4)(x - 7)",
+      "(x + 4)(x + 7)",
+      "(x + 4)(x - 7)",
+      "(x + 11)²"
+    ],
+    "correctAnswer": "(x + 4)(x + 7)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 11x + 28",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8(x + 5)",
+      "x(5 + 8)",
+      "5(x + 8)",
+      "5(x - 8)"
+    ],
+    "correctAnswer": "5(x + 8)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 5x + 40",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 6)(x - 9)",
+      "(x + 6)(x - 9)",
+      "(x + 15)²",
+      "(x + 6)(x + 9)"
+    ],
+    "correctAnswer": "(x + 6)(x + 9)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 15x + 54",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7(x + 10)",
+      "10(x + 7)",
+      "x(7 + 10)",
+      "7(x - 10)"
+    ],
+    "correctAnswer": "7(x + 10)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 7x + 70",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 8)(x - 11)",
+      "(x + 8)(x + 11)",
+      "(x + 8)(x - 11)",
+      "(x + 19)²"
+    ],
+    "correctAnswer": "(x + 8)(x + 11)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 19x + 88",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12(x + 9)",
+      "x(9 + 12)",
+      "9(x + 12)",
+      "9(x - 12)"
+    ],
+    "correctAnswer": "9(x + 12)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 9x + 108",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 10)(x - 13)",
+      "(x + 10)(x - 13)",
+      "(x + 23)²",
+      "(x + 10)(x + 13)"
+    ],
+    "correctAnswer": "(x + 10)(x + 13)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 23x + 130",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11(x + 14)",
+      "14(x + 11)",
+      "x(11 + 14)",
+      "11(x - 14)"
+    ],
+    "correctAnswer": "11(x + 14)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 11x + 154",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 12)(x - 15)",
+      "(x + 12)(x + 15)",
+      "(x + 12)(x - 15)",
+      "(x + 27)²"
+    ],
+    "correctAnswer": "(x + 12)(x + 15)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 27x + 180",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16(x + 13)",
+      "x(13 + 16)",
+      "13(x + 16)",
+      "13(x - 16)"
+    ],
+    "correctAnswer": "13(x + 16)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 13x + 208",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 14)(x - 17)",
+      "(x + 14)(x - 17)",
+      "(x + 31)²",
+      "(x + 14)(x + 17)"
+    ],
+    "correctAnswer": "(x + 14)(x + 17)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 31x + 238",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15(x + 18)",
+      "18(x + 15)",
+      "x(15 + 18)",
+      "15(x - 18)"
+    ],
+    "correctAnswer": "15(x + 18)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 15x + 270",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 16)(x - 19)",
+      "(x + 16)(x + 19)",
+      "(x + 16)(x - 19)",
+      "(x + 35)²"
+    ],
+    "correctAnswer": "(x + 16)(x + 19)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 35x + 304",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20(x + 17)",
+      "x(17 + 20)",
+      "17(x + 20)",
+      "17(x - 20)"
+    ],
+    "correctAnswer": "17(x + 20)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 17x + 340",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 18)(x - 21)",
+      "(x + 18)(x - 21)",
+      "(x + 39)²",
+      "(x + 18)(x + 21)"
+    ],
+    "correctAnswer": "(x + 18)(x + 21)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 39x + 378",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19(x + 22)",
+      "22(x + 19)",
+      "x(19 + 22)",
+      "19(x - 22)"
+    ],
+    "correctAnswer": "19(x + 22)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 19x + 418",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 20)(x - 23)",
+      "(x + 20)(x + 23)",
+      "(x + 20)(x - 23)",
+      "(x + 43)²"
+    ],
+    "correctAnswer": "(x + 20)(x + 23)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 43x + 460",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24(x + 21)",
+      "x(21 + 24)",
+      "21(x + 24)",
+      "21(x - 24)"
+    ],
+    "correctAnswer": "21(x + 24)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 21x + 504",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 22)(x - 25)",
+      "(x + 22)(x - 25)",
+      "(x + 47)²",
+      "(x + 22)(x + 25)"
+    ],
+    "correctAnswer": "(x + 22)(x + 25)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 47x + 550",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23(x + 26)",
+      "26(x + 23)",
+      "x(23 + 26)",
+      "23(x - 26)"
+    ],
+    "correctAnswer": "23(x + 26)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 23x + 598",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 24)(x - 27)",
+      "(x + 24)(x + 27)",
+      "(x + 24)(x - 27)",
+      "(x + 51)²"
+    ],
+    "correctAnswer": "(x + 24)(x + 27)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 51x + 648",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28(x + 25)",
+      "x(25 + 28)",
+      "25(x + 28)",
+      "25(x - 28)"
+    ],
+    "correctAnswer": "25(x + 28)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 25x + 700",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 26)(x - 29)",
+      "(x + 26)(x - 29)",
+      "(x + 55)²",
+      "(x + 26)(x + 29)"
+    ],
+    "correctAnswer": "(x + 26)(x + 29)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 55x + 754",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27(x + 30)",
+      "30(x + 27)",
+      "x(27 + 30)",
+      "27(x - 30)"
+    ],
+    "correctAnswer": "27(x + 30)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 27x + 810",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 28)(x - 31)",
+      "(x + 28)(x + 31)",
+      "(x + 28)(x - 31)",
+      "(x + 59)²"
+    ],
+    "correctAnswer": "(x + 28)(x + 31)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 59x + 868",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32(x + 29)",
+      "x(29 + 32)",
+      "29(x + 32)",
+      "29(x - 32)"
+    ],
+    "correctAnswer": "29(x + 32)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 29x + 928",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 30)(x - 33)",
+      "(x + 30)(x - 33)",
+      "(x + 63)²",
+      "(x + 30)(x + 33)"
+    ],
+    "correctAnswer": "(x + 30)(x + 33)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 63x + 990",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31(x + 34)",
+      "34(x + 31)",
+      "x(31 + 34)",
+      "31(x - 34)"
+    ],
+    "correctAnswer": "31(x + 34)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 31x + 1054",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 32)(x - 35)",
+      "(x + 32)(x + 35)",
+      "(x + 32)(x - 35)",
+      "(x + 67)²"
+    ],
+    "correctAnswer": "(x + 32)(x + 35)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 67x + 1120",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36(x + 33)",
+      "x(33 + 36)",
+      "33(x + 36)",
+      "33(x - 36)"
+    ],
+    "correctAnswer": "33(x + 36)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 33x + 1188",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 34)(x - 37)",
+      "(x + 34)(x - 37)",
+      "(x + 71)²",
+      "(x + 34)(x + 37)"
+    ],
+    "correctAnswer": "(x + 34)(x + 37)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 71x + 1258",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35(x + 38)",
+      "38(x + 35)",
+      "x(35 + 38)",
+      "35(x - 38)"
+    ],
+    "correctAnswer": "35(x + 38)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 35x + 1330",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 36)(x - 39)",
+      "(x + 36)(x + 39)",
+      "(x + 36)(x - 39)",
+      "(x + 75)²"
+    ],
+    "correctAnswer": "(x + 36)(x + 39)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 75x + 1404",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40(x + 37)",
+      "x(37 + 40)",
+      "37(x + 40)",
+      "37(x - 40)"
+    ],
+    "correctAnswer": "37(x + 40)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 37x + 1480",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 38)(x - 41)",
+      "(x + 38)(x - 41)",
+      "(x + 79)²",
+      "(x + 38)(x + 41)"
+    ],
+    "correctAnswer": "(x + 38)(x + 41)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 79x + 1558",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39(x + 42)",
+      "42(x + 39)",
+      "x(39 + 42)",
+      "39(x - 42)"
+    ],
+    "correctAnswer": "39(x + 42)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 39x + 1638",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 40)(x - 43)",
+      "(x + 40)(x + 43)",
+      "(x + 40)(x - 43)",
+      "(x + 83)²"
+    ],
+    "correctAnswer": "(x + 40)(x + 43)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 83x + 1720",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44(x + 41)",
+      "x(41 + 44)",
+      "41(x + 44)",
+      "41(x - 44)"
+    ],
+    "correctAnswer": "41(x + 44)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 41x + 1804",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 42)(x - 45)",
+      "(x + 42)(x - 45)",
+      "(x + 87)²",
+      "(x + 42)(x + 45)"
+    ],
+    "correctAnswer": "(x + 42)(x + 45)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 87x + 1890",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43(x + 46)",
+      "46(x + 43)",
+      "x(43 + 46)",
+      "43(x - 46)"
+    ],
+    "correctAnswer": "43(x + 46)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 43x + 1978",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 44)(x - 47)",
+      "(x + 44)(x + 47)",
+      "(x + 44)(x - 47)",
+      "(x + 91)²"
+    ],
+    "correctAnswer": "(x + 44)(x + 47)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 91x + 2068",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48(x + 45)",
+      "x(45 + 48)",
+      "45(x + 48)",
+      "45(x - 48)"
+    ],
+    "correctAnswer": "45(x + 48)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 45x + 2160",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 46)(x - 49)",
+      "(x + 46)(x - 49)",
+      "(x + 95)²",
+      "(x + 46)(x + 49)"
+    ],
+    "correctAnswer": "(x + 46)(x + 49)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 95x + 2254",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47(x + 50)",
+      "50(x + 47)",
+      "x(47 + 50)",
+      "47(x - 50)"
+    ],
+    "correctAnswer": "47(x + 50)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 47x + 2350",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 48)(x - 51)",
+      "(x + 48)(x + 51)",
+      "(x + 48)(x - 51)",
+      "(x + 99)²"
+    ],
+    "correctAnswer": "(x + 48)(x + 51)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 99x + 2448",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "52(x + 49)",
+      "x(49 + 52)",
+      "49(x + 52)",
+      "49(x - 52)"
+    ],
+    "correctAnswer": "49(x + 52)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 49x + 2548",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 50)(x - 53)",
+      "(x + 50)(x - 53)",
+      "(x + 103)²",
+      "(x + 50)(x + 53)"
+    ],
+    "correctAnswer": "(x + 50)(x + 53)",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "Factor: x² + 103x + 2650",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51(x + 54)",
+      "54(x + 51)",
+      "x(51 + 54)",
+      "51(x - 54)"
+    ],
+    "correctAnswer": "51(x + 54)",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Factor: 51x + 2754",
+    "topic": "Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "-4",
+      "-5",
+      "-2"
+    ],
+    "correctAnswer": "-4",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 2x + -8, find f(2).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 3x + -7, find f(3).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "9",
+      "14",
+      "10"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 4x + -6, find f(4).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "21",
+      "19",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 5x + -5, find f(5).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "32",
+      "31",
+      "38"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 6x + -4, find f(6).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 2x + -3, find f(7).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 3x + -2, find f(8).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "36",
+      "34",
+      "39"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 4x + -1, find f(9).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "50",
+      "49",
+      "55"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 5x + 0, find f(10).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "68",
+      "66",
+      "67",
+      "73"
+    ],
+    "correctAnswer": "67",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 6x + 1, find f(11).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "25",
+      "28",
+      "26"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 2x + 2, find f(12).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "43",
+      "41",
+      "45"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 3x + 3, find f(13).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61",
+      "60",
+      "59",
+      "64"
+    ],
+    "correctAnswer": "60",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 4x + 4, find f(14).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "81",
+      "79",
+      "80",
+      "85"
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 5x + 5, find f(15).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "103",
+      "101",
+      "108",
+      "102"
+    ],
+    "correctAnswer": "102",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 6x + 6, find f(16).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "42",
+      "40",
+      "43"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 2x + 7, find f(17).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "62",
+      "61",
+      "65"
+    ],
+    "correctAnswer": "62",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 3x + 8, find f(18).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "86",
+      "84",
+      "85",
+      "89"
+    ],
+    "correctAnswer": "85",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 4x + 9, find f(19).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "111",
+      "109",
+      "115",
+      "110"
+    ],
+    "correctAnswer": "110",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 5x + 10, find f(20).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "137",
+      "138",
+      "136",
+      "143"
+    ],
+    "correctAnswer": "137",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 6x + 11, find f(21).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "56",
+      "55",
+      "58"
+    ],
+    "correctAnswer": "56",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 2x + 12, find f(22).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "83",
+      "81",
+      "82",
+      "85"
+    ],
+    "correctAnswer": "82",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 3x + 13, find f(23).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "111",
+      "109",
+      "114",
+      "110"
+    ],
+    "correctAnswer": "110",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 4x + 14, find f(24).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "140",
+      "141",
+      "139",
+      "145"
+    ],
+    "correctAnswer": "140",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If f(x) = 5x + 15, find f(25).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "173",
+      "172",
+      "171",
+      "178"
+    ],
+    "correctAnswer": "172",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If f(x) = 6x + 16, find f(26).",
+    "topic": "Function Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - -5, find g(2).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "12",
+      "16",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - -4, find g(3).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "20",
+      "18",
+      "23"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - -3, find g(4).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "27",
+      "26",
+      "32"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - -2, find g(5).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "36",
+      "37",
+      "43"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - -1, find g(6).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "48",
+      "56",
+      "49"
+    ],
+    "correctAnswer": "49",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 0, find g(7).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "64",
+      "62",
+      "71"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 1, find g(8).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80",
+      "79",
+      "78",
+      "88"
+    ],
+    "correctAnswer": "79",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 2, find g(9).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "98",
+      "96",
+      "97",
+      "107"
+    ],
+    "correctAnswer": "97",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 3, find g(10).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "118",
+      "116",
+      "128",
+      "117"
+    ],
+    "correctAnswer": "117",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 4, find g(11).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "139",
+      "140",
+      "138",
+      "151"
+    ],
+    "correctAnswer": "139",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 5, find g(12).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "164",
+      "163",
+      "162",
+      "176"
+    ],
+    "correctAnswer": "163",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 6, find g(13).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "190",
+      "188",
+      "189",
+      "203"
+    ],
+    "correctAnswer": "189",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 7, find g(14).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "218",
+      "216",
+      "232",
+      "217"
+    ],
+    "correctAnswer": "217",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 8, find g(15).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "247",
+      "248",
+      "246",
+      "263"
+    ],
+    "correctAnswer": "247",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 9, find g(16).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "280",
+      "279",
+      "278",
+      "296"
+    ],
+    "correctAnswer": "279",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 10, find g(17).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "314",
+      "312",
+      "313",
+      "331"
+    ],
+    "correctAnswer": "313",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 11, find g(18).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "350",
+      "348",
+      "368",
+      "349"
+    ],
+    "correctAnswer": "349",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 12, find g(19).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "387",
+      "388",
+      "386",
+      "407"
+    ],
+    "correctAnswer": "387",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 13, find g(20).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "428",
+      "427",
+      "426",
+      "448"
+    ],
+    "correctAnswer": "427",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 14, find g(21).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "470",
+      "468",
+      "469",
+      "491"
+    ],
+    "correctAnswer": "469",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 15, find g(22).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "514",
+      "512",
+      "536",
+      "513"
+    ],
+    "correctAnswer": "513",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 16, find g(23).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "559",
+      "560",
+      "558",
+      "583"
+    ],
+    "correctAnswer": "559",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 17, find g(24).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "608",
+      "607",
+      "606",
+      "632"
+    ],
+    "correctAnswer": "607",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "If g(x) = x² - 18, find g(25).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "658",
+      "656",
+      "657",
+      "683"
+    ],
+    "correctAnswer": "657",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "If g(x) = x² - 19, find g(26).",
+    "topic": "Function Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "12",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 2x + 10. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "19",
+      "21",
+      "14"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 3x + 11. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "24",
+      "25",
+      "16"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 4x + 12. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "29",
+      "28",
+      "18"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 5x + 13. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "20",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 6x + 14. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "20",
+      "22",
+      "17"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 2x + 15. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "25",
+      "26",
+      "19"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 3x + 16. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "30",
+      "29",
+      "21"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 4x + 17. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "34",
+      "23",
+      "33"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 5x + 18. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37",
+      "36",
+      "38",
+      "25"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 6x + 19. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "26",
+      "27",
+      "22"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 2x + 20. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "31",
+      "30",
+      "24"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 3x + 21. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "35",
+      "26",
+      "34"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 4x + 22. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "37",
+      "39",
+      "28"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 5x + 23. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "42",
+      "43",
+      "30"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 6x + 24. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "32",
+      "31",
+      "27"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 2x + 25. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "36",
+      "29",
+      "35"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 3x + 26. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "38",
+      "40",
+      "31"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 4x + 27. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "43",
+      "44",
+      "33"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 5x + 28. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46",
+      "48",
+      "47",
+      "35"
+    ],
+    "correctAnswer": "47",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 6x + 29. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "37",
+      "32",
+      "36"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 2x + 30. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "39",
+      "41",
+      "34"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 3x + 31. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "44",
+      "45",
+      "36"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 4x + 32. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "49",
+      "48",
+      "38"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A table follows y = 5x + 33. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "53",
+      "40",
+      "52"
+    ],
+    "correctAnswer": "52",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A table follows y = 6x + 34. What is y when x = 3?",
+    "topic": "Function Interpretation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "8",
+      "20",
+      "2"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 10. In 2 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7 miles",
+      "12 miles",
+      "1 miles",
+      "16 miles"
+    ],
+    "correctAnswer": "12 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 3 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "48",
+      "16",
+      "4"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 12. In 4 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11 miles",
+      "1 miles",
+      "36 miles",
+      "30 miles"
+    ],
+    "correctAnswer": "30 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 5 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "8",
+      "84",
+      "6"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 14. In 6 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11 miles",
+      "28 miles",
+      "-3 miles",
+      "32 miles"
+    ],
+    "correctAnswer": "28 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 7 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "48",
+      "19",
+      "3"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 16. In 3 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15 miles",
+      "-3 miles",
+      "60 miles",
+      "54 miles"
+    ],
+    "correctAnswer": "54 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 9 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "13",
+      "90",
+      "5"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 18. In 5 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15 miles",
+      "44 miles",
+      "-7 miles",
+      "48 miles"
+    ],
+    "correctAnswer": "44 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 11 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "40",
+      "22",
+      "2"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 20. In 2 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19 miles",
+      "-7 miles",
+      "84 miles",
+      "78 miles"
+    ],
+    "correctAnswer": "78 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 13 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "18",
+      "88",
+      "4"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 22. In 4 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19 miles",
+      "60 miles",
+      "-11 miles",
+      "64 miles"
+    ],
+    "correctAnswer": "60 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 15 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "144",
+      "30",
+      "6"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 24. In 6 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23 miles",
+      "-11 miles",
+      "108 miles",
+      "102 miles"
+    ],
+    "correctAnswer": "102 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 17 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "23",
+      "78",
+      "3"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 26. In 3 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23 miles",
+      "76 miles",
+      "-15 miles",
+      "80 miles"
+    ],
+    "correctAnswer": "76 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 19 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "140",
+      "33",
+      "5"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 28. In 5 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27 miles",
+      "-15 miles",
+      "132 miles",
+      "126 miles"
+    ],
+    "correctAnswer": "126 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 21 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "28",
+      "60",
+      "2"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 30. In 2 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27 miles",
+      "92 miles",
+      "-19 miles",
+      "96 miles"
+    ],
+    "correctAnswer": "92 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 23 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "128",
+      "36",
+      "4"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 32. In 4 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31 miles",
+      "-19 miles",
+      "156 miles",
+      "150 miles"
+    ],
+    "correctAnswer": "150 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 25 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "28",
+      "204",
+      "6"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 34. In 6 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31 miles",
+      "108 miles",
+      "-23 miles",
+      "112 miles"
+    ],
+    "correctAnswer": "108 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 27 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "108",
+      "39",
+      "3"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 36. In 3 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35 miles",
+      "-23 miles",
+      "180 miles",
+      "174 miles"
+    ],
+    "correctAnswer": "174 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 29 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "33",
+      "190",
+      "5"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 38. In 5 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35 miles",
+      "124 miles",
+      "-27 miles",
+      "128 miles"
+    ],
+    "correctAnswer": "124 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 31 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "80",
+      "42",
+      "2"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 40. In 2 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39 miles",
+      "-27 miles",
+      "204 miles",
+      "198 miles"
+    ],
+    "correctAnswer": "198 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 33 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46",
+      "38",
+      "168",
+      "4"
+    ],
+    "correctAnswer": "46",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 42. In 4 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39 miles",
+      "140 miles",
+      "-31 miles",
+      "144 miles"
+    ],
+    "correctAnswer": "140 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 35 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "264",
+      "50",
+      "6"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 44. In 6 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43 miles",
+      "-31 miles",
+      "228 miles",
+      "222 miles"
+    ],
+    "correctAnswer": "222 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 37 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "43",
+      "138",
+      "3"
+    ],
+    "correctAnswer": "49",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 46. In 3 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43 miles",
+      "156 miles",
+      "-35 miles",
+      "160 miles"
+    ],
+    "correctAnswer": "156 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 4 miles per hour for 39 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "240",
+      "53",
+      "5"
+    ],
+    "correctAnswer": "53",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "Ava is 48. In 5 years, how old will Ava be?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47 miles",
+      "-35 miles",
+      "252 miles",
+      "246 miles"
+    ],
+    "correctAnswer": "246 miles",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A car travels 6 miles per hour for 41 hours. How far does it travel?",
+    "topic": "Algebra Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$110",
+      "$1000",
+      "$107",
+      "$10"
+    ],
+    "correctAnswer": "$110",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $100 and earns $5 each day. What is the value after 2 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1980",
+      "128",
+      "119",
+      "18"
+    ],
+    "correctAnswer": "128",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 110 and grows by 6 each year. What is the population after 3 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$3360",
+      "$131",
+      "$148",
+      "$28"
+    ],
+    "correctAnswer": "$148",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $120 and earns $7 each day. What is the value after 4 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5200",
+      "143",
+      "40",
+      "170"
+    ],
+    "correctAnswer": "170",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 130 and grows by 8 each year. What is the population after 5 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$194",
+      "$7560",
+      "$155",
+      "$54"
+    ],
+    "correctAnswer": "$194",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $140 and earns $9 each day. What is the value after 6 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10500",
+      "220",
+      "167",
+      "70"
+    ],
+    "correctAnswer": "220",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 150 and grows by 10 each year. What is the population after 7 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$6400",
+      "$173",
+      "$200",
+      "$40"
+    ],
+    "correctAnswer": "$200",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $160 and earns $5 each day. What is the value after 8 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9180",
+      "185",
+      "54",
+      "224"
+    ],
+    "correctAnswer": "224",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 170 and grows by 6 each year. What is the population after 9 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$250",
+      "$12600",
+      "$197",
+      "$70"
+    ],
+    "correctAnswer": "$250",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $180 and earns $7 each day. What is the value after 10 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16720",
+      "278",
+      "209",
+      "88"
+    ],
+    "correctAnswer": "278",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 190 and grows by 8 each year. What is the population after 11 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$21600",
+      "$221",
+      "$308",
+      "$108"
+    ],
+    "correctAnswer": "$308",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $200 and earns $9 each day. What is the value after 12 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27300",
+      "233",
+      "130",
+      "340"
+    ],
+    "correctAnswer": "340",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 210 and grows by 10 each year. What is the population after 13 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$290",
+      "$15400",
+      "$239",
+      "$70"
+    ],
+    "correctAnswer": "$290",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $220 and earns $5 each day. What is the value after 14 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20700",
+      "320",
+      "251",
+      "90"
+    ],
+    "correctAnswer": "320",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 230 and grows by 6 each year. What is the population after 15 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$26880",
+      "$263",
+      "$352",
+      "$112"
+    ],
+    "correctAnswer": "$352",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $240 and earns $7 each day. What is the value after 16 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34000",
+      "275",
+      "136",
+      "386"
+    ],
+    "correctAnswer": "386",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 250 and grows by 8 each year. What is the population after 17 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$422",
+      "$42120",
+      "$287",
+      "$162"
+    ],
+    "correctAnswer": "$422",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $260 and earns $9 each day. What is the value after 18 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51300",
+      "460",
+      "299",
+      "190"
+    ],
+    "correctAnswer": "460",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 270 and grows by 10 each year. What is the population after 19 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$28000",
+      "$305",
+      "$380",
+      "$100"
+    ],
+    "correctAnswer": "$380",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $280 and earns $5 each day. What is the value after 20 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36540",
+      "317",
+      "126",
+      "416"
+    ],
+    "correctAnswer": "416",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 290 and grows by 6 each year. What is the population after 21 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$454",
+      "$46200",
+      "$329",
+      "$154"
+    ],
+    "correctAnswer": "$454",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $300 and earns $7 each day. What is the value after 22 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57040",
+      "494",
+      "341",
+      "184"
+    ],
+    "correctAnswer": "494",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 310 and grows by 8 each year. What is the population after 23 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$69120",
+      "$353",
+      "$536",
+      "$216"
+    ],
+    "correctAnswer": "$536",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $320 and earns $9 each day. What is the value after 24 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "82500",
+      "365",
+      "250",
+      "580"
+    ],
+    "correctAnswer": "580",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 330 and grows by 10 each year. What is the population after 25 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$470",
+      "$44200",
+      "$371",
+      "$130"
+    ],
+    "correctAnswer": "$470",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $340 and earns $5 each day. What is the value after 26 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56700",
+      "512",
+      "383",
+      "162"
+    ],
+    "correctAnswer": "512",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 350 and grows by 6 each year. What is the population after 27 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$70560",
+      "$395",
+      "$556",
+      "$196"
+    ],
+    "correctAnswer": "$556",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $360 and earns $7 each day. What is the value after 28 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "85840",
+      "407",
+      "232",
+      "602"
+    ],
+    "correctAnswer": "602",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 370 and grows by 8 each year. What is the population after 29 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$650",
+      "$102600",
+      "$419",
+      "$270"
+    ],
+    "correctAnswer": "$650",
+    "difficulty": "medium",
+    "grade": 10,
+    "question": "A business starts with $380 and earns $9 each day. What is the value after 30 days?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "120900",
+      "700",
+      "431",
+      "310"
+    ],
+    "correctAnswer": "700",
+    "difficulty": "hard",
+    "grade": 10,
+    "question": "A population is 390 and grows by 10 each year. What is the population after 31 years?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  }
+]

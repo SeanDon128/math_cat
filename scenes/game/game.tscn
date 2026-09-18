@@ -1,0 +1,999 @@
+[gd_scene load_steps=18 format=3]
+
+[ext_resource type="Script" path="res://scenes/game/game.gd" id="1_game"]
+[ext_resource type="PackedScene" path="res://scenes/characters/math_cat.tscn" id="2_mathcat"]
+[ext_resource type="Script" path="res://scripts/character/character_evolution_manager.gd" id="16_evolution"]
+[ext_resource type="Shader" path="res://shaders/synthwave_background.gdshader" id="17_synthwave"]
+[ext_resource type="Script" path="res://scripts/background/background_evolution_manager.gd" id="18_background_evolution"]
+[ext_resource type="Script" path="res://scripts/ui/pixel_meter_icon.gd" id="19_meter_icon"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterialSynthwave"]
+shader = ExtResource("17_synthwave")
+
+[sub_resource type="StyleBoxFlat" id="StylePanel"]
+bg_color = Color(0.101961, 0.141176, 0.235294, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.941176, 0.827451, 0.368627, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleTransparentPanel"]
+bg_color = Color(0, 0, 0, 0)
+border_color = Color(0, 0, 0, 0)
+
+[sub_resource type="StyleBoxFlat" id="StyleA"]
+bg_color = Color(0.101961, 0.419608, 0.180392, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.760784, 0.94902, 0.733333, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleAHover"]
+bg_color = Color(0.14902, 0.529412, 0.239216, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleB"]
+bg_color = Color(0.752941, 0.176471, 0.196078, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.705882, 0.705882, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleBHover"]
+bg_color = Color(0.901961, 0.239216, 0.254902, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleX"]
+bg_color = Color(0.129412, 0.356863, 0.760784, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.686275, 0.815686, 1, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleXHover"]
+bg_color = Color(0.2, 0.482353, 0.909804, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleY"]
+bg_color = Color(0.6, 0.4, 0.0313725, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.937255, 0.603922, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleYHover"]
+bg_color = Color(0.717647, 0.494118, 0.0470588, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleGlyphA"]
+bg_color = Color(0.101961, 0.419608, 0.180392, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.760784, 0.94902, 0.733333, 1)
+corner_radius_top_left = 22
+corner_radius_top_right = 22
+corner_radius_bottom_right = 22
+corner_radius_bottom_left = 22
+
+[sub_resource type="StyleBoxFlat" id="StyleGlyphB"]
+bg_color = Color(0.752941, 0.176471, 0.196078, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.705882, 0.705882, 1)
+corner_radius_top_left = 22
+corner_radius_top_right = 22
+corner_radius_bottom_right = 22
+corner_radius_bottom_left = 22
+
+[sub_resource type="StyleBoxFlat" id="StyleGlyphX"]
+bg_color = Color(0.129412, 0.356863, 0.760784, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.686275, 0.815686, 1, 1)
+corner_radius_top_left = 22
+corner_radius_top_right = 22
+corner_radius_bottom_right = 22
+corner_radius_bottom_left = 22
+
+[sub_resource type="StyleBoxFlat" id="StyleGlyphY"]
+bg_color = Color(0.6, 0.4, 0.0313725, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.937255, 0.603922, 1)
+corner_radius_top_left = 22
+corner_radius_top_right = 22
+corner_radius_bottom_right = 22
+corner_radius_bottom_left = 22
+
+[node name="Game" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_game")
+
+[node name="Background" type="ColorRect" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+material = SubResource("ShaderMaterialSynthwave")
+mouse_filter = 2
+
+[node name="Grade13Equations" type="Control" parent="."]
+unique_name_in_owner = true
+visible = false
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="FermatEquation" type="Label" parent="Grade13Equations"]
+layout_mode = 0
+offset_left = 72.0
+offset_top = 158.0
+offset_right = 443.0
+offset_bottom = 194.0
+rotation = -0.025
+theme_override_colors/font_color = Color(0.4, 0.82, 1, 0.32)
+theme_override_colors/font_outline_color = Color(0.02, 0.08, 0.16, 0.5)
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 24
+text = "3987¹²+4365¹²=4472¹²"
+
+[node name="OmegaEquation" type="Label" parent="Grade13Equations"]
+layout_mode = 0
+offset_left = 1018.0
+offset_top = 202.0
+offset_right = 1190.0
+offset_bottom = 238.0
+rotation = 0.035
+theme_override_colors/font_color = Color(0.4, 0.82, 1, 0.32)
+theme_override_colors/font_outline_color = Color(0.02, 0.08, 0.16, 0.5)
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 25
+text = "Ω(t₀)>1"
+
+[node name="Content" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 48.0
+offset_top = 16.0
+offset_right = -48.0
+offset_bottom = -16.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Layout" type="VBoxContainer" parent="Content"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="HeaderBar" type="PanelContainer" parent="Content/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 116)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleTransparentPanel")
+
+[node name="Margin" type="MarginContainer" parent="Content/Layout/HeaderBar"]
+layout_mode = 2
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 16
+theme_override_constants/margin_bottom = 8
+
+[node name="Header" type="Control" parent="Content/Layout/HeaderBar/Margin"]
+layout_mode = 2
+
+[node name="GradeProgressPanel" type="VBoxContainer" parent="Content/Layout/HeaderBar/Margin/Header"]
+custom_minimum_size = Vector2(400, 0)
+layout_mode = 0
+offset_bottom = 100.0
+theme_override_constants/separation = 4
+
+[node name="GradeLabel" type="Label" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 36
+text = "GRADE 1"
+
+[node name="CorrectProgress" type="HBoxContainer" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel"]
+layout_mode = 2
+theme_override_constants/separation = 6
+
+[node name="Label" type="Label" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/CorrectProgress"]
+custom_minimum_size = Vector2(126, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.670588, 0.866667, 0.611765, 1)
+theme_override_font_sizes/font_size = 21
+text = "CORRECT"
+vertical_alignment = 1
+
+[node name="Pip1" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/CorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.47451, 0.823529, 0.415686, 1)
+
+[node name="Pip2" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/CorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.47451, 0.823529, 0.415686, 1)
+
+[node name="Pip3" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/CorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.47451, 0.823529, 0.415686, 1)
+
+[node name="Pip4" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/CorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.47451, 0.823529, 0.415686, 1)
+
+[node name="Pip5" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/CorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.47451, 0.823529, 0.415686, 1)
+
+[node name="IncorrectProgress" type="HBoxContainer" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel"]
+layout_mode = 2
+theme_override_constants/separation = 6
+
+[node name="Label" type="Label" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/IncorrectProgress"]
+custom_minimum_size = Vector2(126, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.929412, 0.415686, 0.352941, 1)
+theme_override_font_sizes/font_size = 21
+text = "INCORRECT"
+vertical_alignment = 1
+
+[node name="Pip1" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/IncorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.929412, 0.415686, 0.352941, 1)
+
+[node name="Pip2" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/IncorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.929412, 0.415686, 0.352941, 1)
+
+[node name="Pip3" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/GradeProgressPanel/IncorrectProgress"]
+custom_minimum_size = Vector2(24, 24)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+active_color = Color(0.929412, 0.415686, 0.352941, 1)
+
+[node name="ScoreTimePanel" type="Control" parent="Content/Layout/HeaderBar/Margin/Header"]
+layout_mode = 0
+anchors_preset = 10
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScoreLabel" type="Label" parent="Content/Layout/HeaderBar/Margin/Header/ScoreTimePanel"]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = -266.0
+offset_top = -54.0
+offset_right = -40.0
+offset_bottom = -9.0
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 36
+text = "SCORE 0"
+vertical_alignment = 1
+
+[node name="TimerLabel" type="Label" parent="Content/Layout/HeaderBar/Margin/Header/ScoreTimePanel"]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 32.0
+offset_top = -54.0
+offset_right = 275.0
+offset_bottom = -9.0
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 36
+text = "TIME 02:00"
+vertical_alignment = 1
+
+[node name="HeartContainer" type="HBoxContainer" parent="Content/Layout/HeaderBar/Margin/Header"]
+unique_name_in_owner = true
+layout_mode = 0
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -300.0
+offset_top = 46.0
+grow_horizontal = 0
+theme_override_constants/separation = 3
+
+[node name="LivesLabel" type="Label" parent="Content/Layout/HeaderBar/Margin/Header"]
+layout_mode = 0
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -300.0
+offset_top = -8.0
+offset_right = 0.0
+offset_bottom = 32.0
+grow_horizontal = 0
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 36
+text = "LIVES"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Heart1" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart2" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart3" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart4" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart5" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart6" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart7" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart8" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="Heart9" type="Control" parent="Content/Layout/HeaderBar/Margin/Header/HeartContainer"]
+custom_minimum_size = Vector2(30, 28)
+layout_mode = 2
+script = ExtResource("19_meter_icon")
+kind = 0
+filled = true
+active_color = Color(0.913725, 0.309804, 0.392157, 1)
+
+[node name="QuestionPanel" type="PanelContainer" parent="Content/Layout"]
+custom_minimum_size = Vector2(900, 130)
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_styles/panel = SubResource("StyleTransparentPanel")
+
+[node name="QuestionLabel" type="Label" parent="Content/Layout/QuestionPanel"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 64
+text = "2 + 3 ="
+autowrap_mode = 2
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="FeedbackLabel" type="Label" parent="Content/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 39)
+layout_mode = 2
+theme_override_font_sizes/font_size = 39
+horizontal_alignment = 1
+
+[node name="Answers" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 160.0
+offset_bottom = 160.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Answer1" type="Button" parent="Answers"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(198, 80)
+layout_mode = 0
+anchors_preset = 10
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -99.0
+offset_top = 80.0
+offset_right = 99.0
+offset_bottom = 160.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 42
+theme_override_styles/normal = SubResource("StyleA")
+theme_override_styles/hover = SubResource("StyleAHover")
+text = "4"
+autowrap_mode = 2
+
+[node name="Answer2" type="Button" parent="Answers"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(198, 80)
+layout_mode = 0
+anchors_preset = 10
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 176.0
+offset_top = -40.0
+offset_right = 374.0
+offset_bottom = 40.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 42
+theme_override_styles/normal = SubResource("StyleB")
+theme_override_styles/hover = SubResource("StyleBHover")
+text = "5"
+autowrap_mode = 2
+
+[node name="Answer3" type="Button" parent="Answers"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(198, 80)
+layout_mode = 0
+anchors_preset = 10
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -374.0
+offset_top = -40.0
+offset_right = -176.0
+offset_bottom = 40.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 42
+theme_override_styles/normal = SubResource("StyleX")
+theme_override_styles/hover = SubResource("StyleXHover")
+text = "6"
+autowrap_mode = 2
+
+[node name="Answer4" type="Button" parent="Answers"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(198, 80)
+layout_mode = 0
+anchors_preset = 10
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -99.0
+offset_top = -160.0
+offset_right = 99.0
+offset_bottom = -80.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 42
+theme_override_styles/normal = SubResource("StyleY")
+theme_override_styles/hover = SubResource("StyleYHover")
+text = "7"
+autowrap_mode = 2
+
+[node name="XboxFaceButtons" type="Control" parent="Answers"]
+unique_name_in_owner = true
+layout_mode = 0
+mouse_filter = 2
+anchors_preset = 10
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_top = -12.0
+offset_bottom = -12.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Y" type="Panel" parent="Answers/XboxFaceButtons"]
+layout_mode = 0
+offset_left = -33.0
+offset_top = -59.0
+offset_right = 33.0
+offset_bottom = 7.0
+theme_override_styles/panel = SubResource("StyleGlyphY")
+
+[node name="Label" type="Label" parent="Answers/XboxFaceButtons/Y"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 36
+text = ""
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="X" type="Panel" parent="Answers/XboxFaceButtons"]
+layout_mode = 0
+offset_left = -104.0
+offset_top = -21.0
+offset_right = -38.0
+offset_bottom = 45.0
+theme_override_styles/panel = SubResource("StyleGlyphX")
+
+[node name="Label" type="Label" parent="Answers/XboxFaceButtons/X"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 36
+text = ""
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="B" type="Panel" parent="Answers/XboxFaceButtons"]
+layout_mode = 0
+offset_left = 38.0
+offset_top = -21.0
+offset_right = 104.0
+offset_bottom = 45.0
+theme_override_styles/panel = SubResource("StyleGlyphB")
+
+[node name="Label" type="Label" parent="Answers/XboxFaceButtons/B"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 36
+text = ""
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="A" type="Panel" parent="Answers/XboxFaceButtons"]
+layout_mode = 0
+offset_left = -33.0
+offset_top = 17.0
+offset_right = 33.0
+offset_bottom = 83.0
+theme_override_styles/panel = SubResource("StyleGlyphA")
+
+[node name="Label" type="Label" parent="Answers/XboxFaceButtons/A"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 36
+text = ""
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="GameOverOverlay" type="Control" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+
+[node name="Dim" type="ColorRect" parent="GameOverOverlay"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 0.7)
+
+[node name="Panel" type="PanelContainer" parent="GameOverOverlay"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -360.0
+offset_top = -310.0
+offset_right = 360.0
+offset_bottom = 310.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StylePanel")
+
+[node name="Margin" type="MarginContainer" parent="GameOverOverlay/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 36
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 36
+theme_override_constants/margin_bottom = 20
+
+[node name="Layout" type="VBoxContainer" parent="GameOverOverlay/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 4
+alignment = 1
+
+[node name="GameOverTitle" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.941176, 0.827451, 0.368627, 1)
+theme_override_font_sizes/font_size = 46
+text = "GAME OVER"
+horizontal_alignment = 1
+
+[node name="GameOverReasonLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.929412, 0.415686, 0.352941, 1)
+theme_override_font_sizes/font_size = 26
+horizontal_alignment = 1
+
+[node name="GameOverScoreLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.929412, 0.607843, 1)
+theme_override_font_sizes/font_size = 36
+horizontal_alignment = 1
+
+[node name="GameOverMaxGradeLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 26
+horizontal_alignment = 1
+
+[node name="GameOverStreakLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 26
+horizontal_alignment = 1
+
+[node name="GameOverAnswersLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 26
+horizontal_alignment = 1
+
+[node name="GameOverTimeSurvivedLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 26
+horizontal_alignment = 1
+
+[node name="GameOverEvolutionLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 26
+horizontal_alignment = 1
+
+[node name="NewHighScoreLabel" type="Label" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.929412, 0.607843, 1)
+theme_override_font_sizes/font_size = 28
+text = "NEW HIGH SCORE!"
+horizontal_alignment = 1
+
+[node name="ActionButtonSpacer" type="Control" parent="GameOverOverlay/Panel/Margin/Layout"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="RetryButton" type="Button" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 68)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 32
+theme_override_styles/normal = SubResource("StyleA")
+theme_override_styles/hover = SubResource("StyleAHover")
+text = "RETRY"
+
+[node name="TitleScreenButtonSpacer" type="Control" parent="GameOverOverlay/Panel/Margin/Layout"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="TitleScreenButton" type="Button" parent="GameOverOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 68)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 32
+theme_override_styles/normal = SubResource("StyleB")
+theme_override_styles/hover = SubResource("StyleBHover")
+text = "TITLE SCREEN"
+
+[node name="PauseOverlay" type="Control" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+
+[node name="Dim" type="ColorRect" parent="PauseOverlay"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 0.7)
+
+[node name="Panel" type="PanelContainer" parent="PauseOverlay"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -320.0
+offset_top = -320.0
+offset_right = 320.0
+offset_bottom = 320.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StylePanel")
+
+[node name="Margin" type="MarginContainer" parent="PauseOverlay/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 36
+theme_override_constants/margin_top = 30
+theme_override_constants/margin_right = 36
+theme_override_constants/margin_bottom = 30
+
+[node name="Layout" type="VBoxContainer" parent="PauseOverlay/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 16
+alignment = 1
+
+[node name="Title" type="Label" parent="PauseOverlay/Panel/Margin/Layout"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.941176, 0.827451, 0.368627, 1)
+theme_override_font_sizes/font_size = 50
+text = "PAUSED"
+horizontal_alignment = 1
+
+[node name="ResumeButton" type="Button" parent="PauseOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 78)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = SubResource("StyleA")
+theme_override_styles/hover = SubResource("StyleAHover")
+text = "RESUME"
+
+[node name="RestartButton" type="Button" parent="PauseOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 78)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = SubResource("StyleY")
+theme_override_styles/hover = SubResource("StyleYHover")
+text = "RESTART"
+
+[node name="OptionsButton" type="Button" parent="PauseOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 78)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = SubResource("StyleX")
+theme_override_styles/hover = SubResource("StyleXHover")
+text = "OPTIONS"
+
+[node name="QuitToTitleButton" type="Button" parent="PauseOverlay/Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 78)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = SubResource("StyleB")
+theme_override_styles/hover = SubResource("StyleBHover")
+text = "QUIT TO TITLE"
+
+[node name="NavigationHint" type="Label" parent="PauseOverlay/Panel/Margin/Layout"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.588235, 0.815686, 0.941176, 1)
+theme_override_font_sizes/font_size = 25
+text = "UP / DOWN OR D-PAD  |  ENTER / A"
+horizontal_alignment = 1
+
+[node name="MathCat" parent="." instance=ExtResource("2_mathcat")]
+unique_name_in_owner = true
+position = Vector2(1140, 196)
+scale = Vector2(2, 2)
+
+[node name="CharacterEvolutionManager" type="Node" parent="."]
+script = ExtResource("16_evolution")
+math_cat_path = NodePath("../MathCat")
+
+[node name="BackgroundEvolutionManager" type="Node" parent="."]
+script = ExtResource("18_background_evolution")
+background_path = NodePath("../Background")
+grade_thirteen_equations_path = NodePath("../Grade13Equations")
+
+[node name="TimeBonusLabel" type="Label" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 0
+offset_left = 820.0
+offset_top = 284.0
+offset_right = 1268.0
+offset_bottom = 332.0
+theme_override_colors/font_color = Color(0.529412, 0.941176, 0.733333, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 4
+theme_override_font_sizes/font_size = 39
+text = "+10 Seconds!"
+horizontal_alignment = 1

@@ -1,0 +1,5742 @@
+[
+  {
+    "choices": [
+      "2:3",
+      "3:2",
+      "2:5",
+      "5:3"
+    ],
+    "correctAnswer": "2:3",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is the ratio of 2 red tiles to 3 blue tiles?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4:3",
+      "3:4",
+      "3:7",
+      "7:4"
+    ],
+    "correctAnswer": "3:4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is the ratio of 3 red tiles to 4 blue tiles?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5:4",
+      "4:9",
+      "4:5",
+      "9:5"
+    ],
+    "correctAnswer": "4:5",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is the ratio of 4 red tiles to 5 blue tiles?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6:5",
+      "5:11",
+      "11:6",
+      "5:6"
+    ],
+    "correctAnswer": "5:6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is the ratio of 5 red tiles to 6 blue tiles?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6:7",
+      "7:6",
+      "6:13",
+      "13:7"
+    ],
+    "correctAnswer": "6:7",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is the ratio of 6 red tiles to 7 blue tiles?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8:7",
+      "7:8",
+      "21:8",
+      "15:3"
+    ],
+    "correctAnswer": "7:8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify the ratio 21:24.",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9:8",
+      "32:9",
+      "8:9",
+      "17:4"
+    ],
+    "correctAnswer": "8:9",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify the ratio 32:36.",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10:9",
+      "45:10",
+      "19:5",
+      "9:10"
+    ],
+    "correctAnswer": "9:10",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify the ratio 45:50.",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10:11",
+      "11:10",
+      "60:11",
+      "21:6"
+    ],
+    "correctAnswer": "10:11",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify the ratio 60:66.",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12:11",
+      "11:12",
+      "77:12",
+      "23:7"
+    ],
+    "correctAnswer": "11:12",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify the ratio 77:84.",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39 cups",
+      "15 cups",
+      "36 cups",
+      "49 cups"
+    ],
+    "correctAnswer": "36 cups",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A mix uses 12 cups paint for 13 cups water. How much paint for 39 cups water?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56 cups",
+      "17 cups",
+      "66 cups",
+      "52 cups"
+    ],
+    "correctAnswer": "52 cups",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A mix uses 13 cups paint for 14 cups water. How much paint for 56 cups water?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "70 cups",
+      "75 cups",
+      "19 cups",
+      "85 cups"
+    ],
+    "correctAnswer": "70 cups",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A mix uses 14 cups paint for 15 cups water. How much paint for 75 cups water?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "96 cups",
+      "90 cups",
+      "21 cups",
+      "106 cups"
+    ],
+    "correctAnswer": "90 cups",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A mix uses 15 cups paint for 16 cups water. How much paint for 96 cups water?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "119 cups",
+      "23 cups",
+      "112 cups",
+      "129 cups"
+    ],
+    "correctAnswer": "112 cups",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A mix uses 16 cups paint for 17 cups water. How much paint for 119 cups water?",
+    "topic": "Ratios",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$6",
+      "$3",
+      "1",
+      "$2"
+    ],
+    "correctAnswer": "$2",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "3 notebooks cost $6. What is the unit price?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$3",
+      "$12",
+      "$4",
+      "1"
+    ],
+    "correctAnswer": "$3",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "4 notebooks cost $12. What is the unit price?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$20",
+      "$4",
+      "$5",
+      "1"
+    ],
+    "correctAnswer": "$4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "5 notebooks cost $20. What is the unit price?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$30",
+      "$6",
+      "$5",
+      "1"
+    ],
+    "correctAnswer": "$5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "6 notebooks cost $30. What is the unit price?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$42",
+      "$7",
+      "1",
+      "$6"
+    ],
+    "correctAnswer": "$6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "7 notebooks cost $42. What is the unit price?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$56",
+      "$15",
+      "$7",
+      "$63"
+    ],
+    "correctAnswer": "$56",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "At $7 each, what do 8 tickets cost?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$17",
+      "$72",
+      "$8",
+      "$80"
+    ],
+    "correctAnswer": "$72",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "At $8 each, what do 9 tickets cost?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$19",
+      "$9",
+      "$90",
+      "$99"
+    ],
+    "correctAnswer": "$90",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "At $9 each, what do 10 tickets cost?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$21",
+      "$10",
+      "$120",
+      "$110"
+    ],
+    "correctAnswer": "$110",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "At $10 each, what do 11 tickets cost?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$132",
+      "$23",
+      "$11",
+      "$143"
+    ],
+    "correctAnswer": "$132",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "At $11 each, what do 12 tickets cost?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25 miles",
+      "156 miles",
+      "13 miles",
+      "168 miles"
+    ],
+    "correctAnswer": "156 miles",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A car travels 12 miles per hour. How far in 13 hours?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27 miles",
+      "14 miles",
+      "182 miles",
+      "195 miles"
+    ],
+    "correctAnswer": "182 miles",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A car travels 13 miles per hour. How far in 14 hours?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29 miles",
+      "15 miles",
+      "224 miles",
+      "210 miles"
+    ],
+    "correctAnswer": "210 miles",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A car travels 14 miles per hour. How far in 15 hours?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "240 miles",
+      "31 miles",
+      "16 miles",
+      "255 miles"
+    ],
+    "correctAnswer": "240 miles",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A car travels 15 miles per hour. How far in 16 hours?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33 miles",
+      "272 miles",
+      "17 miles",
+      "288 miles"
+    ],
+    "correctAnswer": "272 miles",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A car travels 16 miles per hour. How far in 17 hours?",
+    "topic": "Proportional Relationships",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-5",
+      "5",
+      "-1",
+      "1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-3 + 2 =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-7",
+      "7",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-4 + 3 =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "-9",
+      "9",
+      "1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-5 + 4 =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-11",
+      "-1",
+      "11",
+      "1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-6 + 5 =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-13",
+      "13",
+      "-1",
+      "1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-7 + 6 =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-15",
+      "-1",
+      "15"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "8 - (-7) =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "1",
+      "-17",
+      "-1"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "9 - (-8) =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "19",
+      "-19",
+      "-1"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "10 - (-9) =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-21",
+      "21",
+      "-1"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "11 - (-10) =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-23",
+      "-1",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "12 - (-11) =",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-12",
+      "-13",
+      "They are equal",
+      "13"
+    ],
+    "correctAnswer": "-12",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Which number is greater: -13 or -12?",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-14",
+      "-13",
+      "They are equal",
+      "14"
+    ],
+    "correctAnswer": "-13",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Which number is greater: -14 or -13?",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-15",
+      "They are equal",
+      "-14",
+      "15"
+    ],
+    "correctAnswer": "-14",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which number is greater: -15 or -14?",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-16",
+      "They are equal",
+      "16",
+      "-15"
+    ],
+    "correctAnswer": "-15",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which number is greater: -16 or -15?",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-16",
+      "-17",
+      "They are equal",
+      "17"
+    ],
+    "correctAnswer": "-16",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which number is greater: -17 or -16?",
+    "topic": "Negative Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "7",
+      "1",
+      "2"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "If x = 2, what is 2x + 3?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "21",
+      "13",
+      "5"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "If x = 3, what is 3x + 4?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "36",
+      "11",
+      "21"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "If x = 4, what is 4x + 5?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "16",
+      "55",
+      "19"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "If x = 5, what is 5x + 6?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "19",
+      "26",
+      "5"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "If x = 6, what is 2x + 7?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24x",
+      "8x",
+      "11x",
+      "12x"
+    ],
+    "correctAnswer": "11x",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify: 3x + 8x",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36x",
+      "9x",
+      "14x",
+      "13x"
+    ],
+    "correctAnswer": "13x",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify: 4x + 9x",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15x",
+      "50x",
+      "10x",
+      "16x"
+    ],
+    "correctAnswer": "15x",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify: 5x + 10x",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22x",
+      "13x",
+      "11x",
+      "14x"
+    ],
+    "correctAnswer": "13x",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify: 2x + 11x",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36x",
+      "12x",
+      "15x",
+      "16x"
+    ],
+    "correctAnswer": "15x",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Simplify: 3x + 12x",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "49",
+      "-1",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "If a = 12 and b = 13,\nwhat is 3a - b?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "-3",
+      "53",
+      "-1"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "If a = 13 and b = 14,\nwhat is 3a - b?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "27",
+      "57",
+      "-1"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "If a = 14 and b = 15,\nwhat is 3a - b?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "61",
+      "29",
+      "-1"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "If a = 15 and b = 16,\nwhat is 3a - b?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "65",
+      "-1",
+      "31"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "If a = 16 and b = 17,\nwhat is 3a - b?",
+    "topic": "Algebraic Expressions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "5",
+      "3",
+      "1"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: x + 3 = 5",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "3",
+      "7",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: x - 4 = -1",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "9",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 5x = 20",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "6",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: x + 6 = 11",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "-1",
+      "13",
+      "7"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: x - 7 = -1",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56",
+      "7",
+      "15",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 8x = 56",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "9",
+      "8",
+      "7"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: x + 9 = 17",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "19",
+      "10",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: x - 10 = -1",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "110",
+      "21",
+      "11"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 11x = 110",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "11",
+      "12",
+      "10"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: x + 12 = 23",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "25",
+      "12",
+      "13"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: x - 13 = -1",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "182",
+      "27",
+      "14",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 14x = 182",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "29",
+      "15",
+      "13"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: x + 15 = 29",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "15",
+      "31",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: x - 16 = -1",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "272",
+      "33",
+      "16",
+      "17"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 17x = 272",
+    "topic": "One-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Find the mean: 2, 4, 6",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "7",
+      "10"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Find the mean: 3, 5, 7",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Find the mean: 4, 6, 8",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "9",
+      "7",
+      "14"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the mean: 5, 7, 9",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "10",
+      "16",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the mean: 6, 8, 10",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "7",
+      "11",
+      "15"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the median: 15, 7, 9, 11, 9",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the median: 16, 8, 10, 12, 10",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "13",
+      "11",
+      "17"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the median: 17, 9, 11, 13, 11",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "14",
+      "18",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the median: 18, 10, 12, 14, 12",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "11",
+      "15",
+      "19"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the median: 19, 11, 13, 15, 13",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "5",
+      "12",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the range: 12, 14, 16, 21",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "13",
+      "5",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Find the range: 13, 15, 17, 22",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "14",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Find the range: 14, 16, 18, 23",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "24",
+      "15",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Find the range: 15, 17, 19, 24",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "5",
+      "16",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Find the range: 16, 18, 20, 25",
+    "topic": "Statistics",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "36",
+      "4",
+      "1"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 10% of 40?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "20",
+      "36",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 20% of 44?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "4",
+      "30",
+      "34"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 30% of 48?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "20",
+      "40",
+      "32"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 40% of 52?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "50",
+      "28",
+      "1"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 50% of 56?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "54",
+      "1",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 10% of 60?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "6",
+      "20",
+      "52"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 20% of 64?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "20",
+      "30",
+      "48"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 30% of 68?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "40",
+      "28",
+      "44"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 40% of 72?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "50",
+      "1",
+      "38"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "What is 50% of 76?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$6.00",
+      "$54.00",
+      "$10.00",
+      "$60.00"
+    ],
+    "correctAnswer": "$6.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $60 item is 10% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$50.40",
+      "$12.60",
+      "$20.00",
+      "$126.00"
+    ],
+    "correctAnswer": "$12.60",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $63 item is 20% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$46.20",
+      "$30.00",
+      "$19.80",
+      "$198.00"
+    ],
+    "correctAnswer": "$19.80",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $66 item is 30% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$41.40",
+      "$40.00",
+      "$276.00",
+      "$27.60"
+    ],
+    "correctAnswer": "$27.60",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $69 item is 40% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$36.00",
+      "$50.00",
+      "$360.00",
+      "1"
+    ],
+    "correctAnswer": "$36.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $72 item is 50% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$67.50",
+      "$7.50",
+      "$10.00",
+      "$75.00"
+    ],
+    "correctAnswer": "$7.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $75 item is 10% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$62.40",
+      "$20.00",
+      "$15.60",
+      "$156.00"
+    ],
+    "correctAnswer": "$15.60",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $78 item is 20% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$56.70",
+      "$30.00",
+      "$243.00",
+      "$24.30"
+    ],
+    "correctAnswer": "$24.30",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $81 item is 30% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$33.60",
+      "$50.40",
+      "$40.00",
+      "$336.00"
+    ],
+    "correctAnswer": "$33.60",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $84 item is 40% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$50.00",
+      "$43.50",
+      "$435.00",
+      "1"
+    ],
+    "correctAnswer": "$43.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A $87 item is 50% off. What is the discount?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$66.00",
+      "$10.00",
+      "$6.00",
+      "$60.00"
+    ],
+    "correctAnswer": "$6.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 10% tax on $60?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$74.40",
+      "$20.00",
+      "$124.00",
+      "$12.40"
+    ],
+    "correctAnswer": "$12.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 20% tax on $62?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$19.20",
+      "$83.20",
+      "$30.00",
+      "$192.00"
+    ],
+    "correctAnswer": "$19.20",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 30% tax on $64?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$92.40",
+      "$26.40",
+      "$40.00",
+      "$264.00"
+    ],
+    "correctAnswer": "$26.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 40% tax on $66?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$102.00",
+      "$50.00",
+      "$34.00",
+      "$340.00"
+    ],
+    "correctAnswer": "$34.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 50% tax on $68?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$77.00",
+      "$10.00",
+      "$70.00",
+      "$7.00"
+    ],
+    "correctAnswer": "$7.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 10% tax on $70?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$14.40",
+      "$86.40",
+      "$20.00",
+      "$144.00"
+    ],
+    "correctAnswer": "$14.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 20% tax on $72?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$96.20",
+      "$22.20",
+      "$30.00",
+      "$222.00"
+    ],
+    "correctAnswer": "$22.20",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 30% tax on $74?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$106.40",
+      "$40.00",
+      "$30.40",
+      "$304.00"
+    ],
+    "correctAnswer": "$30.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 40% tax on $76?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$117.00",
+      "$50.00",
+      "$390.00",
+      "$39.00"
+    ],
+    "correctAnswer": "$39.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is 50% tax on $78?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$8.50",
+      "$93.50",
+      "$10.00",
+      "$85.00"
+    ],
+    "correctAnswer": "$8.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 10% tip on $85?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$104.40",
+      "$17.40",
+      "$20.00",
+      "$174.00"
+    ],
+    "correctAnswer": "$17.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 20% tip on $87?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$115.70",
+      "$30.00",
+      "$26.70",
+      "$267.00"
+    ],
+    "correctAnswer": "$26.70",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 30% tip on $89?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$127.40",
+      "$40.00",
+      "$364.00",
+      "$36.40"
+    ],
+    "correctAnswer": "$36.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 40% tip on $91?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$46.50",
+      "$139.50",
+      "$50.00",
+      "$465.00"
+    ],
+    "correctAnswer": "$46.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 50% tip on $93?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$104.50",
+      "$9.50",
+      "$10.00",
+      "$95.00"
+    ],
+    "correctAnswer": "$9.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 10% tip on $95?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$116.40",
+      "$20.00",
+      "$19.40",
+      "$194.00"
+    ],
+    "correctAnswer": "$19.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 20% tip on $97?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$128.70",
+      "$30.00",
+      "$297.00",
+      "$29.70"
+    ],
+    "correctAnswer": "$29.70",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 30% tip on $99?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$40.40",
+      "$141.40",
+      "$40.00",
+      "$404.00"
+    ],
+    "correctAnswer": "$40.40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 40% tip on $101?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$154.50",
+      "$51.50",
+      "$50.00",
+      "$515.00"
+    ],
+    "correctAnswer": "$51.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "What is a 50% tip on $103?",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "225",
+      "275",
+      "260"
+    ],
+    "correctAnswer": "275",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 250 by 10%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "204",
+      "275",
+      "306"
+    ],
+    "correctAnswer": "306",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 255 by 20%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "338",
+      "78",
+      "182",
+      "290"
+    ],
+    "correctAnswer": "338",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 260 by 30%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "106",
+      "371",
+      "159",
+      "305"
+    ],
+    "correctAnswer": "371",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 265 by 40%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "135",
+      "320",
+      "405",
+      "1"
+    ],
+    "correctAnswer": "405",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 270 by 50%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "248",
+      "285",
+      "302"
+    ],
+    "correctAnswer": "302",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 275 by 10%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "336",
+      "56",
+      "224",
+      "300"
+    ],
+    "correctAnswer": "336",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 280 by 20%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "85",
+      "370",
+      "200",
+      "315"
+    ],
+    "correctAnswer": "370",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 285 by 30%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "116",
+      "174",
+      "406",
+      "330"
+    ],
+    "correctAnswer": "406",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 290 by 40%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "147",
+      "148",
+      "345",
+      "442"
+    ],
+    "correctAnswer": "442",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Increase 295 by 50%.",
+    "topic": "Percentages",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-0.50",
+      "-5.50",
+      "5.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-3 + 2.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-7.50",
+      "-0.50",
+      "7.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-4 + 3.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-9.50",
+      "9.50",
+      "-0.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-5 + 4.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-11.50",
+      "11.50",
+      "0.50",
+      "-0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-6 + 5.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-0.50",
+      "-13.50",
+      "13.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-7 + 6.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-15.50",
+      "-0.50",
+      "15.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-8 + 7.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-17.50",
+      "17.50",
+      "-0.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-9 + 8.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-19.50",
+      "19.50",
+      "0.50",
+      "-0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-10 + 9.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-0.50",
+      "-21.50",
+      "21.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-11 + 10.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-23.50",
+      "-0.50",
+      "23.50",
+      "0.50"
+    ],
+    "correctAnswer": "-0.50",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "-12 + 11.5 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13/3",
+      "25/12",
+      "25/6",
+      "1/6"
+    ],
+    "correctAnswer": "25/6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(13/6) + (12/6) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "91/32",
+      "27/16",
+      "1/8",
+      "27/8"
+    ],
+    "correctAnswer": "27/8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(14/8) + (13/8) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29/4",
+      "105/8",
+      "29/8",
+      "1/4"
+    ],
+    "correctAnswer": "29/4",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(15/4) + (14/4) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20/3",
+      "31/6",
+      "31/12",
+      "1/6"
+    ],
+    "correctAnswer": "31/6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(16/6) + (15/6) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17/4",
+      "33/16",
+      "33/8",
+      "1/8"
+    ],
+    "correctAnswer": "33/8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(17/8) + (16/8) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "153/8",
+      "35/8",
+      "1/4",
+      "35/4"
+    ],
+    "correctAnswer": "35/4",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(18/4) + (17/4) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37/6",
+      "19/2",
+      "37/12",
+      "1/6"
+    ],
+    "correctAnswer": "37/6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(19/6) + (18/6) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95/16",
+      "39/8",
+      "39/16",
+      "1/8"
+    ],
+    "correctAnswer": "39/8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(20/8) + (19/8) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "105/4",
+      "41/8",
+      "41/4",
+      "1/4"
+    ],
+    "correctAnswer": "41/4",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(21/4) + (20/4) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "77/6",
+      "43/12",
+      "1/6",
+      "43/6"
+    ],
+    "correctAnswer": "43/6",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(22/6) + (21/6) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-45",
+      "-1",
+      "1",
+      "45"
+    ],
+    "correctAnswer": "-45",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-23 - 22 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "-47",
+      "1",
+      "47"
+    ],
+    "correctAnswer": "-47",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-24 - 23 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "-49",
+      "49"
+    ],
+    "correctAnswer": "-49",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-25 - 24 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "51",
+      "-51"
+    ],
+    "correctAnswer": "-51",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-26 - 25 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-53",
+      "-1",
+      "1",
+      "53"
+    ],
+    "correctAnswer": "-53",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-27 - 26 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "-55",
+      "1",
+      "55"
+    ],
+    "correctAnswer": "-55",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-28 - 27 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "-57",
+      "57"
+    ],
+    "correctAnswer": "-57",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-29 - 28 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "59",
+      "-59"
+    ],
+    "correctAnswer": "-59",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-30 - 29 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-61",
+      "-1",
+      "1",
+      "61"
+    ],
+    "correctAnswer": "-61",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-31 - 30 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "-63",
+      "1",
+      "63"
+    ],
+    "correctAnswer": "-63",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "-32 - 31 =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1056/5",
+      "-1/5",
+      "-1056/5",
+      "-32/165"
+    ],
+    "correctAnswer": "-1056/5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(32/5) x (-33) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "187/1",
+      "-1/6",
+      "-11/68",
+      "-187/1"
+    ],
+    "correctAnswer": "-187/1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(33/6) x (-34) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1190/3",
+      "1190/3",
+      "-1/3",
+      "-34/105"
+    ],
+    "correctAnswer": "-1190/3",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(34/3) x (-35) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "315/1",
+      "-315/1",
+      "-1/4",
+      "-35/144"
+    ],
+    "correctAnswer": "-315/1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(35/4) x (-36) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1332/5",
+      "-1/5",
+      "-1332/5",
+      "-36/185"
+    ],
+    "correctAnswer": "-1332/5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(36/5) x (-37) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "703/3",
+      "-1/6",
+      "-37/228",
+      "-703/3"
+    ],
+    "correctAnswer": "-703/3",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(37/6) x (-38) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-494/1",
+      "494/1",
+      "-1/3",
+      "-38/117"
+    ],
+    "correctAnswer": "-494/1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(38/3) x (-39) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "390/1",
+      "-390/1",
+      "-1/4",
+      "-39/160"
+    ],
+    "correctAnswer": "-390/1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(39/4) x (-40) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "328/1",
+      "-1/5",
+      "-328/1",
+      "-8/41"
+    ],
+    "correctAnswer": "-328/1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(40/5) x (-41) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "287/1",
+      "-1/6",
+      "-41/252",
+      "-287/1"
+    ],
+    "correctAnswer": "-287/1",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "(41/6) x (-42) =",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-42.8",
+      "-43.2",
+      "43.1",
+      "They are equal"
+    ],
+    "correctAnswer": "-43.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -43.2, -42.8, 43.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-44.2",
+      "-43.8",
+      "44.1",
+      "They are equal"
+    ],
+    "correctAnswer": "-44.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -44.2, -43.8, 44.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-45.2",
+      "45.1",
+      "-44.8",
+      "They are equal"
+    ],
+    "correctAnswer": "-45.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -45.2, -44.8, 45.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-46.2",
+      "46.1",
+      "They are equal",
+      "-45.8"
+    ],
+    "correctAnswer": "-46.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -46.2, -45.8, 46.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-46.8",
+      "-47.2",
+      "47.1",
+      "They are equal"
+    ],
+    "correctAnswer": "-47.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -47.2, -46.8, 47.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-48.2",
+      "-47.8",
+      "48.1",
+      "They are equal"
+    ],
+    "correctAnswer": "-48.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -48.2, -47.8, 48.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-49.2",
+      "49.1",
+      "-48.8",
+      "They are equal"
+    ],
+    "correctAnswer": "-49.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -49.2, -48.8, 49.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-50.2",
+      "50.1",
+      "They are equal",
+      "-49.8"
+    ],
+    "correctAnswer": "-50.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -50.2, -49.8, 50.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-50.8",
+      "-51.2",
+      "51.1",
+      "They are equal"
+    ],
+    "correctAnswer": "-51.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -51.2, -50.8, 51.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-52.2",
+      "-51.8",
+      "52.1",
+      "They are equal"
+    ],
+    "correctAnswer": "-52.2",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Which is least: -52.2, -51.8, 52.1?",
+    "topic": "Rational Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "5",
+      "2",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 2x + 3 = 7",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "-1",
+      "7",
+      "3"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 3x - 4 = 5",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "21",
+      "9",
+      "16"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 4x + 5 = 21",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "5",
+      "-1",
+      "11"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 5x - 6 = 19",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "13",
+      "6",
+      "36"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 6x + 7 = 43",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "-1",
+      "15",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 2x - 8 = 6",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "33",
+      "17",
+      "24"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 3x + 9 = 33",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "9",
+      "-1",
+      "19"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 4x - 10 = 26",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "53",
+      "13",
+      "10",
+      "50"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 5x + 3 = 53",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "62",
+      "7",
+      "15",
+      "11"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 6x - 4 = 62",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "29",
+      "17",
+      "24"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 5 = 29",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "13",
+      "7",
+      "19"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 6 = 33",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "21",
+      "14",
+      "56"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 7 = 63",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "67",
+      "7",
+      "23",
+      "15"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 8 = 67",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "105",
+      "25",
+      "96"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 6x + 9 = 105",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "17",
+      "7",
+      "27"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x - 10 = 24",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "21",
+      "18",
+      "54"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x + 3 = 57",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "72",
+      "15",
+      "23",
+      "19"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x - 4 = 72",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "105",
+      "25",
+      "100"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x + 5 = 105",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "120",
+      "21",
+      "15",
+      "27"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 6x - 6 = 120",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "29",
+      "22",
+      "44"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 7 = 51",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61",
+      "15",
+      "31",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 8 = 61",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "105",
+      "33",
+      "96"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 9 = 105",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "115",
+      "25",
+      "15",
+      "35"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 10 = 115",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "159",
+      "29",
+      "26",
+      "156"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 6x + 3 = 159",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "23",
+      "31",
+      "27"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x - 4 = 50",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "89",
+      "33",
+      "84"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x + 5 = 89",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "110",
+      "29",
+      "23",
+      "35"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x - 6 = 110",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "157",
+      "37",
+      "30",
+      "150"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x + 7 = 157",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "178",
+      "23",
+      "39",
+      "31"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 6x - 8 = 178",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "73",
+      "41",
+      "64"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 9 = 73",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "89",
+      "33",
+      "23",
+      "43"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 10 = 89",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "139",
+      "37",
+      "34",
+      "136"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 3 = 139",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "171",
+      "31",
+      "39",
+      "35"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 4 = 171",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "221",
+      "41",
+      "216"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 6x + 5 = 221",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "68",
+      "37",
+      "31",
+      "43"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x - 6 = 68",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "121",
+      "45",
+      "38",
+      "114"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x + 7 = 121",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "148",
+      "31",
+      "47",
+      "39"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x - 8 = 148",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "209",
+      "49",
+      "200"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x + 9 = 209",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "236",
+      "41",
+      "31",
+      "51"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 6x - 10 = 236",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "87",
+      "45",
+      "42",
+      "84"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 2x + 3 = 87",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "125",
+      "39",
+      "47",
+      "43"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 3x - 4 = 125",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44",
+      "181",
+      "49",
+      "176"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 4x + 5 = 181",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "219",
+      "45",
+      "39",
+      "51"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 5x - 6 = 219",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "283",
+      "53",
+      "46",
+      "276"
+    ],
+    "correctAnswer": "46",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 6x + 7 = 283",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "86",
+      "39",
+      "55",
+      "47"
+    ],
+    "correctAnswer": "47",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 2x - 8 = 86",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48",
+      "153",
+      "57",
+      "144"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 3x + 9 = 153",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "186",
+      "49",
+      "39",
+      "59"
+    ],
+    "correctAnswer": "49",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 4x - 10 = 186",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "253",
+      "53",
+      "50",
+      "250"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 5x + 3 = 253",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "302",
+      "47",
+      "55",
+      "51"
+    ],
+    "correctAnswer": "51",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 6x - 4 = 302",
+    "topic": "Two-Step Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 3",
+      "x > 6",
+      "x < 3",
+      "x > 5"
+    ],
+    "correctAnswer": "x > 3",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 2x + 2 > 8",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 12",
+      "x <= 4",
+      "x >= 4",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 4",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 3x - 3 <= 9",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 20",
+      "x < 5",
+      "x > 5",
+      "x > 9"
+    ],
+    "correctAnswer": "x > 5",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 4x + 4 > 24",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 30",
+      "x >= 6",
+      "x <= 1",
+      "x <= 6"
+    ],
+    "correctAnswer": "x <= 6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 5x - 5 <= 25",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 7",
+      "x > 14",
+      "x < 7",
+      "x > 13"
+    ],
+    "correctAnswer": "x > 7",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 2x + 6 > 20",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 24",
+      "x <= 8",
+      "x >= 8",
+      "x <= 1"
+    ],
+    "correctAnswer": "x <= 8",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 3x - 7 <= 17",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 36",
+      "x < 9",
+      "x > 9",
+      "x > 11"
+    ],
+    "correctAnswer": "x > 9",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 4x + 2 > 38",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 50",
+      "x >= 10",
+      "x <= 7",
+      "x <= 10"
+    ],
+    "correctAnswer": "x <= 10",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Solve: 5x - 3 <= 47",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 11",
+      "x > 22",
+      "x < 11",
+      "x > 15"
+    ],
+    "correctAnswer": "x > 11",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 4 > 26",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 36",
+      "x <= 12",
+      "x >= 12",
+      "x <= 7"
+    ],
+    "correctAnswer": "x <= 12",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 5 <= 31",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 52",
+      "x < 13",
+      "x > 13",
+      "x > 19"
+    ],
+    "correctAnswer": "x > 13",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 6 > 58",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 70",
+      "x >= 14",
+      "x <= 7",
+      "x <= 14"
+    ],
+    "correctAnswer": "x <= 14",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 7 <= 63",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 15",
+      "x > 30",
+      "x < 15",
+      "x > 17"
+    ],
+    "correctAnswer": "x > 15",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 2 > 32",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 48",
+      "x <= 16",
+      "x >= 16",
+      "x <= 13"
+    ],
+    "correctAnswer": "x <= 16",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 3 <= 45",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 68",
+      "x < 17",
+      "x > 17",
+      "x > 21"
+    ],
+    "correctAnswer": "x > 17",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 4 > 72",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 90",
+      "x >= 18",
+      "x <= 13",
+      "x <= 18"
+    ],
+    "correctAnswer": "x <= 18",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 5 <= 85",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 19",
+      "x > 38",
+      "x < 19",
+      "x > 25"
+    ],
+    "correctAnswer": "x > 19",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 6 > 44",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 60",
+      "x <= 20",
+      "x >= 20",
+      "x <= 13"
+    ],
+    "correctAnswer": "x <= 20",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 7 <= 53",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 84",
+      "x < 21",
+      "x > 21",
+      "x > 23"
+    ],
+    "correctAnswer": "x > 21",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 2 > 86",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 110",
+      "x >= 22",
+      "x <= 19",
+      "x <= 22"
+    ],
+    "correctAnswer": "x <= 22",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 3 <= 107",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 23",
+      "x > 46",
+      "x < 23",
+      "x > 27"
+    ],
+    "correctAnswer": "x > 23",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 4 > 50",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 72",
+      "x <= 24",
+      "x >= 24",
+      "x <= 19"
+    ],
+    "correctAnswer": "x <= 24",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 5 <= 67",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 100",
+      "x < 25",
+      "x > 25",
+      "x > 31"
+    ],
+    "correctAnswer": "x > 25",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 6 > 106",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 130",
+      "x >= 26",
+      "x <= 19",
+      "x <= 26"
+    ],
+    "correctAnswer": "x <= 26",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 7 <= 123",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 27",
+      "x > 54",
+      "x < 27",
+      "x > 29"
+    ],
+    "correctAnswer": "x > 27",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 2 > 56",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 84",
+      "x <= 28",
+      "x >= 28",
+      "x <= 25"
+    ],
+    "correctAnswer": "x <= 28",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 3 <= 81",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 116",
+      "x < 29",
+      "x > 29",
+      "x > 33"
+    ],
+    "correctAnswer": "x > 29",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 4 > 120",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 150",
+      "x >= 30",
+      "x <= 25",
+      "x <= 30"
+    ],
+    "correctAnswer": "x <= 30",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 5 <= 145",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 31",
+      "x > 62",
+      "x < 31",
+      "x > 37"
+    ],
+    "correctAnswer": "x > 31",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 2x + 6 > 68",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 96",
+      "x <= 32",
+      "x >= 32",
+      "x <= 25"
+    ],
+    "correctAnswer": "x <= 32",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 3x - 7 <= 89",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 132",
+      "x < 33",
+      "x > 33",
+      "x > 35"
+    ],
+    "correctAnswer": "x > 33",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 4x + 2 > 134",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 170",
+      "x >= 34",
+      "x <= 31",
+      "x <= 34"
+    ],
+    "correctAnswer": "x <= 34",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Solve: 5x - 3 <= 167",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 35",
+      "x > 70",
+      "x < 35",
+      "x > 39"
+    ],
+    "correctAnswer": "x > 35",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 2x + 4 > 74",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 108",
+      "x <= 36",
+      "x >= 36",
+      "x <= 31"
+    ],
+    "correctAnswer": "x <= 36",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 3x - 5 <= 103",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 148",
+      "x < 37",
+      "x > 37",
+      "x > 43"
+    ],
+    "correctAnswer": "x > 37",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 4x + 6 > 154",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 190",
+      "x >= 38",
+      "x <= 31",
+      "x <= 38"
+    ],
+    "correctAnswer": "x <= 38",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 5x - 7 <= 183",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 39",
+      "x > 78",
+      "x < 39",
+      "x > 41"
+    ],
+    "correctAnswer": "x > 39",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 2x + 2 > 80",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 120",
+      "x <= 40",
+      "x >= 40",
+      "x <= 37"
+    ],
+    "correctAnswer": "x <= 40",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 3x - 3 <= 117",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 164",
+      "x < 41",
+      "x > 41",
+      "x > 45"
+    ],
+    "correctAnswer": "x > 41",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 4x + 4 > 168",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x <= 210",
+      "x >= 42",
+      "x <= 37",
+      "x <= 42"
+    ],
+    "correctAnswer": "x <= 42",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Solve: 5x - 5 <= 205",
+    "topic": "Two-Step Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(1)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/3",
+      "1/6",
+      "1/2",
+      "2/6"
+    ],
+    "correctAnswer": "1/6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(2)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/3",
+      "1/2",
+      "1/6",
+      "3/6"
+    ],
+    "correctAnswer": "1/6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(3)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/3",
+      "1/2",
+      "4/6",
+      "1/6"
+    ],
+    "correctAnswer": "1/6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(4)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "5/6"
+    ],
+    "correctAnswer": "1/6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(5)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/3",
+      "1/6",
+      "1/2",
+      "6/6"
+    ],
+    "correctAnswer": "1/6",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(6)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(an even number)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/6",
+      "1/3",
+      "2/3",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(an odd number)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/3",
+      "1/2",
+      "1/6",
+      "2/3"
+    ],
+    "correctAnswer": "1/3",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(a number greater than 4)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "2/3"
+    ],
+    "correctAnswer": "1/3",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A fair die is rolled. What is P(a number less than 3)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "1/4",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A fair coin is flipped. What is P(tails)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Two fair coins are flipped. What is P(exactly 1 head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1/3"
+    ],
+    "correctAnswer": "1/4",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Two fair coins are flipped. What is P(2 heads)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "3/4",
+      "1/4",
+      "1"
+    ],
+    "correctAnswer": "3/4",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Two fair coins are flipped. What is P(at least 1 head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "3/8"
+    ],
+    "correctAnswer": "1/8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Three fair coins are flipped. What is P(3 tails)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "3/8"
+    ],
+    "correctAnswer": "3/8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Three fair coins are flipped. What is P(exactly 2 heads)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "3/8",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Three fair coins are flipped. What is P(at least 2 heads)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "1/16",
+      "1/8",
+      "1/2"
+    ],
+    "correctAnswer": "1/16",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Four fair coins are flipped. What is P(no heads)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/4",
+      "3/8",
+      "1/16"
+    ],
+    "correctAnswer": "3/8",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Four fair coins are flipped. What is P(exactly 2 heads)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/16",
+      "3/4",
+      "1/2",
+      "15/16"
+    ],
+    "correctAnswer": "15/16",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Four fair coins are flipped. What is P(at least 1 tail)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/3",
+      "2/3",
+      "1/2",
+      "3/1"
+    ],
+    "correctAnswer": "1/3",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 5 red and 10 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11/17",
+      "6/17",
+      "6/11",
+      "17/6"
+    ],
+    "correctAnswer": "6/17",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 6 red and 11 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12/19",
+      "7/12",
+      "7/19",
+      "19/7"
+    ],
+    "correctAnswer": "7/19",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 7 red and 12 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13/21",
+      "8/13",
+      "21/8",
+      "8/21"
+    ],
+    "correctAnswer": "8/21",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 8 red and 13 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9/23",
+      "14/23",
+      "9/14",
+      "23/9"
+    ],
+    "correctAnswer": "9/23",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 9 red and 14 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/5",
+      "2/5",
+      "2/3",
+      "5/2"
+    ],
+    "correctAnswer": "2/5",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 10 red and 15 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16/27",
+      "11/16",
+      "11/27",
+      "27/11"
+    ],
+    "correctAnswer": "11/27",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 11 red and 16 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17/29",
+      "12/17",
+      "29/12",
+      "12/29"
+    ],
+    "correctAnswer": "12/29",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 12 red and 17 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13/31",
+      "18/31",
+      "13/18",
+      "31/13"
+    ],
+    "correctAnswer": "13/31",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 13 red and 18 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19/33",
+      "14/33",
+      "14/19",
+      "33/14"
+    ],
+    "correctAnswer": "14/33",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A bag has 14 red and 19 blue marbles. What is P(red)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2/1",
+      "1/1",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A spinner has 10 equal sections; 5 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11/6",
+      "6/5",
+      "5/11",
+      "6/11"
+    ],
+    "correctAnswer": "6/11",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A spinner has 11 equal sections; 6 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/12",
+      "12/7",
+      "7/5",
+      "5/12"
+    ],
+    "correctAnswer": "7/12",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 12 equal sections; 7 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13/8",
+      "8/13",
+      "8/5",
+      "5/13"
+    ],
+    "correctAnswer": "8/13",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 13 equal sections; 8 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14/9",
+      "9/5",
+      "9/14",
+      "5/14"
+    ],
+    "correctAnswer": "9/14",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 14 equal sections; 9 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/2",
+      "2/1",
+      "1/3",
+      "2/3"
+    ],
+    "correctAnswer": "2/3",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 15 equal sections; 10 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11/16",
+      "16/11",
+      "11/5",
+      "5/16"
+    ],
+    "correctAnswer": "11/16",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 16 equal sections; 11 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17/12",
+      "12/17",
+      "12/5",
+      "5/17"
+    ],
+    "correctAnswer": "12/17",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 17 equal sections; 12 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18/13",
+      "13/5",
+      "13/18",
+      "5/18"
+    ],
+    "correctAnswer": "13/18",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 18 equal sections; 13 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19/14",
+      "14/5",
+      "5/19",
+      "14/19"
+    ],
+    "correctAnswer": "14/19",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A spinner has 19 equal sections; 14 are green. What is P(green)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24 cubic units",
+      "9 cubic units",
+      "24 square units",
+      "14 cubic units"
+    ],
+    "correctAnswer": "24 cubic units",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A prism is 4 by 3 by 2. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12 cubic units",
+      "60 cubic units",
+      "60 square units",
+      "23 cubic units"
+    ],
+    "correctAnswer": "60 cubic units",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A prism is 5 by 4 by 3. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15 cubic units",
+      "120 square units",
+      "120 cubic units",
+      "34 cubic units"
+    ],
+    "correctAnswer": "120 cubic units",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A prism is 6 by 5 by 4. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18 cubic units",
+      "210 square units",
+      "47 cubic units",
+      "210 cubic units"
+    ],
+    "correctAnswer": "210 cubic units",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A prism is 7 by 6 by 5. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "336 cubic units",
+      "21 cubic units",
+      "336 square units",
+      "62 cubic units"
+    ],
+    "correctAnswer": "336 cubic units",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A prism is 8 by 7 by 6. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19 cubic units",
+      "144 cubic units",
+      "144 square units",
+      "74 cubic units"
+    ],
+    "correctAnswer": "144 cubic units",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A prism is 9 by 8 by 2. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16 cubic units",
+      "90 square units",
+      "90 cubic units",
+      "33 cubic units"
+    ],
+    "correctAnswer": "90 cubic units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A prism is 10 by 3 by 3. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19 cubic units",
+      "176 square units",
+      "48 cubic units",
+      "176 cubic units"
+    ],
+    "correctAnswer": "176 cubic units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A prism is 11 by 4 by 4. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "300 cubic units",
+      "22 cubic units",
+      "300 square units",
+      "65 cubic units"
+    ],
+    "correctAnswer": "300 cubic units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A prism is 12 by 5 by 5. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25 cubic units",
+      "468 cubic units",
+      "468 square units",
+      "84 cubic units"
+    ],
+    "correctAnswer": "468 cubic units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A prism is 13 by 6 by 6. What is its volume?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42 units",
+      "21 square units",
+      "98 square units",
+      "112 square units"
+    ],
+    "correctAnswer": "98 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 14 by 7 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46 units",
+      "23 square units",
+      "135 square units",
+      "120 square units"
+    ],
+    "correctAnswer": "120 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 15 by 8 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48 square units",
+      "38 units",
+      "19 square units",
+      "64 square units"
+    ],
+    "correctAnswer": "48 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 16 by 3 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42 units",
+      "68 square units",
+      "21 square units",
+      "85 square units"
+    ],
+    "correctAnswer": "68 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 17 by 4 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46 units",
+      "23 square units",
+      "90 square units",
+      "108 square units"
+    ],
+    "correctAnswer": "90 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 18 by 5 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50 units",
+      "25 square units",
+      "133 square units",
+      "114 square units"
+    ],
+    "correctAnswer": "114 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 19 by 6 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "140 square units",
+      "54 units",
+      "27 square units",
+      "160 square units"
+    ],
+    "correctAnswer": "140 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 20 by 7 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "58 units",
+      "168 square units",
+      "29 square units",
+      "189 square units"
+    ],
+    "correctAnswer": "168 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 21 by 8 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50 units",
+      "25 square units",
+      "66 square units",
+      "88 square units"
+    ],
+    "correctAnswer": "66 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 22 by 3 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54 units",
+      "27 square units",
+      "115 square units",
+      "92 square units"
+    ],
+    "correctAnswer": "92 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A rectangle is 23 by 4 units. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "130 square units",
+      "120 square units",
+      "31 square units",
+      "48 square units"
+    ],
+    "correctAnswer": "130 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A composite shape has rectangles 24 by 5 and 2 by 5. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "150 square units",
+      "168 square units",
+      "34 square units",
+      "75 square units"
+    ],
+    "correctAnswer": "168 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A composite shape has rectangles 25 by 6 and 3 by 6. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "182 square units",
+      "37 square units",
+      "210 square units",
+      "104 square units"
+    ],
+    "correctAnswer": "210 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A composite shape has rectangles 26 by 7 and 4 by 7. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "216 square units",
+      "40 square units",
+      "135 square units",
+      "256 square units"
+    ],
+    "correctAnswer": "256 square units",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A composite shape has rectangles 27 by 8 and 5 by 8. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "102 square units",
+      "84 square units",
+      "37 square units",
+      "168 square units"
+    ],
+    "correctAnswer": "102 square units",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A composite shape has rectangles 28 by 3 and 6 by 3. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "116 square units",
+      "124 square units",
+      "35 square units",
+      "58 square units"
+    ],
+    "correctAnswer": "124 square units",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A composite shape has rectangles 29 by 4 and 2 by 4. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "150 square units",
+      "38 square units",
+      "165 square units",
+      "90 square units"
+    ],
+    "correctAnswer": "165 square units",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A composite shape has rectangles 30 by 5 and 3 by 5. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "186 square units",
+      "41 square units",
+      "124 square units",
+      "210 square units"
+    ],
+    "correctAnswer": "210 square units",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A composite shape has rectangles 31 by 6 and 4 by 6. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "259 square units",
+      "224 square units",
+      "44 square units",
+      "160 square units"
+    ],
+    "correctAnswer": "259 square units",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A composite shape has rectangles 32 by 7 and 5 by 7. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "264 square units",
+      "312 square units",
+      "47 square units",
+      "198 square units"
+    ],
+    "correctAnswer": "312 square units",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A composite shape has rectangles 33 by 8 and 6 by 8. What is its area?",
+    "topic": "Area and Volume",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6.28",
+      "4",
+      "12.56",
+      "1"
+    ],
+    "correctAnswer": "12.56",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 2?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "9.42",
+      "28.26",
+      "6",
+      "18.84"
+    ],
+    "correctAnswer": "18.84",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 3?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "25.12",
+      "12.56",
+      "50.24",
+      "8"
+    ],
+    "correctAnswer": "25.12",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 4?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "15.70",
+      "31.40",
+      "78.50",
+      "10"
+    ],
+    "correctAnswer": "31.40",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 5?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "18.84",
+      "113.04",
+      "37.68",
+      "12"
+    ],
+    "correctAnswer": "37.68",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 6?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "21.98",
+      "153.86",
+      "14",
+      "43.96"
+    ],
+    "correctAnswer": "43.96",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 7?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "50.24",
+      "25.12",
+      "200.96",
+      "16"
+    ],
+    "correctAnswer": "50.24",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 8?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "28.26",
+      "56.52",
+      "254.34",
+      "18"
+    ],
+    "correctAnswer": "56.52",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 9?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "31.40",
+      "314.00",
+      "62.80",
+      "20"
+    ],
+    "correctAnswer": "62.80",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 10?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "34.54",
+      "379.94",
+      "22",
+      "69.08"
+    ],
+    "correctAnswer": "69.08",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the circumference of a circle with radius 11?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "12.56",
+      "6.28",
+      "4",
+      "1"
+    ],
+    "correctAnswer": "12.56",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 2?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "18.84",
+      "28.26",
+      "9.42",
+      "9"
+    ],
+    "correctAnswer": "28.26",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 3?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "25.12",
+      "12.56",
+      "50.24",
+      "16"
+    ],
+    "correctAnswer": "50.24",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 4?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "31.40",
+      "15.70",
+      "25",
+      "78.50"
+    ],
+    "correctAnswer": "78.50",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 5?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "113.04",
+      "37.68",
+      "18.84",
+      "36"
+    ],
+    "correctAnswer": "113.04",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 6?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "43.96",
+      "153.86",
+      "21.98",
+      "49"
+    ],
+    "correctAnswer": "153.86",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 7?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "50.24",
+      "25.12",
+      "200.96",
+      "64"
+    ],
+    "correctAnswer": "200.96",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 8?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "56.52",
+      "28.26",
+      "81",
+      "254.34"
+    ],
+    "correctAnswer": "254.34",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 9?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "314.00",
+      "62.80",
+      "31.40",
+      "100"
+    ],
+    "correctAnswer": "314.00",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 10?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "69.08",
+      "379.94",
+      "34.54",
+      "121"
+    ],
+    "correctAnswer": "379.94",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Use pi = 3.14. What is the area of a circle with radius 11?",
+    "topic": "Geometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "130 degrees",
+      "30 degrees",
+      "50 degrees",
+      "190 degrees"
+    ],
+    "correctAnswer": "50 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 70 and 60 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "133 degrees",
+      "29 degrees",
+      "191 degrees",
+      "47 degrees"
+    ],
+    "correctAnswer": "47 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 72 and 61 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44 degrees",
+      "136 degrees",
+      "28 degrees",
+      "192 degrees"
+    ],
+    "correctAnswer": "44 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 74 and 62 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "139 degrees",
+      "41 degrees",
+      "27 degrees",
+      "193 degrees"
+    ],
+    "correctAnswer": "41 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 76 and 63 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "142 degrees",
+      "26 degrees",
+      "38 degrees",
+      "194 degrees"
+    ],
+    "correctAnswer": "38 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 78 and 64 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "145 degrees",
+      "25 degrees",
+      "195 degrees",
+      "35 degrees"
+    ],
+    "correctAnswer": "35 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 80 and 65 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32 degrees",
+      "148 degrees",
+      "24 degrees",
+      "196 degrees"
+    ],
+    "correctAnswer": "32 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 82 and 66 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "151 degrees",
+      "29 degrees",
+      "23 degrees",
+      "197 degrees"
+    ],
+    "correctAnswer": "29 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 84 and 67 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "154 degrees",
+      "22 degrees",
+      "26 degrees",
+      "198 degrees"
+    ],
+    "correctAnswer": "26 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 86 and 68 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "157 degrees",
+      "21 degrees",
+      "199 degrees",
+      "23 degrees"
+    ],
+    "correctAnswer": "23 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A triangle has angles 88 and 69 degrees. Find the third angle.",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "60 degrees",
+      "-30 degrees",
+      "300 degrees",
+      "120 degrees"
+    ],
+    "correctAnswer": "60 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Two supplementary angles include 120 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-33 degrees",
+      "57 degrees",
+      "303 degrees",
+      "123 degrees"
+    ],
+    "correctAnswer": "57 degrees",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "Two supplementary angles include 123 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-36 degrees",
+      "306 degrees",
+      "54 degrees",
+      "126 degrees"
+    ],
+    "correctAnswer": "54 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 126 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-39 degrees",
+      "309 degrees",
+      "129 degrees",
+      "51 degrees"
+    ],
+    "correctAnswer": "51 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 129 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48 degrees",
+      "-42 degrees",
+      "312 degrees",
+      "132 degrees"
+    ],
+    "correctAnswer": "48 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 132 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-45 degrees",
+      "45 degrees",
+      "315 degrees",
+      "135 degrees"
+    ],
+    "correctAnswer": "45 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 135 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-48 degrees",
+      "318 degrees",
+      "42 degrees",
+      "138 degrees"
+    ],
+    "correctAnswer": "42 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 138 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-51 degrees",
+      "321 degrees",
+      "141 degrees",
+      "39 degrees"
+    ],
+    "correctAnswer": "39 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 141 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36 degrees",
+      "-54 degrees",
+      "324 degrees",
+      "144 degrees"
+    ],
+    "correctAnswer": "36 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 144 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-57 degrees",
+      "33 degrees",
+      "327 degrees",
+      "147 degrees"
+    ],
+    "correctAnswer": "33 degrees",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "Two supplementary angles include 147 degrees. What is the other angle?",
+    "topic": "Geometry",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5 km",
+      "2 km",
+      "6 km",
+      "8 km"
+    ],
+    "correctAnswer": "6 km",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 2 km. What distance is 3 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7 km",
+      "3 km",
+      "15 km",
+      "12 km"
+    ],
+    "correctAnswer": "12 km",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 3 km. What distance is 4 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km",
+      "9 km",
+      "4 km",
+      "24 km"
+    ],
+    "correctAnswer": "20 km",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 4 km. What distance is 5 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11 km",
+      "30 km",
+      "5 km",
+      "35 km"
+    ],
+    "correctAnswer": "30 km",
+    "difficulty": "easy",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 5 km. What distance is 6 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13 km",
+      "6 km",
+      "42 km",
+      "48 km"
+    ],
+    "correctAnswer": "42 km",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 6 km. What distance is 7 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10 km",
+      "2 km",
+      "18 km",
+      "16 km"
+    ],
+    "correctAnswer": "16 km",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 2 km. What distance is 8 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27 km",
+      "12 km",
+      "3 km",
+      "30 km"
+    ],
+    "correctAnswer": "27 km",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 3 km. What distance is 9 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14 km",
+      "40 km",
+      "4 km",
+      "44 km"
+    ],
+    "correctAnswer": "40 km",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 4 km. What distance is 10 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16 km",
+      "5 km",
+      "55 km",
+      "60 km"
+    ],
+    "correctAnswer": "55 km",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 5 km. What distance is 11 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18 km",
+      "6 km",
+      "78 km",
+      "72 km"
+    ],
+    "correctAnswer": "72 km",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A map scale is 1 cm : 6 km. What distance is 12 cm?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13 cm",
+      "26 cm",
+      "52 cm",
+      "15 cm"
+    ],
+    "correctAnswer": "13 cm",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A model uses scale 1:2. A real length is 26 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42 cm",
+      "14 cm",
+      "126 cm",
+      "17 cm"
+    ],
+    "correctAnswer": "14 cm",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A model uses scale 1:3. A real length is 42 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "60 cm",
+      "240 cm",
+      "15 cm",
+      "19 cm"
+    ],
+    "correctAnswer": "15 cm",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A model uses scale 1:4. A real length is 60 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80 cm",
+      "400 cm",
+      "21 cm",
+      "16 cm"
+    ],
+    "correctAnswer": "16 cm",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A model uses scale 1:5. A real length is 80 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17 cm",
+      "102 cm",
+      "612 cm",
+      "23 cm"
+    ],
+    "correctAnswer": "17 cm",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A model uses scale 1:6. A real length is 102 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36 cm",
+      "18 cm",
+      "72 cm",
+      "20 cm"
+    ],
+    "correctAnswer": "18 cm",
+    "difficulty": "medium",
+    "grade": 7,
+    "question": "A model uses scale 1:2. A real length is 36 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57 cm",
+      "171 cm",
+      "19 cm",
+      "22 cm"
+    ],
+    "correctAnswer": "19 cm",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A model uses scale 1:3. A real length is 57 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80 cm",
+      "320 cm",
+      "24 cm",
+      "20 cm"
+    ],
+    "correctAnswer": "20 cm",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A model uses scale 1:4. A real length is 80 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21 cm",
+      "105 cm",
+      "525 cm",
+      "26 cm"
+    ],
+    "correctAnswer": "21 cm",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A model uses scale 1:5. A real length is 105 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "132 cm",
+      "22 cm",
+      "792 cm",
+      "28 cm"
+    ],
+    "correctAnswer": "22 cm",
+    "difficulty": "hard",
+    "grade": 7,
+    "question": "A model uses scale 1:6. A real length is 132 cm. What is the model length?",
+    "topic": "Scale Drawings",
+    "uses_pi": false
+  }
+]

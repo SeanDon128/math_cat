@@ -1,0 +1,8472 @@
+[
+  {
+    "choices": [
+      "-1",
+      "1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i²",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8 + 2i",
+      "8 - 2i",
+      "10 - 2i",
+      "6 + 2i"
+    ],
+    "correctAnswer": "8 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (3 + 4i) + (5 - 6i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3 + 5i",
+      "5 - 3i",
+      "5 + -3i",
+      "5"
+    ],
+    "correctAnswer": "5 + -3i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (4 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "0",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i⁶",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14 - 2i",
+      "14 + 2i",
+      "16 - 2i",
+      "12 + 2i"
+    ],
+    "correctAnswer": "14 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (6 + 7i) + (8 - 9i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6 + 8i",
+      "8 + -6i",
+      "8 - 6i",
+      "8"
+    ],
+    "correctAnswer": "8 + -6i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (7 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "-1",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i¹⁰",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 + 2i",
+      "22 - 2i",
+      "18 + 2i",
+      "20 - 2i"
+    ],
+    "correctAnswer": "20 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (9 + 10i) + (11 - 12i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11 + -9i",
+      "9 + 11i",
+      "11 - 9i",
+      "11"
+    ],
+    "correctAnswer": "11 + -9i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (10 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i¹⁴",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26 + 2i",
+      "28 - 2i",
+      "26 - 2i",
+      "24 + 2i"
+    ],
+    "correctAnswer": "26 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (12 + 13i) + (14 - 15i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12 + 14i",
+      "14 - 12i",
+      "14",
+      "14 + -12i"
+    ],
+    "correctAnswer": "14 + -12i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (13 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i¹⁸",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32 + 2i",
+      "32 - 2i",
+      "34 - 2i",
+      "30 + 2i"
+    ],
+    "correctAnswer": "32 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (15 + 16i) + (17 - 18i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15 + 17i",
+      "17 - 15i",
+      "17 + -15i",
+      "17"
+    ],
+    "correctAnswer": "17 + -15i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (16 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "0",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i²²",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38 - 2i",
+      "38 + 2i",
+      "40 - 2i",
+      "36 + 2i"
+    ],
+    "correctAnswer": "38 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (18 + 19i) + (20 - 21i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18 + 20i",
+      "20 + -18i",
+      "20 - 18i",
+      "20"
+    ],
+    "correctAnswer": "20 + -18i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (19 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "-1",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i²⁶",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44 + 2i",
+      "46 - 2i",
+      "42 + 2i",
+      "44 - 2i"
+    ],
+    "correctAnswer": "44 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (21 + 22i) + (23 - 24i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23 + -21i",
+      "21 + 23i",
+      "23 - 21i",
+      "23"
+    ],
+    "correctAnswer": "23 + -21i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (22 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i³⁰",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50 + 2i",
+      "52 - 2i",
+      "50 - 2i",
+      "48 + 2i"
+    ],
+    "correctAnswer": "50 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (24 + 25i) + (26 - 27i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24 + 26i",
+      "26 - 24i",
+      "26",
+      "26 + -24i"
+    ],
+    "correctAnswer": "26 + -24i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (25 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i³⁴",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56 + 2i",
+      "56 - 2i",
+      "58 - 2i",
+      "54 + 2i"
+    ],
+    "correctAnswer": "56 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (27 + 28i) + (29 - 30i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27 + 29i",
+      "29 - 27i",
+      "29 + -27i",
+      "29"
+    ],
+    "correctAnswer": "29 + -27i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (28 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "0",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i³⁸",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "62 - 2i",
+      "62 + 2i",
+      "64 - 2i",
+      "60 + 2i"
+    ],
+    "correctAnswer": "62 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (30 + 31i) + (32 - 33i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30 + 32i",
+      "32 + -30i",
+      "32 - 30i",
+      "32"
+    ],
+    "correctAnswer": "32 + -30i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (31 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "-1",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i⁴²",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "68 + 2i",
+      "70 - 2i",
+      "66 + 2i",
+      "68 - 2i"
+    ],
+    "correctAnswer": "68 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (33 + 34i) + (35 - 36i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35 + -33i",
+      "33 + 35i",
+      "35 - 33i",
+      "35"
+    ],
+    "correctAnswer": "35 + -33i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (34 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i⁴⁶",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "74 + 2i",
+      "76 - 2i",
+      "74 - 2i",
+      "72 + 2i"
+    ],
+    "correctAnswer": "74 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (36 + 37i) + (38 - 39i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36 + 38i",
+      "38 - 36i",
+      "38",
+      "38 + -36i"
+    ],
+    "correctAnswer": "38 + -36i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (37 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i⁵⁰",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80 + 2i",
+      "80 - 2i",
+      "82 - 2i",
+      "78 + 2i"
+    ],
+    "correctAnswer": "80 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (39 + 40i) + (41 - 42i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39 + 41i",
+      "41 - 39i",
+      "41 + -39i",
+      "41"
+    ],
+    "correctAnswer": "41 + -39i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (40 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "0",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: i⁵⁴",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "86 - 2i",
+      "86 + 2i",
+      "88 - 2i",
+      "84 + 2i"
+    ],
+    "correctAnswer": "86 - 2i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (42 + 43i) + (44 - 45i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42 + 44i",
+      "44 + -42i",
+      "44 - 42i",
+      "44"
+    ],
+    "correctAnswer": "44 + -42i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (43 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "i",
+      "-1",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: i⁵⁸",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "92 + 2i",
+      "94 - 2i",
+      "90 + 2i",
+      "92 - 2i"
+    ],
+    "correctAnswer": "92 - 2i",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Simplify: (45 + 46i) + (47 - 48i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47 + -45i",
+      "45 + 47i",
+      "47 - 45i",
+      "47"
+    ],
+    "correctAnswer": "47 + -45i",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (46 + 1i)(1 - 1i)",
+    "topic": "Complex Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 2x⁴ - 3x² + 4?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-4",
+      "4",
+      "3",
+      "12"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 3)(x + 4)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "3",
+      "-4",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(4) for f(x) = x² - 3x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 5x⁴ - 6x² + 7?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-7",
+      "6",
+      "7",
+      "42"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 6)(x + 7)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "6",
+      "7",
+      "-7"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(7) for f(x) = x² - 6x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 8x⁴ - 9x² + 10?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "-10",
+      "10",
+      "90"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 9)(x + 10)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "100",
+      "10",
+      "9",
+      "-10"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(10) for f(x) = x² - 9x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 11x⁴ - 12x² + 13?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-13",
+      "13",
+      "156",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 12)(x + 13)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "169",
+      "12",
+      "-13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(13) for f(x) = x² - 12x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 14x⁴ - 15x² + 16?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-16",
+      "16",
+      "15",
+      "240"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 15)(x + 16)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "256",
+      "15",
+      "-16",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(16) for f(x) = x² - 15x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 17x⁴ - 18x² + 19?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-19",
+      "18",
+      "19",
+      "342"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 18)(x + 19)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "361",
+      "18",
+      "19",
+      "-19"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(19) for f(x) = x² - 18x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 20x⁴ - 21x² + 22?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "-22",
+      "22",
+      "462"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 21)(x + 22)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "484",
+      "22",
+      "21",
+      "-22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(22) for f(x) = x² - 21x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 23x⁴ - 24x² + 25?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-25",
+      "25",
+      "600",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 24)(x + 25)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "625",
+      "24",
+      "-25"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(25) for f(x) = x² - 24x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 26x⁴ - 27x² + 28?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-28",
+      "28",
+      "27",
+      "756"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 27)(x + 28)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "784",
+      "27",
+      "-28",
+      "28"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(28) for f(x) = x² - 27x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 29x⁴ - 30x² + 31?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-31",
+      "30",
+      "31",
+      "930"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 30)(x + 31)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "961",
+      "30",
+      "31",
+      "-31"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(31) for f(x) = x² - 30x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 32x⁴ - 33x² + 34?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "-34",
+      "34",
+      "1122"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 33)(x + 34)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1156",
+      "34",
+      "33",
+      "-34"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(34) for f(x) = x² - 33x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 35x⁴ - 36x² + 37?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-37",
+      "37",
+      "1332",
+      "36"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 36)(x + 37)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37",
+      "1369",
+      "36",
+      "-37"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(37) for f(x) = x² - 36x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 38x⁴ - 39x² + 40?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-40",
+      "40",
+      "39",
+      "1560"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 39)(x + 40)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1600",
+      "39",
+      "-40",
+      "40"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(40) for f(x) = x² - 39x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 41x⁴ - 42x² + 43?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-43",
+      "42",
+      "43",
+      "1806"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 42)(x + 43)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1849",
+      "42",
+      "43",
+      "-43"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is f(43) for f(x) = x² - 42x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the degree of f(x) = 44x⁴ - 45x² + 46?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45",
+      "-46",
+      "46",
+      "2070"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which is a zero of f(x) = (x - 45)(x + 46)?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2116",
+      "46",
+      "45",
+      "-46"
+    ],
+    "correctAnswer": "46",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is f(46) for f(x) = x² - 45x?",
+    "topic": "Polynomial Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8x² + x + 3",
+      "6x² + 5x + 3",
+      "6x² + x + 3",
+      "6x² + 3"
+    ],
+    "correctAnswer": "6x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (2x² + 3x + 1) + (4x² - 2x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 4x² + 5x + 3",
+      "x³ + 7x² + 4x + 3",
+      "x³ + 3",
+      "x³ + 7x² + 5x + 3"
+    ],
+    "correctAnswer": "x³ + 7x² + 5x + 3",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 3)(x² + 4x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10x² + x + 3",
+      "24x² + x + 3",
+      "10x² + 9x + 3",
+      "10x² + 3"
+    ],
+    "correctAnswer": "10x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (4x² + 5x + 1) + (6x² - 4x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 6x² + 7x + 5",
+      "x³ + 11x² + 7x + 5",
+      "x³ + 11x² + 6x + 5",
+      "x³ + 5"
+    ],
+    "correctAnswer": "x³ + 11x² + 7x + 5",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 5)(x² + 6x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48x² + x + 3",
+      "14x² + 13x + 3",
+      "14x² + x + 3",
+      "14x² + 3"
+    ],
+    "correctAnswer": "14x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (6x² + 7x + 1) + (8x² - 6x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 8x² + 9x + 7",
+      "x³ + 15x² + 8x + 7",
+      "x³ + 7",
+      "x³ + 15x² + 9x + 7"
+    ],
+    "correctAnswer": "x³ + 15x² + 9x + 7",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 7)(x² + 8x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18x² + x + 3",
+      "80x² + x + 3",
+      "18x² + 17x + 3",
+      "18x² + 3"
+    ],
+    "correctAnswer": "18x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (8x² + 9x + 1) + (10x² - 8x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 10x² + 11x + 9",
+      "x³ + 19x² + 11x + 9",
+      "x³ + 19x² + 10x + 9",
+      "x³ + 9"
+    ],
+    "correctAnswer": "x³ + 19x² + 11x + 9",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 9)(x² + 10x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "120x² + x + 3",
+      "22x² + 21x + 3",
+      "22x² + x + 3",
+      "22x² + 3"
+    ],
+    "correctAnswer": "22x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (10x² + 11x + 1) + (12x² - 10x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 12x² + 13x + 11",
+      "x³ + 23x² + 12x + 11",
+      "x³ + 11",
+      "x³ + 23x² + 13x + 11"
+    ],
+    "correctAnswer": "x³ + 23x² + 13x + 11",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 11)(x² + 12x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26x² + x + 3",
+      "168x² + x + 3",
+      "26x² + 25x + 3",
+      "26x² + 3"
+    ],
+    "correctAnswer": "26x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (12x² + 13x + 1) + (14x² - 12x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 14x² + 15x + 13",
+      "x³ + 27x² + 15x + 13",
+      "x³ + 27x² + 14x + 13",
+      "x³ + 13"
+    ],
+    "correctAnswer": "x³ + 27x² + 15x + 13",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 13)(x² + 14x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "224x² + x + 3",
+      "30x² + 29x + 3",
+      "30x² + x + 3",
+      "30x² + 3"
+    ],
+    "correctAnswer": "30x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (14x² + 15x + 1) + (16x² - 14x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 16x² + 17x + 15",
+      "x³ + 31x² + 16x + 15",
+      "x³ + 15",
+      "x³ + 31x² + 17x + 15"
+    ],
+    "correctAnswer": "x³ + 31x² + 17x + 15",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 15)(x² + 16x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34x² + x + 3",
+      "288x² + x + 3",
+      "34x² + 33x + 3",
+      "34x² + 3"
+    ],
+    "correctAnswer": "34x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (16x² + 17x + 1) + (18x² - 16x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 18x² + 19x + 17",
+      "x³ + 35x² + 19x + 17",
+      "x³ + 35x² + 18x + 17",
+      "x³ + 17"
+    ],
+    "correctAnswer": "x³ + 35x² + 19x + 17",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 17)(x² + 18x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "360x² + x + 3",
+      "38x² + 37x + 3",
+      "38x² + x + 3",
+      "38x² + 3"
+    ],
+    "correctAnswer": "38x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (18x² + 19x + 1) + (20x² - 18x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 20x² + 21x + 19",
+      "x³ + 39x² + 20x + 19",
+      "x³ + 19",
+      "x³ + 39x² + 21x + 19"
+    ],
+    "correctAnswer": "x³ + 39x² + 21x + 19",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 19)(x² + 20x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42x² + x + 3",
+      "440x² + x + 3",
+      "42x² + 41x + 3",
+      "42x² + 3"
+    ],
+    "correctAnswer": "42x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (20x² + 21x + 1) + (22x² - 20x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 22x² + 23x + 21",
+      "x³ + 43x² + 23x + 21",
+      "x³ + 43x² + 22x + 21",
+      "x³ + 21"
+    ],
+    "correctAnswer": "x³ + 43x² + 23x + 21",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 21)(x² + 22x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "528x² + x + 3",
+      "46x² + 45x + 3",
+      "46x² + x + 3",
+      "46x² + 3"
+    ],
+    "correctAnswer": "46x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (22x² + 23x + 1) + (24x² - 22x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 24x² + 25x + 23",
+      "x³ + 47x² + 24x + 23",
+      "x³ + 23",
+      "x³ + 47x² + 25x + 23"
+    ],
+    "correctAnswer": "x³ + 47x² + 25x + 23",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 23)(x² + 24x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50x² + x + 3",
+      "624x² + x + 3",
+      "50x² + 49x + 3",
+      "50x² + 3"
+    ],
+    "correctAnswer": "50x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (24x² + 25x + 1) + (26x² - 24x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 26x² + 27x + 25",
+      "x³ + 51x² + 27x + 25",
+      "x³ + 51x² + 26x + 25",
+      "x³ + 25"
+    ],
+    "correctAnswer": "x³ + 51x² + 27x + 25",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 25)(x² + 26x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "728x² + x + 3",
+      "54x² + 53x + 3",
+      "54x² + x + 3",
+      "54x² + 3"
+    ],
+    "correctAnswer": "54x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (26x² + 27x + 1) + (28x² - 26x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 28x² + 29x + 27",
+      "x³ + 55x² + 28x + 27",
+      "x³ + 27",
+      "x³ + 55x² + 29x + 27"
+    ],
+    "correctAnswer": "x³ + 55x² + 29x + 27",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 27)(x² + 28x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "58x² + x + 3",
+      "840x² + x + 3",
+      "58x² + 57x + 3",
+      "58x² + 3"
+    ],
+    "correctAnswer": "58x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (28x² + 29x + 1) + (30x² - 28x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 30x² + 31x + 29",
+      "x³ + 59x² + 31x + 29",
+      "x³ + 59x² + 30x + 29",
+      "x³ + 29"
+    ],
+    "correctAnswer": "x³ + 59x² + 31x + 29",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 29)(x² + 30x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "960x² + x + 3",
+      "62x² + 61x + 3",
+      "62x² + x + 3",
+      "62x² + 3"
+    ],
+    "correctAnswer": "62x² + x + 3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Simplify: (30x² + 31x + 1) + (32x² - 30x + 2)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x³ + 32x² + 33x + 31",
+      "x³ + 63x² + 32x + 31",
+      "x³ + 31",
+      "x³ + 63x² + 33x + 31"
+    ],
+    "correctAnswer": "x³ + 63x² + 33x + 31",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Expand: (x + 31)(x² + 32x + 1)",
+    "topic": "Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 2)",
+      "x(x - 2)",
+      "(x - 2)³",
+      "x²(x + 2)"
+    ],
+    "correctAnswer": "x²(x - 2)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 2x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 3)",
+      "x²(x - 3)",
+      "(x - 3)³",
+      "x²(x + 3)"
+    ],
+    "correctAnswer": "x²(x - 3)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 3x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 4)",
+      "(x - 4)³",
+      "x²(x - 4)",
+      "x²(x + 4)"
+    ],
+    "correctAnswer": "x²(x - 4)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 4x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 5)",
+      "(x - 5)³",
+      "x²(x + 5)",
+      "x²(x - 5)"
+    ],
+    "correctAnswer": "x²(x - 5)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 5x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 6)",
+      "x(x - 6)",
+      "(x - 6)³",
+      "x²(x + 6)"
+    ],
+    "correctAnswer": "x²(x - 6)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 6x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 7)",
+      "x²(x - 7)",
+      "(x - 7)³",
+      "x²(x + 7)"
+    ],
+    "correctAnswer": "x²(x - 7)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 7x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 8)",
+      "(x - 8)³",
+      "x²(x - 8)",
+      "x²(x + 8)"
+    ],
+    "correctAnswer": "x²(x - 8)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 8x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 9)",
+      "(x - 9)³",
+      "x²(x + 9)",
+      "x²(x - 9)"
+    ],
+    "correctAnswer": "x²(x - 9)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 9x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 10)",
+      "x(x - 10)",
+      "(x - 10)³",
+      "x²(x + 10)"
+    ],
+    "correctAnswer": "x²(x - 10)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 10x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 11)",
+      "x²(x - 11)",
+      "(x - 11)³",
+      "x²(x + 11)"
+    ],
+    "correctAnswer": "x²(x - 11)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 11x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 12)",
+      "(x - 12)³",
+      "x²(x - 12)",
+      "x²(x + 12)"
+    ],
+    "correctAnswer": "x²(x - 12)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 12x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 13)",
+      "(x - 13)³",
+      "x²(x + 13)",
+      "x²(x - 13)"
+    ],
+    "correctAnswer": "x²(x - 13)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 13x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 14)",
+      "x(x - 14)",
+      "(x - 14)³",
+      "x²(x + 14)"
+    ],
+    "correctAnswer": "x²(x - 14)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 14x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 15)",
+      "x²(x - 15)",
+      "(x - 15)³",
+      "x²(x + 15)"
+    ],
+    "correctAnswer": "x²(x - 15)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 15x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 16)",
+      "(x - 16)³",
+      "x²(x - 16)",
+      "x²(x + 16)"
+    ],
+    "correctAnswer": "x²(x - 16)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 16x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 17)",
+      "(x - 17)³",
+      "x²(x + 17)",
+      "x²(x - 17)"
+    ],
+    "correctAnswer": "x²(x - 17)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 17x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 18)",
+      "x(x - 18)",
+      "(x - 18)³",
+      "x²(x + 18)"
+    ],
+    "correctAnswer": "x²(x - 18)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 18x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 19)",
+      "x²(x - 19)",
+      "(x - 19)³",
+      "x²(x + 19)"
+    ],
+    "correctAnswer": "x²(x - 19)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 19x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 20)",
+      "(x - 20)³",
+      "x²(x - 20)",
+      "x²(x + 20)"
+    ],
+    "correctAnswer": "x²(x - 20)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 20x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 21)",
+      "(x - 21)³",
+      "x²(x + 21)",
+      "x²(x - 21)"
+    ],
+    "correctAnswer": "x²(x - 21)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 21x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 22)",
+      "x(x - 22)",
+      "(x - 22)³",
+      "x²(x + 22)"
+    ],
+    "correctAnswer": "x²(x - 22)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 22x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 23)",
+      "x²(x - 23)",
+      "(x - 23)³",
+      "x²(x + 23)"
+    ],
+    "correctAnswer": "x²(x - 23)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 23x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 24)",
+      "(x - 24)³",
+      "x²(x - 24)",
+      "x²(x + 24)"
+    ],
+    "correctAnswer": "x²(x - 24)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 24x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 25)",
+      "(x - 25)³",
+      "x²(x + 25)",
+      "x²(x - 25)"
+    ],
+    "correctAnswer": "x²(x - 25)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 25x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 26)",
+      "x(x - 26)",
+      "(x - 26)³",
+      "x²(x + 26)"
+    ],
+    "correctAnswer": "x²(x - 26)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 26x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 27)",
+      "x²(x - 27)",
+      "(x - 27)³",
+      "x²(x + 27)"
+    ],
+    "correctAnswer": "x²(x - 27)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 27x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 28)",
+      "(x - 28)³",
+      "x²(x - 28)",
+      "x²(x + 28)"
+    ],
+    "correctAnswer": "x²(x - 28)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 28x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 29)",
+      "(x - 29)³",
+      "x²(x + 29)",
+      "x²(x - 29)"
+    ],
+    "correctAnswer": "x²(x - 29)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 29x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 30)",
+      "x(x - 30)",
+      "(x - 30)³",
+      "x²(x + 30)"
+    ],
+    "correctAnswer": "x²(x - 30)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 30x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 31)",
+      "x²(x - 31)",
+      "(x - 31)³",
+      "x²(x + 31)"
+    ],
+    "correctAnswer": "x²(x - 31)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 31x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 32)",
+      "(x - 32)³",
+      "x²(x - 32)",
+      "x²(x + 32)"
+    ],
+    "correctAnswer": "x²(x - 32)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 32x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 33)",
+      "(x - 33)³",
+      "x²(x + 33)",
+      "x²(x - 33)"
+    ],
+    "correctAnswer": "x²(x - 33)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 33x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x²(x - 34)",
+      "x(x - 34)",
+      "(x - 34)³",
+      "x²(x + 34)"
+    ],
+    "correctAnswer": "x²(x - 34)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 34x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 35)",
+      "x²(x - 35)",
+      "(x - 35)³",
+      "x²(x + 35)"
+    ],
+    "correctAnswer": "x²(x - 35)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Factor: x³ - 35x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x(x - 36)",
+      "(x - 36)³",
+      "x²(x - 36)",
+      "x²(x + 36)"
+    ],
+    "correctAnswer": "x²(x - 36)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Factor: x³ - 36x²",
+    "topic": "Factoring Higher-Degree Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2²",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2³",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁴",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "32",
+      "34"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2⁵",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "65",
+      "66",
+      "64"
+    ],
+    "correctAnswer": "64",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁶",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "128",
+      "127",
+      "129",
+      "130"
+    ],
+    "correctAnswer": "128",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2⁷",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "255",
+      "256",
+      "257",
+      "258"
+    ],
+    "correctAnswer": "256",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁸",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "511",
+      "513",
+      "512",
+      "514"
+    ],
+    "correctAnswer": "512",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2⁹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1023",
+      "1025",
+      "1026",
+      "1024"
+    ],
+    "correctAnswer": "1024",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁰",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2048",
+      "2047",
+      "2049",
+      "2050"
+    ],
+    "correctAnswer": "2048",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2¹¹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4095",
+      "4096",
+      "4097",
+      "4098"
+    ],
+    "correctAnswer": "4096",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2¹²",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8191",
+      "8193",
+      "8192",
+      "8194"
+    ],
+    "correctAnswer": "8192",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2¹³",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16383",
+      "16385",
+      "16386",
+      "16384"
+    ],
+    "correctAnswer": "16384",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁴",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32768",
+      "32767",
+      "32769",
+      "32770"
+    ],
+    "correctAnswer": "32768",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁵",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65535",
+      "65536",
+      "65537",
+      "65538"
+    ],
+    "correctAnswer": "65536",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁶",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "131071",
+      "131073",
+      "131072",
+      "131074"
+    ],
+    "correctAnswer": "131072",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁷",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "262143",
+      "262145",
+      "262146",
+      "262144"
+    ],
+    "correctAnswer": "262144",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁸",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "524288",
+      "524287",
+      "524289",
+      "524290"
+    ],
+    "correctAnswer": "524288",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2¹⁹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1048575",
+      "1048576",
+      "1048577",
+      "1048578"
+    ],
+    "correctAnswer": "1048576",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2²⁰",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2097151",
+      "2097153",
+      "2097152",
+      "2097154"
+    ],
+    "correctAnswer": "2097152",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2²¹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4194303",
+      "4194305",
+      "4194306",
+      "4194304"
+    ],
+    "correctAnswer": "4194304",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2²²",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8388608",
+      "8388607",
+      "8388609",
+      "8388610"
+    ],
+    "correctAnswer": "8388608",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2²³",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16777215",
+      "16777216",
+      "16777217",
+      "16777218"
+    ],
+    "correctAnswer": "16777216",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2²⁴",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33554431",
+      "33554433",
+      "33554432",
+      "33554434"
+    ],
+    "correctAnswer": "33554432",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2²⁵",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "67108863",
+      "67108865",
+      "67108866",
+      "67108864"
+    ],
+    "correctAnswer": "67108864",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2²⁶",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "134217728",
+      "134217727",
+      "134217729",
+      "134217730"
+    ],
+    "correctAnswer": "134217728",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2²⁷",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "268435455",
+      "268435456",
+      "268435457",
+      "268435458"
+    ],
+    "correctAnswer": "268435456",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2²⁸",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "536870911",
+      "536870913",
+      "536870912",
+      "536870914"
+    ],
+    "correctAnswer": "536870912",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2²⁹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1073741823",
+      "1073741825",
+      "1073741826",
+      "1073741824"
+    ],
+    "correctAnswer": "1073741824",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2³⁰",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2147483648",
+      "2147483647",
+      "2147483649",
+      "2147483650"
+    ],
+    "correctAnswer": "2147483648",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2³¹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4294967295",
+      "4294967296",
+      "4294967297",
+      "4294967298"
+    ],
+    "correctAnswer": "4294967296",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2³²",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8589934591",
+      "8589934593",
+      "8589934592",
+      "8589934594"
+    ],
+    "correctAnswer": "8589934592",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2³³",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17179869183",
+      "17179869185",
+      "17179869186",
+      "17179869184"
+    ],
+    "correctAnswer": "17179869184",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2³⁴",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34359738368",
+      "34359738367",
+      "34359738369",
+      "34359738370"
+    ],
+    "correctAnswer": "34359738368",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2³⁵",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "68719476735",
+      "68719476736",
+      "68719476737",
+      "68719476738"
+    ],
+    "correctAnswer": "68719476736",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2³⁶",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "137438953471",
+      "137438953473",
+      "137438953472",
+      "137438953474"
+    ],
+    "correctAnswer": "137438953472",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2³⁷",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "274877906943",
+      "274877906945",
+      "274877906946",
+      "274877906944"
+    ],
+    "correctAnswer": "274877906944",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2³⁸",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "549755813888",
+      "549755813887",
+      "549755813889",
+      "549755813890"
+    ],
+    "correctAnswer": "549755813888",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2³⁹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1099511627775",
+      "1099511627776",
+      "1099511627777",
+      "1099511627778"
+    ],
+    "correctAnswer": "1099511627776",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁴⁰",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2199023255551",
+      "2199023255553",
+      "2199023255552",
+      "2199023255554"
+    ],
+    "correctAnswer": "2199023255552",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2⁴¹",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4398046511103",
+      "4398046511105",
+      "4398046511106",
+      "4398046511104"
+    ],
+    "correctAnswer": "4398046511104",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁴²",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8796093022208",
+      "8796093022207",
+      "8796093022209",
+      "8796093022210"
+    ],
+    "correctAnswer": "8796093022208",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2⁴³",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17592186044415",
+      "17592186044416",
+      "17592186044417",
+      "17592186044418"
+    ],
+    "correctAnswer": "17592186044416",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁴⁴",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35184372088831",
+      "35184372088833",
+      "35184372088832",
+      "35184372088834"
+    ],
+    "correctAnswer": "35184372088832",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Evaluate: 2⁴⁵",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "70368744177663",
+      "70368744177665",
+      "70368744177666",
+      "70368744177664"
+    ],
+    "correctAnswer": "70368744177664",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Evaluate: 2⁴⁶",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "102",
+      "98",
+      "201",
+      "10200"
+    ],
+    "correctAnswer": "102",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 100 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "107",
+      "113",
+      "331",
+      "11330"
+    ],
+    "correctAnswer": "113",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 110 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "116",
+      "481",
+      "125",
+      "12480"
+    ],
+    "correctAnswer": "125",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 120 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "125",
+      "651",
+      "13650",
+      "137"
+    ],
+    "correctAnswer": "137",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 130 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "148",
+      "134",
+      "841",
+      "14840"
+    ],
+    "correctAnswer": "148",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 140 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "148",
+      "153",
+      "301",
+      "15300"
+    ],
+    "correctAnswer": "153",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 150 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "157",
+      "481",
+      "165",
+      "16480"
+    ],
+    "correctAnswer": "165",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 160 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "166",
+      "681",
+      "17680",
+      "177"
+    ],
+    "correctAnswer": "177",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 170 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "189",
+      "175",
+      "901",
+      "18900"
+    ],
+    "correctAnswer": "189",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 180 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "184",
+      "201",
+      "1141",
+      "20140"
+    ],
+    "correctAnswer": "201",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 190 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "198",
+      "401",
+      "204",
+      "20400"
+    ],
+    "correctAnswer": "204",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 200 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "207",
+      "631",
+      "21630",
+      "216"
+    ],
+    "correctAnswer": "216",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 210 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "229",
+      "216",
+      "881",
+      "22880"
+    ],
+    "correctAnswer": "229",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 220 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "225",
+      "242",
+      "1151",
+      "24150"
+    ],
+    "correctAnswer": "242",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 230 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "234",
+      "1441",
+      "254",
+      "25440"
+    ],
+    "correctAnswer": "254",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 240 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "248",
+      "501",
+      "25500",
+      "255"
+    ],
+    "correctAnswer": "255",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 250 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "268",
+      "257",
+      "781",
+      "26780"
+    ],
+    "correctAnswer": "268",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 260 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "266",
+      "281",
+      "1081",
+      "28080"
+    ],
+    "correctAnswer": "281",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 270 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "275",
+      "1401",
+      "294",
+      "29400"
+    ],
+    "correctAnswer": "294",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 280 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "284",
+      "1741",
+      "30740",
+      "307"
+    ],
+    "correctAnswer": "307",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 290 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "306",
+      "298",
+      "601",
+      "30600"
+    ],
+    "correctAnswer": "306",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 300 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "307",
+      "319",
+      "931",
+      "31930"
+    ],
+    "correctAnswer": "319",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 310 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "316",
+      "1281",
+      "333",
+      "33280"
+    ],
+    "correctAnswer": "333",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 320 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "325",
+      "1651",
+      "34650",
+      "347"
+    ],
+    "correctAnswer": "347",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 330 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "360",
+      "334",
+      "2041",
+      "36040"
+    ],
+    "correctAnswer": "360",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 340 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "348",
+      "357",
+      "701",
+      "35700"
+    ],
+    "correctAnswer": "357",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 350 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "357",
+      "1081",
+      "371",
+      "37080"
+    ],
+    "correctAnswer": "371",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 360 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "366",
+      "1481",
+      "38480",
+      "385"
+    ],
+    "correctAnswer": "385",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 370 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "399",
+      "375",
+      "1901",
+      "39900"
+    ],
+    "correctAnswer": "399",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 380 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "384",
+      "413",
+      "2341",
+      "41340"
+    ],
+    "correctAnswer": "413",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 390 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "398",
+      "801",
+      "408",
+      "40800"
+    ],
+    "correctAnswer": "408",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 400 grows by 2% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "407",
+      "1231",
+      "42230",
+      "422"
+    ],
+    "correctAnswer": "422",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 410 grows by 3% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "437",
+      "416",
+      "1681",
+      "43680"
+    ],
+    "correctAnswer": "437",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 420 grows by 4% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "425",
+      "452",
+      "2151",
+      "45150"
+    ],
+    "correctAnswer": "452",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A value of 430 grows by 5% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "434",
+      "2641",
+      "466",
+      "46640"
+    ],
+    "correctAnswer": "466",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A value of 440 grows by 6% once. What is the new value?",
+    "topic": "Exponential Growth and Decay",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_2(4)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "27"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_3(27)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "256"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_4(256)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "3125"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_5(3125)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "36",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_6(36)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "343"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_7(343)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "4096"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_8(4096)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "59049"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_9(59049)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "100",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_10(100)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "1331"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_11(1331)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "20736"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_12(20736)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "371293"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_13(371293)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "196",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_14(196)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "3375"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_15(3375)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "65536"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_16(65536)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "1419857"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_17(1419857)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "324",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_18(324)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "6859"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_19(6859)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "160000"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_20(160000)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "4084101"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_21(4084101)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "484",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_22(484)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "12167"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_23(12167)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "331776"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_24(331776)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "9765625"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_25(9765625)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "676",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_26(676)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "19683"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_27(19683)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "614656"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_28(614656)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "20511149"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_29(20511149)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "900",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_30(900)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "29791"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_31(29791)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "1048576"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_32(1048576)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "39135393"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_33(39135393)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "1156",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_34(1156)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "42875"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_35(42875)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "1679616"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_36(1679616)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "69343957"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_37(69343957)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "1444",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_38(1444)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "59319"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_39(59319)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2560000"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_40(2560000)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "115856201"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_41(115856201)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "1764",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_42(1764)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "79507"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_43(79507)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "3748096"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_44(3748096)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "184528125"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is log_45(184528125)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "2116",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is log_46(2116)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(6)",
+      "log(5)",
+      "log(2/3)",
+      "3log(2)"
+    ],
+    "correctAnswer": "log(6)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(2) + log(3)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(7)",
+      "log(12)",
+      "log(3/4)",
+      "4log(3)"
+    ],
+    "correctAnswer": "log(12)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(3) + log(4)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(9)",
+      "log(4/5)",
+      "log(20)",
+      "5log(4)"
+    ],
+    "correctAnswer": "log(20)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(4) + log(5)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(11)",
+      "log(5/6)",
+      "6log(5)",
+      "log(30)"
+    ],
+    "correctAnswer": "log(30)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(5) + log(6)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(42)",
+      "log(13)",
+      "log(6/7)",
+      "7log(6)"
+    ],
+    "correctAnswer": "log(42)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(6) + log(7)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(15)",
+      "log(56)",
+      "log(7/8)",
+      "8log(7)"
+    ],
+    "correctAnswer": "log(56)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(7) + log(8)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(17)",
+      "log(8/9)",
+      "log(72)",
+      "9log(8)"
+    ],
+    "correctAnswer": "log(72)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(8) + log(9)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(19)",
+      "log(9/10)",
+      "10log(9)",
+      "log(90)"
+    ],
+    "correctAnswer": "log(90)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(9) + log(10)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(110)",
+      "log(21)",
+      "log(10/11)",
+      "11log(10)"
+    ],
+    "correctAnswer": "log(110)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(10) + log(11)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(23)",
+      "log(132)",
+      "log(11/12)",
+      "12log(11)"
+    ],
+    "correctAnswer": "log(132)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(11) + log(12)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(25)",
+      "log(12/13)",
+      "log(156)",
+      "13log(12)"
+    ],
+    "correctAnswer": "log(156)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(12) + log(13)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(27)",
+      "log(13/14)",
+      "14log(13)",
+      "log(182)"
+    ],
+    "correctAnswer": "log(182)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(13) + log(14)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(210)",
+      "log(29)",
+      "log(14/15)",
+      "15log(14)"
+    ],
+    "correctAnswer": "log(210)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(14) + log(15)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(31)",
+      "log(240)",
+      "log(15/16)",
+      "16log(15)"
+    ],
+    "correctAnswer": "log(240)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(15) + log(16)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(33)",
+      "log(16/17)",
+      "log(272)",
+      "17log(16)"
+    ],
+    "correctAnswer": "log(272)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(16) + log(17)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(35)",
+      "log(17/18)",
+      "18log(17)",
+      "log(306)"
+    ],
+    "correctAnswer": "log(306)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(17) + log(18)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(342)",
+      "log(37)",
+      "log(18/19)",
+      "19log(18)"
+    ],
+    "correctAnswer": "log(342)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(18) + log(19)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(39)",
+      "log(380)",
+      "log(19/20)",
+      "20log(19)"
+    ],
+    "correctAnswer": "log(380)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(19) + log(20)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(41)",
+      "log(20/21)",
+      "log(420)",
+      "21log(20)"
+    ],
+    "correctAnswer": "log(420)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(20) + log(21)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(43)",
+      "log(21/22)",
+      "22log(21)",
+      "log(462)"
+    ],
+    "correctAnswer": "log(462)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(21) + log(22)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(506)",
+      "log(45)",
+      "log(22/23)",
+      "23log(22)"
+    ],
+    "correctAnswer": "log(506)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(22) + log(23)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(47)",
+      "log(552)",
+      "log(23/24)",
+      "24log(23)"
+    ],
+    "correctAnswer": "log(552)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(23) + log(24)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(49)",
+      "log(24/25)",
+      "log(600)",
+      "25log(24)"
+    ],
+    "correctAnswer": "log(600)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(24) + log(25)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(51)",
+      "log(25/26)",
+      "26log(25)",
+      "log(650)"
+    ],
+    "correctAnswer": "log(650)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(25) + log(26)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(702)",
+      "log(53)",
+      "log(26/27)",
+      "27log(26)"
+    ],
+    "correctAnswer": "log(702)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(26) + log(27)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(55)",
+      "log(756)",
+      "log(27/28)",
+      "28log(27)"
+    ],
+    "correctAnswer": "log(756)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(27) + log(28)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(57)",
+      "log(28/29)",
+      "log(812)",
+      "29log(28)"
+    ],
+    "correctAnswer": "log(812)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(28) + log(29)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(59)",
+      "log(29/30)",
+      "30log(29)",
+      "log(870)"
+    ],
+    "correctAnswer": "log(870)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(29) + log(30)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(930)",
+      "log(61)",
+      "log(30/31)",
+      "31log(30)"
+    ],
+    "correctAnswer": "log(930)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which expression equals log(30) + log(31)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "log(63)",
+      "log(992)",
+      "log(31/32)",
+      "32log(31)"
+    ],
+    "correctAnswer": "log(992)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which expression equals log(31) + log(32)?",
+    "topic": "Logarithm Properties",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "12",
+      "11",
+      "14"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 2, 5, 8, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "13",
+      "15",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 3, 6, 9, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 4, 7, 10, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "14",
+      "15",
+      "17"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 5, 8, 11, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "16",
+      "15",
+      "18"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 6, 9, 12, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "19",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 7, 10, 13, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 8, 11, 14, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "18",
+      "19",
+      "21"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 9, 12, 15, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "20",
+      "19",
+      "22"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 10, 13, 16, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "21",
+      "23",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 11, 14, 17, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 12, 15, 18, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "22",
+      "23",
+      "25"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 13, 16, 19, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "24",
+      "23",
+      "26"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 14, 17, 20, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "27",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 15, 18, 21, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "24",
+      "26",
+      "28"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 16, 19, 22, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "26",
+      "27",
+      "29"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 17, 20, 23, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "28",
+      "27",
+      "30"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 18, 21, 24, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "29",
+      "31",
+      "28"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 19, 22, 25, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 20, 23, 26, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "30",
+      "31",
+      "33"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 21, 24, 27, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "32",
+      "31",
+      "34"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 22, 25, 28, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "35",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 23, 26, 29, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "32",
+      "34",
+      "36"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 24, 27, 30, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "34",
+      "35",
+      "37"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is the next term: 25, 28, 31, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "36",
+      "35",
+      "38"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is the next term: 26, 29, 32, ...?",
+    "topic": "Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "8",
+      "18",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 2 + 4 + 6",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "12",
+      "9",
+      "21"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 3 + 5 + 7",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "18",
+      "10",
+      "24"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 4 + 6 + 8",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "11",
+      "21",
+      "27"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 5 + 7 + 9",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "12",
+      "30",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 6 + 8 + 10",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "24",
+      "13",
+      "33"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 7 + 9 + 11",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "30",
+      "14",
+      "36"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 8 + 10 + 12",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "15",
+      "33",
+      "39"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 9 + 11 + 13",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "16",
+      "42",
+      "36"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 10 + 12 + 14",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "36",
+      "17",
+      "45"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 11 + 13 + 15",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "42",
+      "18",
+      "48"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 12 + 14 + 16",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "19",
+      "45",
+      "51"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 13 + 15 + 17",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45",
+      "20",
+      "54",
+      "48"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 14 + 16 + 18",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "48",
+      "21",
+      "57"
+    ],
+    "correctAnswer": "51",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 15 + 17 + 19",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "54",
+      "22",
+      "60"
+    ],
+    "correctAnswer": "54",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 16 + 18 + 20",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54",
+      "23",
+      "57",
+      "63"
+    ],
+    "correctAnswer": "57",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 17 + 19 + 21",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "24",
+      "66",
+      "60"
+    ],
+    "correctAnswer": "60",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 18 + 20 + 22",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "60",
+      "25",
+      "69"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 19 + 21 + 23",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "66",
+      "26",
+      "72"
+    ],
+    "correctAnswer": "66",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 20 + 22 + 24",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "66",
+      "27",
+      "69",
+      "75"
+    ],
+    "correctAnswer": "69",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 21 + 23 + 25",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "69",
+      "28",
+      "78",
+      "72"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 22 + 24 + 26",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "75",
+      "72",
+      "29",
+      "81"
+    ],
+    "correctAnswer": "75",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 23 + 25 + 27",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "75",
+      "78",
+      "30",
+      "84"
+    ],
+    "correctAnswer": "78",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 24 + 26 + 28",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "78",
+      "31",
+      "81",
+      "87"
+    ],
+    "correctAnswer": "81",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Find the sum: 25 + 27 + 29",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "81",
+      "32",
+      "90",
+      "84"
+    ],
+    "correctAnswer": "84",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Find the sum: 26 + 28 + 30",
+    "topic": "Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "8",
+      "6",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 2 with difference 3. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "15",
+      "7",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 3 with difference 4. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "8",
+      "19",
+      "20"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 4 with difference 5. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "9",
+      "24",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 5 with difference 6. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "20",
+      "10",
+      "28"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 6 with difference 7. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "31",
+      "11",
+      "32"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 7 with difference 8. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "12",
+      "35",
+      "36"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 8 with difference 9. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "13",
+      "40",
+      "39"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 9 with difference 10. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "32",
+      "14",
+      "44"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 10 with difference 11. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "47",
+      "15",
+      "48"
+    ],
+    "correctAnswer": "47",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 11 with difference 12. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "16",
+      "51",
+      "52"
+    ],
+    "correctAnswer": "51",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 12 with difference 13. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "17",
+      "56",
+      "55"
+    ],
+    "correctAnswer": "55",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 13 with difference 14. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "59",
+      "44",
+      "18",
+      "60"
+    ],
+    "correctAnswer": "59",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 14 with difference 15. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "63",
+      "19",
+      "64"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 15 with difference 16. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "20",
+      "67",
+      "68"
+    ],
+    "correctAnswer": "67",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 16 with difference 17. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "53",
+      "21",
+      "72",
+      "71"
+    ],
+    "correctAnswer": "71",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 17 with difference 18. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "75",
+      "56",
+      "22",
+      "76"
+    ],
+    "correctAnswer": "75",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 18 with difference 19. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "59",
+      "79",
+      "23",
+      "80"
+    ],
+    "correctAnswer": "79",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 19 with difference 20. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "62",
+      "24",
+      "83",
+      "84"
+    ],
+    "correctAnswer": "83",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 20 with difference 21. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65",
+      "25",
+      "88",
+      "87"
+    ],
+    "correctAnswer": "87",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 21 with difference 22. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "91",
+      "68",
+      "26",
+      "92"
+    ],
+    "correctAnswer": "91",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 22 with difference 23. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "71",
+      "95",
+      "27",
+      "96"
+    ],
+    "correctAnswer": "95",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 23 with difference 24. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "74",
+      "28",
+      "99",
+      "100"
+    ],
+    "correctAnswer": "99",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 24 with difference 25. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "77",
+      "29",
+      "104",
+      "103"
+    ],
+    "correctAnswer": "103",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 25 with difference 26. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "107",
+      "80",
+      "30",
+      "108"
+    ],
+    "correctAnswer": "107",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An arithmetic sequence starts at 26 with difference 27. What is term 4?",
+    "topic": "Arithmetic Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "8"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 2 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "24",
+      "12"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 3 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "16",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 4 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "39",
+      "41",
+      "20"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 5 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "48",
+      "49",
+      "24"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 6 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "55",
+      "57",
+      "56",
+      "28"
+    ],
+    "correctAnswer": "56",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 7 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "65",
+      "32",
+      "64"
+    ],
+    "correctAnswer": "64",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 8 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "72",
+      "71",
+      "73",
+      "36"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 9 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "79",
+      "80",
+      "81",
+      "40"
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 10 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "87",
+      "89",
+      "88",
+      "44"
+    ],
+    "correctAnswer": "88",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 11 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95",
+      "97",
+      "48",
+      "96"
+    ],
+    "correctAnswer": "96",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 12 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "104",
+      "103",
+      "105",
+      "52"
+    ],
+    "correctAnswer": "104",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 13 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "111",
+      "112",
+      "113",
+      "56"
+    ],
+    "correctAnswer": "112",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 14 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "119",
+      "121",
+      "120",
+      "60"
+    ],
+    "correctAnswer": "120",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 15 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "127",
+      "129",
+      "64",
+      "128"
+    ],
+    "correctAnswer": "128",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 16 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "136",
+      "135",
+      "137",
+      "68"
+    ],
+    "correctAnswer": "136",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 17 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "143",
+      "144",
+      "145",
+      "72"
+    ],
+    "correctAnswer": "144",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 18 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "151",
+      "153",
+      "152",
+      "76"
+    ],
+    "correctAnswer": "152",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 19 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "159",
+      "161",
+      "80",
+      "160"
+    ],
+    "correctAnswer": "160",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 20 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "168",
+      "167",
+      "169",
+      "84"
+    ],
+    "correctAnswer": "168",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 21 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "175",
+      "176",
+      "177",
+      "88"
+    ],
+    "correctAnswer": "176",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 22 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "183",
+      "185",
+      "184",
+      "92"
+    ],
+    "correctAnswer": "184",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 23 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "191",
+      "193",
+      "96",
+      "192"
+    ],
+    "correctAnswer": "192",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 24 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "200",
+      "199",
+      "201",
+      "100"
+    ],
+    "correctAnswer": "200",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "A geometric sequence starts at 25 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "207",
+      "208",
+      "209",
+      "104"
+    ],
+    "correctAnswer": "208",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "A geometric sequence starts at 26 with ratio 2. What is term 4?",
+    "topic": "Geometric Sequences",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(30 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(60 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(45 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(390 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(420 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(405 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(750 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(780 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(765 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(1110 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(1140 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(1125 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(1470 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(1500 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(1485 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(1830 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(1860 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(1845 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(2190 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(2220 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(2205 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(2550 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(2580 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(2565 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(2910 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(2940 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(2925 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(3270 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(3300 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(3285 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(3630 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(3660 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(3645 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(3990 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(4020 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(4005 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(4350 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(4380 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "√3",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(4365 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(4710 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(4740 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is tan(4725 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(5070 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(5100 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "√3",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is tan(5085 degrees)?",
+    "topic": "Trigonometric Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√2/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(1π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(-1, 0)",
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 1π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "0",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(1π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(5π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 3π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "0",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(7π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(9π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(-1, 0)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 5π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "0",
+      "-1/2",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(13π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(13π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(-1, 0)",
+      "(0, 1)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 7π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "0",
+      "1/2",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(19π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√2/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(17π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(-1, 0)",
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 9π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "0",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(25π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(21π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 11π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "0",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(31π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(25π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(-1, 0)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 13π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "0",
+      "-1/2",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(37π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(29π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(-1, 0)",
+      "(0, 1)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 15π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "0",
+      "1/2",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(43π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√2/2",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is sin(33π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(-1, 0)",
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 17π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "0",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "What is cos(49π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "1",
+      "√2/2"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is sin(37π/2)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(-1, 0)",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "Which point is on the unit circle at angle 19π?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "0",
+      "-1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "What is cos(55π/3)?",
+    "topic": "Unit Circle Basics",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "2 units left",
+      "2 units right",
+      "2 units up",
+      "2 units down"
+    ],
+    "correctAnswer": "2 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 2)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3 units left",
+      "3 units up",
+      "3 units right",
+      "3 units down"
+    ],
+    "correctAnswer": "3 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 3)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4 units left",
+      "4 units up",
+      "4 units down",
+      "4 units right"
+    ],
+    "correctAnswer": "4 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 4)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5 units right",
+      "5 units left",
+      "5 units up",
+      "5 units down"
+    ],
+    "correctAnswer": "5 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 5)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6 units left",
+      "6 units right",
+      "6 units up",
+      "6 units down"
+    ],
+    "correctAnswer": "6 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 6)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7 units left",
+      "7 units up",
+      "7 units right",
+      "7 units down"
+    ],
+    "correctAnswer": "7 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 7)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8 units left",
+      "8 units up",
+      "8 units down",
+      "8 units right"
+    ],
+    "correctAnswer": "8 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 8)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9 units right",
+      "9 units left",
+      "9 units up",
+      "9 units down"
+    ],
+    "correctAnswer": "9 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 9)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10 units left",
+      "10 units right",
+      "10 units up",
+      "10 units down"
+    ],
+    "correctAnswer": "10 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 10)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11 units left",
+      "11 units up",
+      "11 units right",
+      "11 units down"
+    ],
+    "correctAnswer": "11 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 11)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12 units left",
+      "12 units up",
+      "12 units down",
+      "12 units right"
+    ],
+    "correctAnswer": "12 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 12)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13 units right",
+      "13 units left",
+      "13 units up",
+      "13 units down"
+    ],
+    "correctAnswer": "13 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 13)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14 units left",
+      "14 units right",
+      "14 units up",
+      "14 units down"
+    ],
+    "correctAnswer": "14 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 14)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15 units left",
+      "15 units up",
+      "15 units right",
+      "15 units down"
+    ],
+    "correctAnswer": "15 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 15)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16 units left",
+      "16 units up",
+      "16 units down",
+      "16 units right"
+    ],
+    "correctAnswer": "16 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 16)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17 units right",
+      "17 units left",
+      "17 units up",
+      "17 units down"
+    ],
+    "correctAnswer": "17 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 17)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18 units left",
+      "18 units right",
+      "18 units up",
+      "18 units down"
+    ],
+    "correctAnswer": "18 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 18)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19 units left",
+      "19 units up",
+      "19 units right",
+      "19 units down"
+    ],
+    "correctAnswer": "19 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 19)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 units left",
+      "20 units up",
+      "20 units down",
+      "20 units right"
+    ],
+    "correctAnswer": "20 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 20)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21 units right",
+      "21 units left",
+      "21 units up",
+      "21 units down"
+    ],
+    "correctAnswer": "21 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 21)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22 units left",
+      "22 units right",
+      "22 units up",
+      "22 units down"
+    ],
+    "correctAnswer": "22 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 22)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23 units left",
+      "23 units up",
+      "23 units right",
+      "23 units down"
+    ],
+    "correctAnswer": "23 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 23)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24 units left",
+      "24 units up",
+      "24 units down",
+      "24 units right"
+    ],
+    "correctAnswer": "24 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 24)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25 units right",
+      "25 units left",
+      "25 units up",
+      "25 units down"
+    ],
+    "correctAnswer": "25 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 25)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26 units left",
+      "26 units right",
+      "26 units up",
+      "26 units down"
+    ],
+    "correctAnswer": "26 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 26)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27 units left",
+      "27 units up",
+      "27 units right",
+      "27 units down"
+    ],
+    "correctAnswer": "27 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 27)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28 units left",
+      "28 units up",
+      "28 units down",
+      "28 units right"
+    ],
+    "correctAnswer": "28 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 28)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29 units right",
+      "29 units left",
+      "29 units up",
+      "29 units down"
+    ],
+    "correctAnswer": "29 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 29)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30 units left",
+      "30 units right",
+      "30 units up",
+      "30 units down"
+    ],
+    "correctAnswer": "30 units right",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "How does y = (x - 30)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31 units left",
+      "31 units up",
+      "31 units right",
+      "31 units down"
+    ],
+    "correctAnswer": "31 units right",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "How does y = (x - 31)² move y = x²?",
+    "topic": "Function Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 2 and g(x) = 2x, find f(g(3)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "8",
+      "10",
+      "7"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 3 and g(x) = 2x, find f(g(4)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "14",
+      "13",
+      "9"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 4 and g(x) = 2x, find f(g(5)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "16",
+      "17",
+      "11"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 5 and g(x) = 2x, find f(g(6)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "19",
+      "13",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 6 and g(x) = 2x, find f(g(7)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "16",
+      "22",
+      "15"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 7 and g(x) = 2x, find f(g(8)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "26",
+      "25",
+      "17"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 8 and g(x) = 2x, find f(g(9)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "28",
+      "29",
+      "19"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 9 and g(x) = 2x, find f(g(10)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "31",
+      "21",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 10 and g(x) = 2x, find f(g(11)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "24",
+      "34",
+      "23"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 11 and g(x) = 2x, find f(g(12)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "38",
+      "37",
+      "25"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 12 and g(x) = 2x, find f(g(13)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "40",
+      "41",
+      "27"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 13 and g(x) = 2x, find f(g(14)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "43",
+      "29",
+      "44"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 14 and g(x) = 2x, find f(g(15)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "32",
+      "46",
+      "31"
+    ],
+    "correctAnswer": "47",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 15 and g(x) = 2x, find f(g(16)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "50",
+      "49",
+      "33"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 16 and g(x) = 2x, find f(g(17)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "52",
+      "53",
+      "35"
+    ],
+    "correctAnswer": "53",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 17 and g(x) = 2x, find f(g(18)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "55",
+      "37",
+      "56"
+    ],
+    "correctAnswer": "56",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 18 and g(x) = 2x, find f(g(19)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "59",
+      "40",
+      "58",
+      "39"
+    ],
+    "correctAnswer": "59",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 19 and g(x) = 2x, find f(g(20)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "62",
+      "61",
+      "41"
+    ],
+    "correctAnswer": "62",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 20 and g(x) = 2x, find f(g(21)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44",
+      "64",
+      "65",
+      "43"
+    ],
+    "correctAnswer": "65",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 21 and g(x) = 2x, find f(g(22)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46",
+      "67",
+      "45",
+      "68"
+    ],
+    "correctAnswer": "68",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 22 and g(x) = 2x, find f(g(23)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "71",
+      "48",
+      "70",
+      "47"
+    ],
+    "correctAnswer": "71",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 23 and g(x) = 2x, find f(g(24)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "74",
+      "73",
+      "49"
+    ],
+    "correctAnswer": "74",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 24 and g(x) = 2x, find f(g(25)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "52",
+      "76",
+      "77",
+      "51"
+    ],
+    "correctAnswer": "77",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = x + 25 and g(x) = 2x, find f(g(26)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54",
+      "79",
+      "53",
+      "80"
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = x + 26 and g(x) = 2x, find f(g(27)).",
+    "topic": "Function Composition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 2, what is f⁻¹(8)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "2",
+      "7",
+      "10"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 3, what is f⁻¹(10)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "8",
+      "2",
+      "12"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 4, what is f⁻¹(12)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "9",
+      "14",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 5, what is f⁻¹(14)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 6, what is f⁻¹(16)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "2",
+      "11",
+      "18"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 7, what is f⁻¹(18)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "12",
+      "2",
+      "20"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 8, what is f⁻¹(20)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "13",
+      "22",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 9, what is f⁻¹(22)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "12",
+      "14",
+      "24"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 10, what is f⁻¹(24)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "2",
+      "15",
+      "26"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 11, what is f⁻¹(26)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "16",
+      "2",
+      "28"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 12, what is f⁻¹(28)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "30",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 13, what is f⁻¹(30)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "16",
+      "18",
+      "32"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 14, what is f⁻¹(32)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "2",
+      "19",
+      "34"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 15, what is f⁻¹(34)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "20",
+      "2",
+      "36"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 16, what is f⁻¹(36)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "21",
+      "38",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 17, what is f⁻¹(38)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "20",
+      "22",
+      "40"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 18, what is f⁻¹(40)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "2",
+      "23",
+      "42"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 19, what is f⁻¹(42)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "24",
+      "2",
+      "44"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 20, what is f⁻¹(44)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "46",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 21, what is f⁻¹(46)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "24",
+      "26",
+      "48"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 22, what is f⁻¹(48)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "2",
+      "27",
+      "50"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 23, what is f⁻¹(50)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "28",
+      "2",
+      "52"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 24, what is f⁻¹(52)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "29",
+      "54",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "If f(x) = 2x + 25, what is f⁻¹(54)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "28",
+      "30",
+      "56"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "If f(x) = 2x + 26, what is f⁻¹(56)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$3000",
+      "$506",
+      "$505",
+      "$6"
+    ],
+    "correctAnswer": "$506",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $500 and gains $3 per month. What is the amount after 2 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$4680",
+      "$526",
+      "$529",
+      "$9"
+    ],
+    "correctAnswer": "$529",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $520 and gains $3 per month. What is the amount after 3 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$6480",
+      "$547",
+      "$12",
+      "$552"
+    ],
+    "correctAnswer": "$552",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $540 and gains $3 per month. What is the amount after 4 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$575",
+      "$8400",
+      "$568",
+      "$15"
+    ],
+    "correctAnswer": "$575",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $560 and gains $3 per month. What is the amount after 5 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$10440",
+      "$598",
+      "$589",
+      "$18"
+    ],
+    "correctAnswer": "$598",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $580 and gains $3 per month. What is the amount after 6 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$12600",
+      "$610",
+      "$621",
+      "$21"
+    ],
+    "correctAnswer": "$621",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $600 and gains $3 per month. What is the amount after 7 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$14880",
+      "$631",
+      "$24",
+      "$644"
+    ],
+    "correctAnswer": "$644",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $620 and gains $3 per month. What is the amount after 8 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$667",
+      "$17280",
+      "$652",
+      "$27"
+    ],
+    "correctAnswer": "$667",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $640 and gains $3 per month. What is the amount after 9 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$19800",
+      "$690",
+      "$673",
+      "$30"
+    ],
+    "correctAnswer": "$690",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $660 and gains $3 per month. What is the amount after 10 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$22440",
+      "$694",
+      "$713",
+      "$33"
+    ],
+    "correctAnswer": "$713",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $680 and gains $3 per month. What is the amount after 11 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$25200",
+      "$715",
+      "$36",
+      "$736"
+    ],
+    "correctAnswer": "$736",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $700 and gains $3 per month. What is the amount after 12 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$759",
+      "$28080",
+      "$736",
+      "$39"
+    ],
+    "correctAnswer": "$759",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $720 and gains $3 per month. What is the amount after 13 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$31080",
+      "$782",
+      "$757",
+      "$42"
+    ],
+    "correctAnswer": "$782",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $740 and gains $3 per month. What is the amount after 14 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$34200",
+      "$778",
+      "$805",
+      "$45"
+    ],
+    "correctAnswer": "$805",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $760 and gains $3 per month. What is the amount after 15 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$37440",
+      "$799",
+      "$48",
+      "$828"
+    ],
+    "correctAnswer": "$828",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $780 and gains $3 per month. What is the amount after 16 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$851",
+      "$40800",
+      "$820",
+      "$51"
+    ],
+    "correctAnswer": "$851",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $800 and gains $3 per month. What is the amount after 17 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$44280",
+      "$874",
+      "$841",
+      "$54"
+    ],
+    "correctAnswer": "$874",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $820 and gains $3 per month. What is the amount after 18 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$47880",
+      "$862",
+      "$897",
+      "$57"
+    ],
+    "correctAnswer": "$897",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $840 and gains $3 per month. What is the amount after 19 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$51600",
+      "$883",
+      "$60",
+      "$920"
+    ],
+    "correctAnswer": "$920",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $860 and gains $3 per month. What is the amount after 20 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$943",
+      "$55440",
+      "$904",
+      "$63"
+    ],
+    "correctAnswer": "$943",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $880 and gains $3 per month. What is the amount after 21 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$59400",
+      "$966",
+      "$925",
+      "$66"
+    ],
+    "correctAnswer": "$966",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $900 and gains $3 per month. What is the amount after 22 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$63480",
+      "$946",
+      "$989",
+      "$69"
+    ],
+    "correctAnswer": "$989",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $920 and gains $3 per month. What is the amount after 23 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$67680",
+      "$967",
+      "$72",
+      "$1012"
+    ],
+    "correctAnswer": "$1012",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $940 and gains $3 per month. What is the amount after 24 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$1035",
+      "$72000",
+      "$988",
+      "$75"
+    ],
+    "correctAnswer": "$1035",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $960 and gains $3 per month. What is the amount after 25 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$76440",
+      "$1058",
+      "$1009",
+      "$78"
+    ],
+    "correctAnswer": "$1058",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $980 and gains $3 per month. What is the amount after 26 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$81000",
+      "$1030",
+      "$1081",
+      "$81"
+    ],
+    "correctAnswer": "$1081",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1000 and gains $3 per month. What is the amount after 27 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$85680",
+      "$1051",
+      "$84",
+      "$1104"
+    ],
+    "correctAnswer": "$1104",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1020 and gains $3 per month. What is the amount after 28 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$1127",
+      "$90480",
+      "$1072",
+      "$87"
+    ],
+    "correctAnswer": "$1127",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1040 and gains $3 per month. What is the amount after 29 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$95400",
+      "$1150",
+      "$1093",
+      "$90"
+    ],
+    "correctAnswer": "$1150",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1060 and gains $3 per month. What is the amount after 30 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$100440",
+      "$1114",
+      "$1173",
+      "$93"
+    ],
+    "correctAnswer": "$1173",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1080 and gains $3 per month. What is the amount after 31 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$105600",
+      "$1135",
+      "$96",
+      "$1196"
+    ],
+    "correctAnswer": "$1196",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1100 and gains $3 per month. What is the amount after 32 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$1219",
+      "$110880",
+      "$1156",
+      "$99"
+    ],
+    "correctAnswer": "$1219",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1120 and gains $3 per month. What is the amount after 33 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$116280",
+      "$1242",
+      "$1177",
+      "$102"
+    ],
+    "correctAnswer": "$1242",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1140 and gains $3 per month. What is the amount after 34 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$121800",
+      "$1198",
+      "$1265",
+      "$105"
+    ],
+    "correctAnswer": "$1265",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1160 and gains $3 per month. What is the amount after 35 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$127440",
+      "$1219",
+      "$108",
+      "$1288"
+    ],
+    "correctAnswer": "$1288",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1180 and gains $3 per month. What is the amount after 36 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$1311",
+      "$133200",
+      "$1240",
+      "$111"
+    ],
+    "correctAnswer": "$1311",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1200 and gains $3 per month. What is the amount after 37 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$139080",
+      "$1334",
+      "$1261",
+      "$114"
+    ],
+    "correctAnswer": "$1334",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1220 and gains $3 per month. What is the amount after 38 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$145080",
+      "$1282",
+      "$1357",
+      "$117"
+    ],
+    "correctAnswer": "$1357",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1240 and gains $3 per month. What is the amount after 39 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$151200",
+      "$1303",
+      "$120",
+      "$1380"
+    ],
+    "correctAnswer": "$1380",
+    "difficulty": "hard",
+    "grade": 11,
+    "question": "An account starts with $1260 and gains $3 per month. What is the amount after 40 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$1403",
+      "$157440",
+      "$1324",
+      "$123"
+    ],
+    "correctAnswer": "$1403",
+    "difficulty": "medium",
+    "grade": 11,
+    "question": "An account starts with $1280 and gains $3 per month. What is the amount after 41 months?",
+    "topic": "Algebra II Word Problems",
+    "uses_pi": false
+  }
+]

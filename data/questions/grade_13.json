@@ -1,0 +1,7282 @@
+[
+  {
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 2 of 2x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 3 of 3x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "65",
+      "64",
+      "66"
+    ],
+    "correctAnswer": "64",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 4 of 4x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "124",
+      "126",
+      "127",
+      "125"
+    ],
+    "correctAnswer": "125",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 5 of 5x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "216",
+      "215",
+      "217",
+      "218"
+    ],
+    "correctAnswer": "216",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 6 of 6x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "342",
+      "343",
+      "344",
+      "345"
+    ],
+    "correctAnswer": "343",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 7 of 7x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "511",
+      "513",
+      "512",
+      "514"
+    ],
+    "correctAnswer": "512",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 8 of 8x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "728",
+      "730",
+      "731",
+      "729"
+    ],
+    "correctAnswer": "729",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 9 of 9x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1000",
+      "999",
+      "1001",
+      "1002"
+    ],
+    "correctAnswer": "1000",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 10 of 10x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1330",
+      "1331",
+      "1332",
+      "1333"
+    ],
+    "correctAnswer": "1331",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 11 of 11x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1727",
+      "1729",
+      "1728",
+      "1730"
+    ],
+    "correctAnswer": "1728",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 12 of 12x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2196",
+      "2198",
+      "2199",
+      "2197"
+    ],
+    "correctAnswer": "2197",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 13 of 13x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2744",
+      "2743",
+      "2745",
+      "2746"
+    ],
+    "correctAnswer": "2744",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 14 of 14x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3374",
+      "3375",
+      "3376",
+      "3377"
+    ],
+    "correctAnswer": "3375",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 15 of 15x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4095",
+      "4097",
+      "4096",
+      "4098"
+    ],
+    "correctAnswer": "4096",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 16 of 16x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4912",
+      "4914",
+      "4915",
+      "4913"
+    ],
+    "correctAnswer": "4913",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 17 of 17x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5832",
+      "5831",
+      "5833",
+      "5834"
+    ],
+    "correctAnswer": "5832",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 18 of 18x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6858",
+      "6859",
+      "6860",
+      "6861"
+    ],
+    "correctAnswer": "6859",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 19 of 19x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7999",
+      "8001",
+      "8000",
+      "8002"
+    ],
+    "correctAnswer": "8000",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 20 of 20x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9260",
+      "9262",
+      "9263",
+      "9261"
+    ],
+    "correctAnswer": "9261",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 21 of 21x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10648",
+      "10647",
+      "10649",
+      "10650"
+    ],
+    "correctAnswer": "10648",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 22 of 22x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12166",
+      "12167",
+      "12168",
+      "12169"
+    ],
+    "correctAnswer": "12167",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 23 of 23x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13823",
+      "13825",
+      "13824",
+      "13826"
+    ],
+    "correctAnswer": "13824",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 24 of 24x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15624",
+      "15626",
+      "15627",
+      "15625"
+    ],
+    "correctAnswer": "15625",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 25 of 25x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17576",
+      "17575",
+      "17577",
+      "17578"
+    ],
+    "correctAnswer": "17576",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ from 0 to 26 of 26x dx.",
+    "topic": "Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 2x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 2x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(2x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/x + C",
+      "x ln(x) + C",
+      "3 ln(x) + C",
+      "e^(3x) + C"
+    ],
+    "correctAnswer": "3 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 3/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "partial fractions",
+      "trigonometric substitution",
+      "u-substitution with u = 4x²"
+    ],
+    "correctAnswer": "u-substitution with u = 4x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(4x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5 ln(x) + C",
+      "5/x + C",
+      "x ln(x) + C",
+      "e^(5x) + C"
+    ],
+    "correctAnswer": "5 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 5/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 6x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 6x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(6x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/x + C",
+      "x ln(x) + C",
+      "7 ln(x) + C",
+      "e^(7x) + C"
+    ],
+    "correctAnswer": "7 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 7/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "partial fractions",
+      "trigonometric substitution",
+      "u-substitution with u = 8x²"
+    ],
+    "correctAnswer": "u-substitution with u = 8x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(8x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9 ln(x) + C",
+      "9/x + C",
+      "x ln(x) + C",
+      "e^(9x) + C"
+    ],
+    "correctAnswer": "9 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 9/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 10x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 10x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(10x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11/x + C",
+      "x ln(x) + C",
+      "11 ln(x) + C",
+      "e^(11x) + C"
+    ],
+    "correctAnswer": "11 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 11/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "partial fractions",
+      "trigonometric substitution",
+      "u-substitution with u = 12x²"
+    ],
+    "correctAnswer": "u-substitution with u = 12x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(12x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13 ln(x) + C",
+      "13/x + C",
+      "x ln(x) + C",
+      "e^(13x) + C"
+    ],
+    "correctAnswer": "13 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 13/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 14x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 14x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(14x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15/x + C",
+      "x ln(x) + C",
+      "15 ln(x) + C",
+      "e^(15x) + C"
+    ],
+    "correctAnswer": "15 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 15/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "partial fractions",
+      "trigonometric substitution",
+      "u-substitution with u = 16x²"
+    ],
+    "correctAnswer": "u-substitution with u = 16x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(16x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17 ln(x) + C",
+      "17/x + C",
+      "x ln(x) + C",
+      "e^(17x) + C"
+    ],
+    "correctAnswer": "17 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 17/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 18x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 18x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(18x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19/x + C",
+      "x ln(x) + C",
+      "19 ln(x) + C",
+      "e^(19x) + C"
+    ],
+    "correctAnswer": "19 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 19/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "partial fractions",
+      "trigonometric substitution",
+      "u-substitution with u = 20x²"
+    ],
+    "correctAnswer": "u-substitution with u = 20x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(20x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21 ln(x) + C",
+      "21/x + C",
+      "x ln(x) + C",
+      "e^(21x) + C"
+    ],
+    "correctAnswer": "21 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 21/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 22x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 22x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(22x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23/x + C",
+      "x ln(x) + C",
+      "23 ln(x) + C",
+      "e^(23x) + C"
+    ],
+    "correctAnswer": "23 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 23/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "partial fractions",
+      "trigonometric substitution",
+      "u-substitution with u = 24x²"
+    ],
+    "correctAnswer": "u-substitution with u = 24x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(24x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25 ln(x) + C",
+      "25/x + C",
+      "x ln(x) + C",
+      "e^(25x) + C"
+    ],
+    "correctAnswer": "25 ln(x) + C",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∫ 25/x dx on x > 0.",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "integration by parts",
+      "u-substitution with u = 26x²",
+      "partial fractions",
+      "trigonometric substitution"
+    ],
+    "correctAnswer": "u-substitution with u = 26x²",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method is most direct for ∫ x e^(26x²) dx?",
+    "topic": "Integration Techniques",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 2x from x = 0 to x = 2 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "14",
+      "15",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 3x from x = 0 to x = 3 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "31",
+      "33",
+      "34"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 4x from x = 0 to x = 4 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61",
+      "62",
+      "63",
+      "64"
+    ],
+    "correctAnswer": "62",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 5x from x = 0 to x = 5 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "107",
+      "109",
+      "108",
+      "110"
+    ],
+    "correctAnswer": "108",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 6x from x = 0 to x = 6 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "170",
+      "172",
+      "173",
+      "171"
+    ],
+    "correctAnswer": "171",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 7x from x = 0 to x = 7 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "256",
+      "255",
+      "257",
+      "258"
+    ],
+    "correctAnswer": "256",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 8x from x = 0 to x = 8 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "363",
+      "364",
+      "365",
+      "366"
+    ],
+    "correctAnswer": "364",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 9x from x = 0 to x = 9 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "499",
+      "501",
+      "500",
+      "502"
+    ],
+    "correctAnswer": "500",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 10x from x = 0 to x = 10 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "664",
+      "666",
+      "667",
+      "665"
+    ],
+    "correctAnswer": "665",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 11x from x = 0 to x = 11 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "864",
+      "863",
+      "865",
+      "866"
+    ],
+    "correctAnswer": "864",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 12x from x = 0 to x = 12 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1097",
+      "1098",
+      "1099",
+      "1100"
+    ],
+    "correctAnswer": "1098",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 13x from x = 0 to x = 13 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1371",
+      "1373",
+      "1372",
+      "1374"
+    ],
+    "correctAnswer": "1372",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 14x from x = 0 to x = 14 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1686",
+      "1688",
+      "1689",
+      "1687"
+    ],
+    "correctAnswer": "1687",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 15x from x = 0 to x = 15 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2048",
+      "2047",
+      "2049",
+      "2050"
+    ],
+    "correctAnswer": "2048",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The area under y = 16x from x = 0 to x = 16 is:",
+    "topic": "Applications of Integration",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 2/3ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "0",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 3/4ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "4",
+      "diverges",
+      "0"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 4/5ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "5",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 5/6ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "6",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 6/7ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "7",
+      "0",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 7/8ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "8",
+      "diverges",
+      "0"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 8/9ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "9",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 9/10ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "10",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 10/11ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "11",
+      "0",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 11/12ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "12",
+      "diverges",
+      "0"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 12/13ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "13",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 13/14ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "14",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 14/15ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "15",
+      "0",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 15/16ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "16",
+      "diverges",
+      "0"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 16/17ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "17",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 17/18ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "18",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 18/19ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "19",
+      "0",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 19/20ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "20",
+      "diverges",
+      "0"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 20/21ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "21",
+      "diverges"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For aₙ = 21/22ⁿ, what is lim n→∞ aₙ?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "converges",
+      "equals 1",
+      "oscillates"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^2 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, by comparison with the harmonic series",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 3/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "equals 1",
+      "oscillates",
+      "converges"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^4 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "yes, by comparison with the harmonic series",
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 5/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "converges",
+      "equals 1",
+      "oscillates"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^6 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, by comparison with the harmonic series",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 7/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "equals 1",
+      "oscillates",
+      "converges"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^8 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "yes, by comparison with the harmonic series",
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 9/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "converges",
+      "equals 1",
+      "oscillates"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^10 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, by comparison with the harmonic series",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 11/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "equals 1",
+      "oscillates",
+      "converges"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^12 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "yes, by comparison with the harmonic series",
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 13/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "converges",
+      "equals 1",
+      "oscillates"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^14 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "no, because terms approach zero",
+      "no, by the ratio test",
+      "yes, by comparison with the harmonic series",
+      "yes, because it is geometric"
+    ],
+    "correctAnswer": "yes, by comparison with the harmonic series",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 15/n diverge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "diverges by the harmonic series",
+      "equals 1",
+      "oscillates",
+      "converges"
+    ],
+    "correctAnswer": "converges",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Does Σ from n=1 to ∞ of 1/n^16 converge?",
+    "topic": "Convergence and Divergence",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2x - 8x³/3!",
+      "1 - 4x²/2!",
+      "2x + 4x²/2!",
+      "8x³/3!"
+    ],
+    "correctAnswer": "2x - 8x³/3!",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The Taylor series for sin(2x) centered at 0 begins with:",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "π",
+      "the nearest critical point"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "At what center is the Maclaurin series for f_3 expanded?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4x + 16x²",
+      "1 + 16x²/2",
+      "1 + 4x + 16x²/2",
+      "e^(4 x²)"
+    ],
+    "correctAnswer": "1 + 4x + 16x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which is the quadratic Taylor approximation of e^(4x) at x = 0?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1 - 25x²/2!",
+      "5x + 25x²/2!",
+      "125x³/3!",
+      "5x - 125x³/3!"
+    ],
+    "correctAnswer": "5x - 125x³/3!",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The Taylor series for sin(5x) centered at 0 begins with:",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "π",
+      "the nearest critical point"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "At what center is the Maclaurin series for f_6 expanded?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7x + 49x²",
+      "1 + 7x + 49x²/2",
+      "1 + 49x²/2",
+      "e^(7 x²)"
+    ],
+    "correctAnswer": "1 + 7x + 49x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which is the quadratic Taylor approximation of e^(7x) at x = 0?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1 - 64x²/2!",
+      "8x + 64x²/2!",
+      "8x - 512x³/3!",
+      "512x³/3!"
+    ],
+    "correctAnswer": "8x - 512x³/3!",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The Taylor series for sin(8x) centered at 0 begins with:",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "π",
+      "the nearest critical point",
+      "0"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "At what center is the Maclaurin series for f_9 expanded?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1 + 10x + 100x²/2",
+      "10x + 100x²",
+      "1 + 100x²/2",
+      "e^(10 x²)"
+    ],
+    "correctAnswer": "1 + 10x + 100x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which is the quadratic Taylor approximation of e^(10x) at x = 0?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1 - 121x²/2!",
+      "11x - 1331x³/3!",
+      "11x + 121x²/2!",
+      "1331x³/3!"
+    ],
+    "correctAnswer": "11x - 1331x³/3!",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The Taylor series for sin(11x) centered at 0 begins with:",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "π",
+      "0",
+      "the nearest critical point"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "At what center is the Maclaurin series for f_12 expanded?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13x + 169x²",
+      "1 + 169x²/2",
+      "e^(13 x²)",
+      "1 + 13x + 169x²/2"
+    ],
+    "correctAnswer": "1 + 13x + 169x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which is the quadratic Taylor approximation of e^(13x) at x = 0?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14x - 2744x³/3!",
+      "1 - 196x²/2!",
+      "14x + 196x²/2!",
+      "2744x³/3!"
+    ],
+    "correctAnswer": "14x - 2744x³/3!",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "The Taylor series for sin(14x) centered at 0 begins with:",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "π",
+      "the nearest critical point"
+    ],
+    "correctAnswer": "0",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "At what center is the Maclaurin series for f_15 expanded?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16x + 256x²",
+      "1 + 256x²/2",
+      "1 + 16x + 256x²/2",
+      "e^(16 x²)"
+    ],
+    "correctAnswer": "1 + 16x + 256x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which is the quadratic Taylor approximation of e^(16x) at x = 0?",
+    "topic": "Taylor Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "8",
+      "5",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 2x² + y², what is f(2, 3)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "25",
+      "27",
+      "7"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 3x² + y², what is f(3, 4)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "89",
+      "64",
+      "9"
+    ],
+    "correctAnswer": "89",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 4x² + y², what is f(4, 5)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61",
+      "125",
+      "161",
+      "11"
+    ],
+    "correctAnswer": "161",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 5x² + y², what is f(5, 6)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "85",
+      "216",
+      "13",
+      "265"
+    ],
+    "correctAnswer": "265",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 6x² + y², what is f(6, 7)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "407",
+      "113",
+      "343",
+      "15"
+    ],
+    "correctAnswer": "407",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 7x² + y², what is f(7, 8)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "145",
+      "593",
+      "512",
+      "17"
+    ],
+    "correctAnswer": "593",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 8x² + y², what is f(8, 9)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "181",
+      "729",
+      "829",
+      "19"
+    ],
+    "correctAnswer": "829",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 9x² + y², what is f(9, 10)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "221",
+      "1000",
+      "21",
+      "1121"
+    ],
+    "correctAnswer": "1121",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 10x² + y², what is f(10, 11)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1475",
+      "265",
+      "1331",
+      "23"
+    ],
+    "correctAnswer": "1475",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 11x² + y², what is f(11, 12)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "313",
+      "1897",
+      "1728",
+      "25"
+    ],
+    "correctAnswer": "1897",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 12x² + y², what is f(12, 13)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "365",
+      "2197",
+      "2393",
+      "27"
+    ],
+    "correctAnswer": "2393",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 13x² + y², what is f(13, 14)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "421",
+      "2744",
+      "29",
+      "2969"
+    ],
+    "correctAnswer": "2969",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 14x² + y², what is f(14, 15)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3631",
+      "481",
+      "3375",
+      "31"
+    ],
+    "correctAnswer": "3631",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 15x² + y², what is f(15, 16)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "545",
+      "4385",
+      "4096",
+      "33"
+    ],
+    "correctAnswer": "4385",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 16x² + y², what is f(16, 17)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "613",
+      "4913",
+      "5237",
+      "35"
+    ],
+    "correctAnswer": "5237",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 17x² + y², what is f(17, 18)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "685",
+      "5832",
+      "37",
+      "6193"
+    ],
+    "correctAnswer": "6193",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 18x² + y², what is f(18, 19)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7259",
+      "761",
+      "6859",
+      "39"
+    ],
+    "correctAnswer": "7259",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 19x² + y², what is f(19, 20)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "841",
+      "8441",
+      "8000",
+      "41"
+    ],
+    "correctAnswer": "8441",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 20x² + y², what is f(20, 21)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "925",
+      "9261",
+      "9745",
+      "43"
+    ],
+    "correctAnswer": "9745",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 21x² + y², what is f(21, 22)?",
+    "topic": "Multivariable Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "4",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 2x²y, what is ∂f/∂x at (2, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54",
+      "53",
+      "55",
+      "9"
+    ],
+    "correctAnswer": "54",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 3x²y, what is ∂f/∂x at (3, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "127",
+      "128",
+      "129",
+      "16"
+    ],
+    "correctAnswer": "128",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 4x²y, what is ∂f/∂x at (4, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "249",
+      "251",
+      "250",
+      "25"
+    ],
+    "correctAnswer": "250",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 5x²y, what is ∂f/∂x at (5, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "431",
+      "433",
+      "36",
+      "432"
+    ],
+    "correctAnswer": "432",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 6x²y, what is ∂f/∂x at (6, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "686",
+      "685",
+      "687",
+      "49"
+    ],
+    "correctAnswer": "686",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 7x²y, what is ∂f/∂x at (7, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1023",
+      "1024",
+      "1025",
+      "64"
+    ],
+    "correctAnswer": "1024",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 8x²y, what is ∂f/∂x at (8, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1457",
+      "1459",
+      "1458",
+      "81"
+    ],
+    "correctAnswer": "1458",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 9x²y, what is ∂f/∂x at (9, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1999",
+      "2001",
+      "100",
+      "2000"
+    ],
+    "correctAnswer": "2000",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 10x²y, what is ∂f/∂x at (10, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2662",
+      "2661",
+      "2663",
+      "121"
+    ],
+    "correctAnswer": "2662",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 11x²y, what is ∂f/∂x at (11, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3455",
+      "3456",
+      "3457",
+      "144"
+    ],
+    "correctAnswer": "3456",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 12x²y, what is ∂f/∂x at (12, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4393",
+      "4395",
+      "4394",
+      "169"
+    ],
+    "correctAnswer": "4394",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 13x²y, what is ∂f/∂x at (13, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5487",
+      "5489",
+      "196",
+      "5488"
+    ],
+    "correctAnswer": "5488",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 14x²y, what is ∂f/∂x at (14, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6750",
+      "6749",
+      "6751",
+      "225"
+    ],
+    "correctAnswer": "6750",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 15x²y, what is ∂f/∂x at (15, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8191",
+      "8192",
+      "8193",
+      "256"
+    ],
+    "correctAnswer": "8192",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 16x²y, what is ∂f/∂x at (16, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9825",
+      "9827",
+      "9826",
+      "289"
+    ],
+    "correctAnswer": "9826",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 17x²y, what is ∂f/∂x at (17, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11663",
+      "11665",
+      "324",
+      "11664"
+    ],
+    "correctAnswer": "11664",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 18x²y, what is ∂f/∂x at (18, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13718",
+      "13717",
+      "13719",
+      "361"
+    ],
+    "correctAnswer": "13718",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 19x²y, what is ∂f/∂x at (19, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15999",
+      "16000",
+      "16001",
+      "400"
+    ],
+    "correctAnswer": "16000",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 20x²y, what is ∂f/∂x at (20, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18521",
+      "18523",
+      "18522",
+      "441"
+    ],
+    "correctAnswer": "18522",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For f(x, y) = 21x²y, what is ∂f/∂x at (21, 1)?",
+    "topic": "Partial Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,2] × [0,1] of 2 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "11"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,3] × [0,1] of 3 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,4] × [0,1] of 4 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "26",
+      "25",
+      "27"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,5] × [0,1] of 5 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "37",
+      "38",
+      "36"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,6] × [0,1] of 6 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "48",
+      "50",
+      "51"
+    ],
+    "correctAnswer": "49",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,7] × [0,1] of 7 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "64",
+      "65",
+      "66"
+    ],
+    "correctAnswer": "64",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,8] × [0,1] of 8 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80",
+      "82",
+      "81",
+      "83"
+    ],
+    "correctAnswer": "81",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,9] × [0,1] of 9 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "99",
+      "101",
+      "102",
+      "100"
+    ],
+    "correctAnswer": "100",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,10] × [0,1] of 10 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "121",
+      "120",
+      "122",
+      "123"
+    ],
+    "correctAnswer": "121",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,11] × [0,1] of 11 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "143",
+      "144",
+      "145",
+      "146"
+    ],
+    "correctAnswer": "144",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,12] × [0,1] of 12 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "168",
+      "170",
+      "169",
+      "171"
+    ],
+    "correctAnswer": "169",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,13] × [0,1] of 13 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "195",
+      "197",
+      "198",
+      "196"
+    ],
+    "correctAnswer": "196",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,14] × [0,1] of 14 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "225",
+      "224",
+      "226",
+      "227"
+    ],
+    "correctAnswer": "225",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,15] × [0,1] of 15 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "255",
+      "256",
+      "257",
+      "258"
+    ],
+    "correctAnswer": "256",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Evaluate ∬ over [0,16] × [0,1] of 16 dA.",
+    "topic": "Multiple Integrals",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "0",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <2x, 3y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<4, 3>",
+      "<0, 0>",
+      "<6, 8>",
+      "<3, 4>"
+    ],
+    "correctAnswer": "<3, 4>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 3x + 4y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "4",
+      "0",
+      "20"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <4x, 5y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<6, 5>",
+      "<5, 6>",
+      "<0, 0>",
+      "<10, 12>"
+    ],
+    "correctAnswer": "<5, 6>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 5x + 6y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "0",
+      "13",
+      "42"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <6x, 7y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<8, 7>",
+      "<0, 0>",
+      "<14, 16>",
+      "<7, 8>"
+    ],
+    "correctAnswer": "<7, 8>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 7x + 8y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "8",
+      "0",
+      "72"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <8x, 9y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<10, 9>",
+      "<9, 10>",
+      "<0, 0>",
+      "<18, 20>"
+    ],
+    "correctAnswer": "<9, 10>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 9x + 10y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "0",
+      "21",
+      "110"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <10x, 11y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<12, 11>",
+      "<0, 0>",
+      "<22, 24>",
+      "<11, 12>"
+    ],
+    "correctAnswer": "<11, 12>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 11x + 12y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "12",
+      "0",
+      "156"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <12x, 13y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<14, 13>",
+      "<13, 14>",
+      "<0, 0>",
+      "<26, 28>"
+    ],
+    "correctAnswer": "<13, 14>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 13x + 14y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "0",
+      "29",
+      "210"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <14x, 15y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<16, 15>",
+      "<0, 0>",
+      "<30, 32>",
+      "<15, 16>"
+    ],
+    "correctAnswer": "<15, 16>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 15x + 16y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "16",
+      "0",
+      "272"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <16x, 17y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<18, 17>",
+      "<17, 18>",
+      "<0, 0>",
+      "<34, 36>"
+    ],
+    "correctAnswer": "<17, 18>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 17x + 18y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "0",
+      "37",
+      "342"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <18x, 19y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<20, 19>",
+      "<0, 0>",
+      "<38, 40>",
+      "<19, 20>"
+    ],
+    "correctAnswer": "<19, 20>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 19x + 20y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "20",
+      "0",
+      "420"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For F(x, y) = <20x, 21y>, what is div F?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<22, 21>",
+      "<21, 22>",
+      "<0, 0>",
+      "<42, 44>"
+    ],
+    "correctAnswer": "<21, 22>",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the gradient of f(x, y) = 21x + 22y?",
+    "topic": "Vector Calculus",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2e^x",
+      "x^2",
+      "e^(2x)",
+      "e^x + 2"
+    ],
+    "correctAnswer": "e^(2x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 2y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3x",
+      "x²/3",
+      "3x²",
+      "3x²/2"
+    ],
+    "correctAnswer": "3x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 3x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(4x)",
+      "4e^x",
+      "x^4",
+      "e^x + 4"
+    ],
+    "correctAnswer": "e^(4x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 4y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5x",
+      "5x²/2",
+      "x²/5",
+      "5x²"
+    ],
+    "correctAnswer": "5x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 5x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6e^x",
+      "x^6",
+      "e^(6x)",
+      "e^x + 6"
+    ],
+    "correctAnswer": "e^(6x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 6y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7x",
+      "x²/7",
+      "7x²",
+      "7x²/2"
+    ],
+    "correctAnswer": "7x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 7x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(8x)",
+      "8e^x",
+      "x^8",
+      "e^x + 8"
+    ],
+    "correctAnswer": "e^(8x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 8y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9x",
+      "9x²/2",
+      "x²/9",
+      "9x²"
+    ],
+    "correctAnswer": "9x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 9x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10e^x",
+      "x^10",
+      "e^(10x)",
+      "e^x + 10"
+    ],
+    "correctAnswer": "e^(10x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 10y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11x",
+      "x²/11",
+      "11x²",
+      "11x²/2"
+    ],
+    "correctAnswer": "11x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 11x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(12x)",
+      "12e^x",
+      "x^12",
+      "e^x + 12"
+    ],
+    "correctAnswer": "e^(12x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 12y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13x",
+      "13x²/2",
+      "x²/13",
+      "13x²"
+    ],
+    "correctAnswer": "13x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 13x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14e^x",
+      "x^14",
+      "e^(14x)",
+      "e^x + 14"
+    ],
+    "correctAnswer": "e^(14x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 14y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15x",
+      "x²/15",
+      "15x²",
+      "15x²/2"
+    ],
+    "correctAnswer": "15x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 15x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(16x)",
+      "16e^x",
+      "x^16",
+      "e^x + 16"
+    ],
+    "correctAnswer": "e^(16x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 16y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17x",
+      "17x²/2",
+      "x²/17",
+      "17x²"
+    ],
+    "correctAnswer": "17x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 17x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18e^x",
+      "x^18",
+      "e^(18x)",
+      "e^x + 18"
+    ],
+    "correctAnswer": "e^(18x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 18y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19x",
+      "x²/19",
+      "19x²",
+      "19x²/2"
+    ],
+    "correctAnswer": "19x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 19x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(20x)",
+      "20e^x",
+      "x^20",
+      "e^x + 20"
+    ],
+    "correctAnswer": "e^(20x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 20y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21x",
+      "21x²/2",
+      "x²/21",
+      "21x²"
+    ],
+    "correctAnswer": "21x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 21x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22e^x",
+      "x^22",
+      "e^(22x)",
+      "e^x + 22"
+    ],
+    "correctAnswer": "e^(22x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 22y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23x",
+      "x²/23",
+      "23x²",
+      "23x²/2"
+    ],
+    "correctAnswer": "23x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 23x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(24x)",
+      "24e^x",
+      "x^24",
+      "e^x + 24"
+    ],
+    "correctAnswer": "e^(24x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 24y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25x",
+      "25x²/2",
+      "x²/25",
+      "25x²"
+    ],
+    "correctAnswer": "25x²/2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For y' = 25x with y(0) = 0, what is y(x)?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26e^x",
+      "x^26",
+      "e^(26x)",
+      "e^x + 26"
+    ],
+    "correctAnswer": "e^(26x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which function solves y' = 26y with y(0) = 1?",
+    "topic": "First-Order Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-2",
+      "depends on the initial temperature",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -2(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "0",
+      "-3",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -3(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "20",
+      "-4",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -4(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-5",
+      "20",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -5(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-6",
+      "depends on the initial temperature",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -6(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "0",
+      "-7",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -7(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "20",
+      "-8",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -8(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-9",
+      "20",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -9(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-10",
+      "depends on the initial temperature",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -10(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "0",
+      "-11",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -11(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "20",
+      "-12",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -12(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-13",
+      "20",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -13(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "-14",
+      "depends on the initial temperature",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -14(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "0",
+      "-15",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -15(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "20",
+      "-16",
+      "depends on the initial temperature"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A cooling model is T' = -16(T - 20). What is the equilibrium temperature?",
+    "topic": "Applications of Differential Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2t",
+      "t^2",
+      "e^(2t)",
+      "e^t + 2"
+    ],
+    "correctAnswer": "e^(2t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 2P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3t",
+      "t^3",
+      "e^t + 3",
+      "e^(3t)"
+    ],
+    "correctAnswer": "e^(3t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 3P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(4t)",
+      "4t",
+      "t^4",
+      "e^t + 4"
+    ],
+    "correctAnswer": "e^(4t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 4P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5t",
+      "e^(5t)",
+      "t^5",
+      "e^t + 5"
+    ],
+    "correctAnswer": "e^(5t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 5P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6t",
+      "t^6",
+      "e^(6t)",
+      "e^t + 6"
+    ],
+    "correctAnswer": "e^(6t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 6P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7t",
+      "t^7",
+      "e^t + 7",
+      "e^(7t)"
+    ],
+    "correctAnswer": "e^(7t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 7P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(8t)",
+      "8t",
+      "t^8",
+      "e^t + 8"
+    ],
+    "correctAnswer": "e^(8t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 8P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9t",
+      "e^(9t)",
+      "t^9",
+      "e^t + 9"
+    ],
+    "correctAnswer": "e^(9t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 9P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10t",
+      "t^10",
+      "e^(10t)",
+      "e^t + 10"
+    ],
+    "correctAnswer": "e^(10t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 10P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11t",
+      "t^11",
+      "e^t + 11",
+      "e^(11t)"
+    ],
+    "correctAnswer": "e^(11t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 11P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(12t)",
+      "12t",
+      "t^12",
+      "e^t + 12"
+    ],
+    "correctAnswer": "e^(12t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 12P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13t",
+      "e^(13t)",
+      "t^13",
+      "e^t + 13"
+    ],
+    "correctAnswer": "e^(13t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 13P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14t",
+      "t^14",
+      "e^(14t)",
+      "e^t + 14"
+    ],
+    "correctAnswer": "e^(14t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 14P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15t",
+      "t^15",
+      "e^t + 15",
+      "e^(15t)"
+    ],
+    "correctAnswer": "e^(15t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 15P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "e^(16t)",
+      "16t",
+      "t^16",
+      "e^t + 16"
+    ],
+    "correctAnswer": "e^(16t)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A population follows P' = 16P. If P(0) = 1, which is P(t)?",
+    "topic": "Exponential Growth and Decay Models",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "5",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[2, 1], [0, 3]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "7",
+      "12"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[3, 1], [0, 4]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "5",
+      "20",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[4, 1], [0, 5]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "5",
+      "6",
+      "30"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[5, 1], [0, 6]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "13",
+      "7",
+      "42"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[6, 1], [0, 7]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "8",
+      "15",
+      "56"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[7, 1], [0, 8]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "9",
+      "72",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[8, 1], [0, 9]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "9",
+      "10",
+      "90"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[9, 1], [0, 10]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "21",
+      "11",
+      "110"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[10, 1], [0, 11]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "12",
+      "23",
+      "132"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[11, 1], [0, 12]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "13",
+      "156",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[12, 1], [0, 13]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "13",
+      "14",
+      "182"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[13, 1], [0, 14]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "29",
+      "15",
+      "210"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[14, 1], [0, 15]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "16",
+      "31",
+      "240"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[15, 1], [0, 16]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "17",
+      "272",
+      "33"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[16, 1], [0, 17]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "17",
+      "18",
+      "306"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[17, 1], [0, 18]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "37",
+      "19",
+      "342"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[18, 1], [0, 19]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "20",
+      "39",
+      "380"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[19, 1], [0, 20]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "21",
+      "420",
+      "41"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[20, 1], [0, 21]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "21",
+      "22",
+      "462"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For A = [[21, 1], [0, 22]], what is trace(A)?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3×3",
+      "2×4",
+      "4×2",
+      "2×3"
+    ],
+    "correctAnswer": "2×4",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 2×3 and B is 3×4, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4×4",
+      "5×3",
+      "3×5",
+      "3×4"
+    ],
+    "correctAnswer": "3×5",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 3×4 and B is 4×5, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5×5",
+      "6×4",
+      "4×5",
+      "4×6"
+    ],
+    "correctAnswer": "4×6",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 4×5 and B is 5×6, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5×7",
+      "6×6",
+      "7×5",
+      "5×6"
+    ],
+    "correctAnswer": "5×7",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 5×6 and B is 6×7, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7×7",
+      "6×8",
+      "8×6",
+      "6×7"
+    ],
+    "correctAnswer": "6×8",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 6×7 and B is 7×8, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8×8",
+      "9×7",
+      "7×9",
+      "7×8"
+    ],
+    "correctAnswer": "7×9",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 7×8 and B is 8×9, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9×9",
+      "10×8",
+      "8×9",
+      "8×10"
+    ],
+    "correctAnswer": "8×10",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 8×9 and B is 9×10, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9×11",
+      "10×10",
+      "11×9",
+      "9×10"
+    ],
+    "correctAnswer": "9×11",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 9×10 and B is 10×11, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11×11",
+      "10×12",
+      "12×10",
+      "10×11"
+    ],
+    "correctAnswer": "10×12",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 10×11 and B is 11×12, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12×12",
+      "13×11",
+      "11×13",
+      "11×12"
+    ],
+    "correctAnswer": "11×13",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 11×12 and B is 12×13, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13×13",
+      "14×12",
+      "12×13",
+      "12×14"
+    ],
+    "correctAnswer": "12×14",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 12×13 and B is 13×14, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13×15",
+      "14×14",
+      "15×13",
+      "13×14"
+    ],
+    "correctAnswer": "13×15",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 13×14 and B is 14×15, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15×15",
+      "14×16",
+      "16×14",
+      "14×15"
+    ],
+    "correctAnswer": "14×16",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 14×15 and B is 15×16, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16×16",
+      "17×15",
+      "15×17",
+      "15×16"
+    ],
+    "correctAnswer": "15×17",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 15×16 and B is 16×17, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17×17",
+      "18×16",
+      "16×17",
+      "16×18"
+    ],
+    "correctAnswer": "16×18",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 16×17 and B is 17×18, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17×19",
+      "18×18",
+      "19×17",
+      "17×18"
+    ],
+    "correctAnswer": "17×19",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 17×18 and B is 18×19, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19×19",
+      "18×20",
+      "20×18",
+      "18×19"
+    ],
+    "correctAnswer": "18×20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 18×19 and B is 19×20, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20×20",
+      "21×19",
+      "19×21",
+      "19×20"
+    ],
+    "correctAnswer": "19×21",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 19×20 and B is 20×21, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21×21",
+      "22×20",
+      "20×21",
+      "20×22"
+    ],
+    "correctAnswer": "20×22",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 20×21 and B is 21×22, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21×23",
+      "22×22",
+      "23×21",
+      "21×22"
+    ],
+    "correctAnswer": "21×23",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A is 21×22 and B is 22×23, what is the size of AB?",
+    "topic": "Matrix Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "6",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[2, 1], [0, 3]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "1",
+      "12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[3, 1], [0, 4]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "1",
+      "0",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[4, 1], [0, 5]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "11",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[5, 1], [0, 6]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "42",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[6, 1], [0, 7]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "1",
+      "56",
+      "0"
+    ],
+    "correctAnswer": "56",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[7, 1], [0, 8]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "1",
+      "0",
+      "72"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[8, 1], [0, 9]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "90",
+      "19",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "90",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[9, 1], [0, 10]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "110",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "110",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[10, 1], [0, 11]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "1",
+      "132",
+      "0"
+    ],
+    "correctAnswer": "132",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[11, 1], [0, 12]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "1",
+      "0",
+      "156"
+    ],
+    "correctAnswer": "156",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[12, 1], [0, 13]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "182",
+      "27",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "182",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[13, 1], [0, 14]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "210",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "210",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[14, 1], [0, 15]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "1",
+      "240",
+      "0"
+    ],
+    "correctAnswer": "240",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[15, 1], [0, 16]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "1",
+      "0",
+      "272"
+    ],
+    "correctAnswer": "272",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is det([[16, 1], [0, 17]])?",
+    "topic": "Determinants",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <2, 3> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "7",
+      "3"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <3, 4> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "9",
+      "-1",
+      "4"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <4, 5> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "11",
+      "5",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <5, 6> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "13",
+      "6"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <6, 7> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "15",
+      "7"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <7, 8> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "17",
+      "-1",
+      "8"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <8, 9> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "19",
+      "9",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <9, 10> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "21",
+      "10"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <10, 11> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "23",
+      "11"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <11, 12> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "25",
+      "-1",
+      "12"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <12, 13> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "27",
+      "13",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <13, 14> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "29",
+      "14"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <14, 15> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "31",
+      "15"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <15, 16> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "33",
+      "-1",
+      "16"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <16, 17> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "35",
+      "17",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <17, 18> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-1",
+      "1",
+      "37",
+      "18"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <18, 19> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-1",
+      "39",
+      "19"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <19, 20> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "41",
+      "-1",
+      "20"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <20, 21> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "43",
+      "21",
+      "-1"
+    ],
+    "correctAnswer": "-1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the dot product of <21, 22> and <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "5",
+      "0"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(2, 3)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "3",
+      "7",
+      "0"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(3, 4)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "9",
+      "4",
+      "0"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(4, 5)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "11",
+      "0",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(5, 6)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "7",
+      "13",
+      "0"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(6, 7)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "7",
+      "15",
+      "0"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(7, 8)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "17",
+      "8",
+      "0"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(8, 9)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "19",
+      "0",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(9, 10)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "11",
+      "21",
+      "0"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(10, 11)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "11",
+      "23",
+      "0"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(11, 12)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "25",
+      "12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(12, 13)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "27",
+      "0",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(13, 14)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "15",
+      "29",
+      "0"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(14, 15)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "15",
+      "31",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(15, 16)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "33",
+      "16",
+      "0"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is an eigenvalue of diagonal matrix diag(16, 17)?",
+    "topic": "Eigenvalues and Eigenvectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent",
+      "every element has an inverse"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_2, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every element has an inverse",
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_3, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "every element has an inverse",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_4, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element has an inverse",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_5, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent",
+      "every element has an inverse"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_6, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every element has an inverse",
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_7, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "every element has an inverse",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_8, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element has an inverse",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_9, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent",
+      "every element has an inverse"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_10, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every element has an inverse",
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_11, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "every element has an inverse",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_12, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element has an inverse",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_13, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent",
+      "every element has an inverse"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_14, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every element has an inverse",
+      "multiplication must commute",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_15, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "multiplication must commute",
+      "every element has an inverse",
+      "the set must contain real numbers",
+      "every element must be idempotent"
+    ],
+    "correctAnswer": "every element has an inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For a candidate group G_16, which condition is required?",
+    "topic": "Groups",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "a cyclic group",
+      "an abelian group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_2, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "a cyclic group",
+      "only a semigroup",
+      "an abelian group"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_3, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "an abelian group",
+      "a field",
+      "a cyclic group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_4, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "an abelian group",
+      "a cyclic group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_5, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "a cyclic group",
+      "an abelian group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_6, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "a cyclic group",
+      "only a semigroup",
+      "an abelian group"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_7, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "an abelian group",
+      "a field",
+      "a cyclic group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_8, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "an abelian group",
+      "a cyclic group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_9, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "a cyclic group",
+      "an abelian group",
+      "only a semigroup"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_10, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a field",
+      "a cyclic group",
+      "only a semigroup",
+      "an abelian group"
+    ],
+    "correctAnswer": "an abelian group",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For ring R_11, which structure must its addition form?",
+    "topic": "Rings",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every nonzero element has a multiplicative inverse",
+      "addition is associative",
+      "it has a zero element",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_2 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "every nonzero element has a multiplicative inverse",
+      "it has a zero element",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_3 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "it has a zero element",
+      "every nonzero element has a multiplicative inverse",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_4 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "it has a zero element",
+      "multiplication distributes over addition",
+      "every nonzero element has a multiplicative inverse"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_5 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every nonzero element has a multiplicative inverse",
+      "addition is associative",
+      "it has a zero element",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_6 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "every nonzero element has a multiplicative inverse",
+      "it has a zero element",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_7 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "it has a zero element",
+      "every nonzero element has a multiplicative inverse",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_8 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "it has a zero element",
+      "multiplication distributes over addition",
+      "every nonzero element has a multiplicative inverse"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_9 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "every nonzero element has a multiplicative inverse",
+      "addition is associative",
+      "it has a zero element",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_10 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "addition is associative",
+      "every nonzero element has a multiplicative inverse",
+      "it has a zero element",
+      "multiplication distributes over addition"
+    ],
+    "correctAnswer": "every nonzero element has a multiplicative inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property distinguishes field F_11 from a general ring?",
+    "topic": "Fields",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 5 mod 3?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 10 mod 4?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 17 mod 5?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 26 mod 6?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 37 mod 7?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 50 mod 8?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 65 mod 9?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 82 mod 10?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 101 mod 11?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 122 mod 12?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 145 mod 13?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 170 mod 14?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 197 mod 15?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 226 mod 16?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 257 mod 17?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 290 mod 18?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 325 mod 19?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 362 mod 20?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 401 mod 21?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is 442 mod 22?",
+    "topic": "Modular Arithmetic (Modern Algebra)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[2, 3]",
+      "{2}",
+      "(2, 3)",
+      "[2, 3)"
+    ],
+    "correctAnswer": "(2, 3)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 2.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[3, 4]",
+      "{3}",
+      "[3, 4)",
+      "(3, 4)"
+    ],
+    "correctAnswer": "(3, 4)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 3.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(4, 5)",
+      "[4, 5]",
+      "{4}",
+      "[4, 5)"
+    ],
+    "correctAnswer": "(4, 5)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 4.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[5, 6]",
+      "(5, 6)",
+      "{5}",
+      "[5, 6)"
+    ],
+    "correctAnswer": "(5, 6)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 5.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[6, 7]",
+      "{6}",
+      "(6, 7)",
+      "[6, 7)"
+    ],
+    "correctAnswer": "(6, 7)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 6.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[7, 8]",
+      "{7}",
+      "[7, 8)",
+      "(7, 8)"
+    ],
+    "correctAnswer": "(7, 8)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 7.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(8, 9)",
+      "[8, 9]",
+      "{8}",
+      "[8, 9)"
+    ],
+    "correctAnswer": "(8, 9)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 8.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[9, 10]",
+      "(9, 10)",
+      "{9}",
+      "[9, 10)"
+    ],
+    "correctAnswer": "(9, 10)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 9.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[10, 11]",
+      "{10}",
+      "(10, 11)",
+      "[10, 11)"
+    ],
+    "correctAnswer": "(10, 11)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 10.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[11, 12]",
+      "{11}",
+      "[11, 12)",
+      "(11, 12)"
+    ],
+    "correctAnswer": "(11, 12)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which set containing 11.5 is open?",
+    "topic": "Open Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[2, 3]",
+      "(2, 3)",
+      "(2, 3]",
+      "(2, 3) ∩ Q"
+    ],
+    "correctAnswer": "[2, 3]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 2 and 3 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(3, 4)",
+      "[3, 4]",
+      "(3, 4]",
+      "(3, 4) ∩ Q"
+    ],
+    "correctAnswer": "[3, 4]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 3 and 4 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(4, 5)",
+      "(4, 5]",
+      "[4, 5]",
+      "(4, 5) ∩ Q"
+    ],
+    "correctAnswer": "[4, 5]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 4 and 5 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(5, 6)",
+      "(5, 6]",
+      "(5, 6) ∩ Q",
+      "[5, 6]"
+    ],
+    "correctAnswer": "[5, 6]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 5 and 6 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[6, 7]",
+      "(6, 7)",
+      "(6, 7]",
+      "(6, 7) ∩ Q"
+    ],
+    "correctAnswer": "[6, 7]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 6 and 7 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(7, 8)",
+      "[7, 8]",
+      "(7, 8]",
+      "(7, 8) ∩ Q"
+    ],
+    "correctAnswer": "[7, 8]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 7 and 8 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(8, 9)",
+      "(8, 9]",
+      "[8, 9]",
+      "(8, 9) ∩ Q"
+    ],
+    "correctAnswer": "[8, 9]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 8 and 9 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(9, 10)",
+      "(9, 10]",
+      "(9, 10) ∩ Q",
+      "[9, 10]"
+    ],
+    "correctAnswer": "[9, 10]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 9 and 10 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "[10, 11]",
+      "(10, 11)",
+      "(10, 11]",
+      "(10, 11) ∩ Q"
+    ],
+    "correctAnswer": "[10, 11]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 10 and 11 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(11, 12)",
+      "[11, 12]",
+      "(11, 12]",
+      "(11, 12) ∩ Q"
+    ],
+    "correctAnswer": "[11, 12]",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In R, which bounded interval with endpoints 11 and 12 is closed?",
+    "topic": "Closed Sets",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "x near a implies f(x) near f(a)",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_2 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "f(a) is a local maximum",
+      "x near a implies f(x) near f(a)"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_3 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x near a implies f(x) near f(a)",
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_4 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "x near a implies f(x) near f(a)",
+      "f has an inverse at a",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_5 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "x near a implies f(x) near f(a)",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_6 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "f(a) is a local maximum",
+      "x near a implies f(x) near f(a)"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_7 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x near a implies f(x) near f(a)",
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_8 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "x near a implies f(x) near f(a)",
+      "f has an inverse at a",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_9 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "x near a implies f(x) near f(a)",
+      "f(a) is a local maximum"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_10 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "f is differentiable at a",
+      "f has an inverse at a",
+      "f(a) is a local maximum",
+      "x near a implies f(x) near f(a)"
+    ],
+    "correctAnswer": "x near a implies f(x) near f(a)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which epsilon-delta statement describes continuity of f_11 at a?",
+    "topic": "Continuity",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a continuous bijection with continuous inverse",
+      "a differentiable bijection",
+      "a linear isometry",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_2: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a continuous bijection with continuous inverse",
+      "a linear isometry",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_3: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a linear isometry",
+      "a continuous bijection with continuous inverse",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_4: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a linear isometry",
+      "a function preserving distances",
+      "a continuous bijection with continuous inverse"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_5: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a continuous bijection with continuous inverse",
+      "a differentiable bijection",
+      "a linear isometry",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_6: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a continuous bijection with continuous inverse",
+      "a linear isometry",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_7: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a linear isometry",
+      "a continuous bijection with continuous inverse",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_8: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a linear isometry",
+      "a function preserving distances",
+      "a continuous bijection with continuous inverse"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_9: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a continuous bijection with continuous inverse",
+      "a differentiable bijection",
+      "a linear isometry",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_10: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a differentiable bijection",
+      "a continuous bijection with continuous inverse",
+      "a linear isometry",
+      "a function preserving distances"
+    ],
+    "correctAnswer": "a continuous bijection with continuous inverse",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "A map h_11: X → Y is a homeomorphism only if it is:",
+    "topic": "Homeomorphisms",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 2^2 mod 3 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "9",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 3^2 mod 4 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "4",
+      "5",
+      "16"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 4^2 mod 5 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "1",
+      "6",
+      "25"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 5^2 mod 6 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "7",
+      "1",
+      "36"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 6^2 mod 7 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "8",
+      "49",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 7^2 mod 8 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "8",
+      "9",
+      "64"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 8^2 mod 9 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "1",
+      "10",
+      "81"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 9^2 mod 10 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "11",
+      "1",
+      "100"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 10^2 mod 11 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "12",
+      "121",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 11^2 mod 12 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "12",
+      "13",
+      "144"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 12^2 mod 13 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "1",
+      "14",
+      "169"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 13^2 mod 14 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "15",
+      "1",
+      "196"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 14^2 mod 15 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "16",
+      "225",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 15^2 mod 16 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "16",
+      "17",
+      "256"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Compute 16^2 mod 17 for an RSA-style calculation.",
+    "topic": "Modular Arithmetic (Cryptography)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it has exactly two positive divisors",
+      "it is not divisible by 2",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_2 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it is not divisible by 2",
+      "it has exactly two positive divisors",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_3 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it is not divisible by 2",
+      "it has no negative divisors",
+      "it has exactly two positive divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_4 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it has exactly two positive divisors",
+      "it is odd",
+      "it is not divisible by 2",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_5 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it has exactly two positive divisors",
+      "it is not divisible by 2",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_6 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it is not divisible by 2",
+      "it has exactly two positive divisors",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_7 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it is not divisible by 2",
+      "it has no negative divisors",
+      "it has exactly two positive divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_8 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it has exactly two positive divisors",
+      "it is odd",
+      "it is not divisible by 2",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_9 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it has exactly two positive divisors",
+      "it is not divisible by 2",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_10 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "it is odd",
+      "it is not divisible by 2",
+      "it has exactly two positive divisors",
+      "it has no negative divisors"
+    ],
+    "correctAnswer": "it has exactly two positive divisors",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which property defines a candidate prime p_11 > 1?",
+    "topic": "Prime Numbers",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the session secret",
+      "the factorization of the modulus",
+      "the public key"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 2's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the public key",
+      "the private key",
+      "the session secret",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 3's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the public key",
+      "the session secret",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 4's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the session secret",
+      "the public key",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 5's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the session secret",
+      "the factorization of the modulus",
+      "the public key"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 6's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the public key",
+      "the private key",
+      "the session secret",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 7's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the public key",
+      "the session secret",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 8's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the session secret",
+      "the public key",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 9's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the private key",
+      "the session secret",
+      "the factorization of the modulus",
+      "the public key"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 10's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the public key",
+      "the private key",
+      "the session secret",
+      "the factorization of the modulus"
+    ],
+    "correctAnswer": "the public key",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "In user 11's public-key system, which key may be shared openly?",
+    "topic": "Public Key Concepts",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "factoring a large composite modulus",
+      "computing a gcd",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_2, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "computing a gcd",
+      "factoring a large composite modulus",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_3, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "computing a gcd",
+      "testing a small prime",
+      "factoring a large composite modulus"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_4, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "factoring a large composite modulus",
+      "adding large integers",
+      "computing a gcd",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_5, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "factoring a large composite modulus",
+      "computing a gcd",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_6, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "computing a gcd",
+      "factoring a large composite modulus",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_7, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "computing a gcd",
+      "testing a small prime",
+      "factoring a large composite modulus"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_8, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "factoring a large composite modulus",
+      "adding large integers",
+      "computing a gcd",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_9, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "factoring a large composite modulus",
+      "computing a gcd",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_10, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "adding large integers",
+      "computing a gcd",
+      "factoring a large composite modulus",
+      "testing a small prime"
+    ],
+    "correctAnswer": "factoring a large composite modulus",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "For RSA modulus n_11, security is based primarily on the difficulty of:",
+    "topic": "RSA Foundations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_2(x)",
+      "there exists x such that P_2(x)",
+      "not P_2(x) for no x",
+      "there exists x such that not P_2(x)"
+    ],
+    "correctAnswer": "there exists x such that not P_2(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_2(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "there exists x such that not P_3(x)",
+      "for every x, not P_3(x)",
+      "there exists x such that P_3(x)",
+      "not P_3(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_3(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_3(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_4(x)",
+      "there exists x such that not P_4(x)",
+      "there exists x such that P_4(x)",
+      "not P_4(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_4(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_4(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_5(x)",
+      "there exists x such that P_5(x)",
+      "there exists x such that not P_5(x)",
+      "not P_5(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_5(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_5(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_6(x)",
+      "there exists x such that P_6(x)",
+      "not P_6(x) for no x",
+      "there exists x such that not P_6(x)"
+    ],
+    "correctAnswer": "there exists x such that not P_6(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_6(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "there exists x such that not P_7(x)",
+      "for every x, not P_7(x)",
+      "there exists x such that P_7(x)",
+      "not P_7(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_7(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_7(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_8(x)",
+      "there exists x such that not P_8(x)",
+      "there exists x such that P_8(x)",
+      "not P_8(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_8(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_8(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_9(x)",
+      "there exists x such that P_9(x)",
+      "there exists x such that not P_9(x)",
+      "not P_9(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_9(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_9(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_10(x)",
+      "there exists x such that P_10(x)",
+      "not P_10(x) for no x",
+      "there exists x such that not P_10(x)"
+    ],
+    "correctAnswer": "there exists x such that not P_10(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_10(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "there exists x such that not P_11(x)",
+      "for every x, not P_11(x)",
+      "there exists x such that P_11(x)",
+      "not P_11(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_11(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_11(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_12(x)",
+      "there exists x such that not P_12(x)",
+      "there exists x such that P_12(x)",
+      "not P_12(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_12(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_12(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_13(x)",
+      "there exists x such that P_13(x)",
+      "there exists x such that not P_13(x)",
+      "not P_13(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_13(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_13(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_14(x)",
+      "there exists x such that P_14(x)",
+      "not P_14(x) for no x",
+      "there exists x such that not P_14(x)"
+    ],
+    "correctAnswer": "there exists x such that not P_14(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_14(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "there exists x such that not P_15(x)",
+      "for every x, not P_15(x)",
+      "there exists x such that P_15(x)",
+      "not P_15(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_15(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_15(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "for every x, not P_16(x)",
+      "there exists x such that not P_16(x)",
+      "there exists x such that P_16(x)",
+      "not P_16(x) for no x"
+    ],
+    "correctAnswer": "there exists x such that not P_16(x)",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "What is the negation of 'for every x, P_16(x)'?",
+    "topic": "Logic",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by contradiction",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_2 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by induction",
+      "proof by contradiction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_3 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "proof by contradiction",
+      "direct proof",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_4 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by contradiction",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_5 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by contradiction",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_6 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by induction",
+      "proof by contradiction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_7 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "proof by contradiction",
+      "direct proof",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_8 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by contradiction",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_9 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by contradiction",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_10 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by induction",
+      "proof by contradiction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_11 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "proof by contradiction",
+      "direct proof",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_12 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by contradiction",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_13 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by contradiction",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_14 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "direct proof",
+      "proof by cases",
+      "proof by induction",
+      "proof by contradiction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_15 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "proof by contradiction",
+      "direct proof",
+      "proof by cases",
+      "proof by induction"
+    ],
+    "correctAnswer": "proof by contradiction",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "Which method proves claim C_16 by assuming its negation and deriving a contradiction?",
+    "topic": "Mathematical Proofs",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 2 elements and B has 3 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "4",
+      "7",
+      "6"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 3 elements and B has 4 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "5",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 4 elements and B has 5 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "30",
+      "6",
+      "10"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 5 elements and B has 6 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "13",
+      "7",
+      "12"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 6 elements and B has 7 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56",
+      "8",
+      "15",
+      "14"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 7 elements and B has 8 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "72",
+      "9",
+      "16",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 8 elements and B has 9 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "90",
+      "10",
+      "18"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 9 elements and B has 10 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "110",
+      "21",
+      "11",
+      "20"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 10 elements and B has 11 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "132",
+      "12",
+      "23",
+      "22"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 11 elements and B has 12 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "156",
+      "13",
+      "24",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 12 elements and B has 13 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "182",
+      "14",
+      "26"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 13 elements and B has 14 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "210",
+      "29",
+      "15",
+      "28"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 14 elements and B has 15 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "240",
+      "16",
+      "31",
+      "30"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 15 elements and B has 16 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "272",
+      "17",
+      "32",
+      "33"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 13,
+    "question": "If A has 16 elements and B has 17 elements with no overlap, how many elements are in A ∪ B?",
+    "topic": "Set Theory",
+    "uses_pi": false
+  }
+]

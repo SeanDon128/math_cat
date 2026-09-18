@@ -1,0 +1,3012 @@
+[
+  {
+    "choices": [
+      "3690",
+      "3680",
+      "3700",
+      "3590"
+    ],
+    "correctAnswer": "3690",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "1234 + 2456 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3900",
+      "3910",
+      "3920",
+      "3810"
+    ],
+    "correctAnswer": "3910",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "1371 + 2539 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4120",
+      "4140",
+      "4130",
+      "4030"
+    ],
+    "correctAnswer": "4130",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "1508 + 2622 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4340",
+      "4360",
+      "4250",
+      "4350"
+    ],
+    "correctAnswer": "4350",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "1645 + 2705 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4570",
+      "4560",
+      "4580",
+      "4470"
+    ],
+    "correctAnswer": "4570",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "1782 + 2788 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4780",
+      "4790",
+      "4800",
+      "4690"
+    ],
+    "correctAnswer": "4790",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "1919 + 2871 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5000",
+      "5020",
+      "5010",
+      "4910"
+    ],
+    "correctAnswer": "5010",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2056 + 2954 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5220",
+      "5240",
+      "5130",
+      "5230"
+    ],
+    "correctAnswer": "5230",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2193 + 3037 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5450",
+      "5440",
+      "5460",
+      "5350"
+    ],
+    "correctAnswer": "5450",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2330 + 3120 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5660",
+      "5670",
+      "5680",
+      "5570"
+    ],
+    "correctAnswer": "5670",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2467 + 3203 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5880",
+      "5900",
+      "5890",
+      "5790"
+    ],
+    "correctAnswer": "5890",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2604 + 3286 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6100",
+      "6120",
+      "6010",
+      "6110"
+    ],
+    "correctAnswer": "6110",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2741 + 3369 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6330",
+      "6320",
+      "6340",
+      "6230"
+    ],
+    "correctAnswer": "6330",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "2878 + 3452 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6540",
+      "6550",
+      "6560",
+      "6450"
+    ],
+    "correctAnswer": "6550",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3015 + 3535 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6760",
+      "6780",
+      "6770",
+      "6670"
+    ],
+    "correctAnswer": "6770",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3152 + 3618 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6980",
+      "7000",
+      "6890",
+      "6990"
+    ],
+    "correctAnswer": "6990",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3289 + 3701 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7210",
+      "7200",
+      "7220",
+      "7110"
+    ],
+    "correctAnswer": "7210",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3426 + 3784 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7420",
+      "7430",
+      "7440",
+      "7330"
+    ],
+    "correctAnswer": "7430",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3563 + 3867 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7640",
+      "7660",
+      "7650",
+      "7550"
+    ],
+    "correctAnswer": "7650",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3700 + 3950 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7860",
+      "7880",
+      "7770",
+      "7870"
+    ],
+    "correctAnswer": "7870",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3837 + 4033 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8090",
+      "8080",
+      "8100",
+      "7990"
+    ],
+    "correctAnswer": "8090",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "3974 + 4116 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8300",
+      "8310",
+      "8320",
+      "8210"
+    ],
+    "correctAnswer": "8310",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4111 + 4199 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8520",
+      "8540",
+      "8530",
+      "8430"
+    ],
+    "correctAnswer": "8530",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4248 + 4282 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8740",
+      "8760",
+      "8650",
+      "8750"
+    ],
+    "correctAnswer": "8750",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4385 + 4365 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8970",
+      "8960",
+      "8980",
+      "8870"
+    ],
+    "correctAnswer": "8970",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4522 + 4448 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9180",
+      "9190",
+      "9200",
+      "9090"
+    ],
+    "correctAnswer": "9190",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4659 + 4531 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9400",
+      "9420",
+      "9410",
+      "9310"
+    ],
+    "correctAnswer": "9410",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4796 + 4614 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9620",
+      "9640",
+      "9530",
+      "9630"
+    ],
+    "correctAnswer": "9630",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "4933 + 4697 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9850",
+      "9840",
+      "9860",
+      "9750"
+    ],
+    "correctAnswer": "9850",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5070 + 4780 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10060",
+      "10070",
+      "10080",
+      "9970"
+    ],
+    "correctAnswer": "10070",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5207 + 4863 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10280",
+      "10300",
+      "10290",
+      "10190"
+    ],
+    "correctAnswer": "10290",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5344 + 4946 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10500",
+      "10520",
+      "10410",
+      "10510"
+    ],
+    "correctAnswer": "10510",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5481 + 5029 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10730",
+      "10720",
+      "10740",
+      "10630"
+    ],
+    "correctAnswer": "10730",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5618 + 5112 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10940",
+      "10950",
+      "10960",
+      "10850"
+    ],
+    "correctAnswer": "10950",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5755 + 5195 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11160",
+      "11180",
+      "11170",
+      "11070"
+    ],
+    "correctAnswer": "11170",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "5892 + 5278 =",
+    "topic": "Multi-Digit Addition",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5756",
+      "5776",
+      "5866",
+      "5766"
+    ],
+    "correctAnswer": "5766",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "7000 - 1234 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5910",
+      "5900",
+      "5920",
+      "6010"
+    ],
+    "correctAnswer": "5910",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "7191 - 1281 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6044",
+      "6054",
+      "6064",
+      "6154"
+    ],
+    "correctAnswer": "6054",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "7382 - 1328 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6188",
+      "6208",
+      "6198",
+      "6298"
+    ],
+    "correctAnswer": "6198",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "7573 - 1375 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6332",
+      "6352",
+      "6442",
+      "6342"
+    ],
+    "correctAnswer": "6342",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "7764 - 1422 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6486",
+      "6476",
+      "6496",
+      "6586"
+    ],
+    "correctAnswer": "6486",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "7955 - 1469 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6620",
+      "6630",
+      "6640",
+      "6730"
+    ],
+    "correctAnswer": "6630",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "8146 - 1516 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6764",
+      "6784",
+      "6774",
+      "6874"
+    ],
+    "correctAnswer": "6774",
+    "difficulty": "easy",
+    "grade": 5,
+    "question": "8337 - 1563 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6908",
+      "6928",
+      "7018",
+      "6918"
+    ],
+    "correctAnswer": "6918",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "8528 - 1610 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7062",
+      "7052",
+      "7072",
+      "7162"
+    ],
+    "correctAnswer": "7062",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "8719 - 1657 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7196",
+      "7206",
+      "7216",
+      "7306"
+    ],
+    "correctAnswer": "7206",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "8910 - 1704 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7340",
+      "7360",
+      "7350",
+      "7450"
+    ],
+    "correctAnswer": "7350",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9101 - 1751 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7484",
+      "7504",
+      "7594",
+      "7494"
+    ],
+    "correctAnswer": "7494",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9292 - 1798 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7638",
+      "7628",
+      "7648",
+      "7738"
+    ],
+    "correctAnswer": "7638",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9483 - 1845 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7772",
+      "7782",
+      "7792",
+      "7882"
+    ],
+    "correctAnswer": "7782",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9674 - 1892 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7916",
+      "7936",
+      "7926",
+      "8026"
+    ],
+    "correctAnswer": "7926",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9865 - 1939 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8060",
+      "8080",
+      "8170",
+      "8070"
+    ],
+    "correctAnswer": "8070",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10056 - 1986 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8214",
+      "8204",
+      "8224",
+      "8314"
+    ],
+    "correctAnswer": "8214",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10247 - 2033 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8348",
+      "8358",
+      "8368",
+      "8458"
+    ],
+    "correctAnswer": "8358",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10438 - 2080 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8492",
+      "8512",
+      "8502",
+      "8602"
+    ],
+    "correctAnswer": "8502",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10629 - 2127 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8636",
+      "8656",
+      "8746",
+      "8646"
+    ],
+    "correctAnswer": "8646",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10820 - 2174 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8790",
+      "8780",
+      "8800",
+      "8890"
+    ],
+    "correctAnswer": "8790",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11011 - 2221 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8924",
+      "8934",
+      "8944",
+      "9034"
+    ],
+    "correctAnswer": "8934",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11202 - 2268 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9068",
+      "9088",
+      "9078",
+      "9178"
+    ],
+    "correctAnswer": "9078",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11393 - 2315 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9212",
+      "9232",
+      "9322",
+      "9222"
+    ],
+    "correctAnswer": "9222",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11584 - 2362 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9366",
+      "9356",
+      "9376",
+      "9466"
+    ],
+    "correctAnswer": "9366",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11775 - 2409 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9500",
+      "9510",
+      "9520",
+      "9610"
+    ],
+    "correctAnswer": "9510",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11966 - 2456 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9644",
+      "9664",
+      "9654",
+      "9754"
+    ],
+    "correctAnswer": "9654",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12157 - 2503 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9788",
+      "9808",
+      "9898",
+      "9798"
+    ],
+    "correctAnswer": "9798",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12348 - 2550 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9942",
+      "9932",
+      "9952",
+      "10042"
+    ],
+    "correctAnswer": "9942",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12539 - 2597 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10076",
+      "10086",
+      "10096",
+      "10186"
+    ],
+    "correctAnswer": "10086",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12730 - 2644 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10220",
+      "10240",
+      "10230",
+      "10330"
+    ],
+    "correctAnswer": "10230",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12921 - 2691 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10364",
+      "10384",
+      "10474",
+      "10374"
+    ],
+    "correctAnswer": "10374",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "13112 - 2738 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10518",
+      "10508",
+      "10528",
+      "10618"
+    ],
+    "correctAnswer": "10518",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "13303 - 2785 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10652",
+      "10662",
+      "10672",
+      "10762"
+    ],
+    "correctAnswer": "10662",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "13494 - 2832 =",
+    "topic": "Multi-Digit Subtraction",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "156",
+      "180",
+      "168",
+      "194"
+    ],
+    "correctAnswer": "168",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12 x 14 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "210",
+      "240",
+      "255",
+      "225"
+    ],
+    "correctAnswer": "225",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "15 x 15 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "288",
+      "270",
+      "306",
+      "322"
+    ],
+    "correctAnswer": "288",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "18 x 16 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "336",
+      "357",
+      "378",
+      "395"
+    ],
+    "correctAnswer": "357",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "21 x 17 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "408",
+      "456",
+      "432",
+      "474"
+    ],
+    "correctAnswer": "432",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "24 x 18 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "486",
+      "540",
+      "559",
+      "513"
+    ],
+    "correctAnswer": "513",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "27 x 19 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "600",
+      "570",
+      "630",
+      "650"
+    ],
+    "correctAnswer": "600",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "30 x 20 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "660",
+      "693",
+      "726",
+      "747"
+    ],
+    "correctAnswer": "693",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "33 x 21 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "756",
+      "828",
+      "792",
+      "850"
+    ],
+    "correctAnswer": "792",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "36 x 22 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "858",
+      "936",
+      "959",
+      "897"
+    ],
+    "correctAnswer": "897",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "39 x 23 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1008",
+      "966",
+      "1050",
+      "1074"
+    ],
+    "correctAnswer": "1008",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "42 x 24 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1080",
+      "1125",
+      "1170",
+      "1195"
+    ],
+    "correctAnswer": "1125",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "45 x 25 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1200",
+      "1296",
+      "1248",
+      "1322"
+    ],
+    "correctAnswer": "1248",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "48 x 26 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1326",
+      "1428",
+      "1455",
+      "1377"
+    ],
+    "correctAnswer": "1377",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "51 x 27 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1512",
+      "1458",
+      "1566",
+      "1594"
+    ],
+    "correctAnswer": "1512",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "54 x 28 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1596",
+      "1653",
+      "1710",
+      "1739"
+    ],
+    "correctAnswer": "1653",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "57 x 29 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1740",
+      "1860",
+      "1800",
+      "1890"
+    ],
+    "correctAnswer": "1800",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "60 x 30 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1890",
+      "2016",
+      "2047",
+      "1953"
+    ],
+    "correctAnswer": "1953",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "63 x 31 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2112",
+      "2046",
+      "2178",
+      "2210"
+    ],
+    "correctAnswer": "2112",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "66 x 32 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2208",
+      "2277",
+      "2346",
+      "2379"
+    ],
+    "correctAnswer": "2277",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "69 x 33 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2376",
+      "2520",
+      "2448",
+      "2554"
+    ],
+    "correctAnswer": "2448",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "72 x 34 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2550",
+      "2700",
+      "2735",
+      "2625"
+    ],
+    "correctAnswer": "2625",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "75 x 35 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2808",
+      "2730",
+      "2886",
+      "2922"
+    ],
+    "correctAnswer": "2808",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "78 x 36 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2916",
+      "2997",
+      "3078",
+      "3115"
+    ],
+    "correctAnswer": "2997",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "81 x 37 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3108",
+      "3276",
+      "3192",
+      "3314"
+    ],
+    "correctAnswer": "3192",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "84 x 38 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3306",
+      "3480",
+      "3519",
+      "3393"
+    ],
+    "correctAnswer": "3393",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "87 x 39 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3600",
+      "3510",
+      "3690",
+      "3730"
+    ],
+    "correctAnswer": "3600",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "90 x 40 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3720",
+      "3813",
+      "3906",
+      "3947"
+    ],
+    "correctAnswer": "3813",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "93 x 41 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3936",
+      "4128",
+      "4032",
+      "4170"
+    ],
+    "correctAnswer": "4032",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "96 x 42 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4158",
+      "4356",
+      "4399",
+      "4257"
+    ],
+    "correctAnswer": "4257",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "99 x 43 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4488",
+      "4386",
+      "4590",
+      "4634"
+    ],
+    "correctAnswer": "4488",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "102 x 44 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4620",
+      "4725",
+      "4830",
+      "4875"
+    ],
+    "correctAnswer": "4725",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "105 x 45 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4860",
+      "5076",
+      "4968",
+      "5122"
+    ],
+    "correctAnswer": "4968",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "108 x 46 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5106",
+      "5328",
+      "5375",
+      "5217"
+    ],
+    "correctAnswer": "5217",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "111 x 47 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5472",
+      "5358",
+      "5586",
+      "5634"
+    ],
+    "correctAnswer": "5472",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "114 x 48 =",
+    "topic": "Multi-Digit Multiplication",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "12",
+      "13",
+      "33"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "36 / 3 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "15",
+      "14",
+      "52"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "56 / 4 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "75",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "80 / 5 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "17",
+      "19",
+      "102"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "108 / 6 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "20",
+      "21",
+      "133"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "140 / 7 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "23",
+      "22",
+      "168"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "176 / 8 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "207",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "216 / 9 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "25",
+      "27",
+      "75"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "78 / 3 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "28",
+      "29",
+      "108"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "112 / 4 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "31",
+      "30",
+      "145"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "150 / 5 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "33",
+      "186",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "192 / 6 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34",
+      "33",
+      "35",
+      "231"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "238 / 7 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "36",
+      "37",
+      "280"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "288 / 8 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37",
+      "39",
+      "38",
+      "333"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "342 / 9 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "41",
+      "117",
+      "40"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "120 / 3 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "41",
+      "43",
+      "164"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "168 / 4 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "44",
+      "45",
+      "215"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "220 / 5 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45",
+      "47",
+      "46",
+      "270"
+    ],
+    "correctAnswer": "46",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "276 / 6 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "49",
+      "329",
+      "48"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "336 / 7 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "49",
+      "51",
+      "392"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "400 / 8 =",
+    "topic": "Long Division",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2/4",
+      "3/4",
+      "4/4",
+      "3/5"
+    ],
+    "correctAnswer": "3/4",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "1/4 + 2/4 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/5",
+      "5/5",
+      "4/5",
+      "4/6"
+    ],
+    "correctAnswer": "4/5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "2/5 + 2/5 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0/1",
+      "2/1",
+      "1/2",
+      "1/1"
+    ],
+    "correctAnswer": "1/1",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "3/6 + 3/6 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8/7",
+      "7/7",
+      "9/7",
+      "8/8"
+    ],
+    "correctAnswer": "8/7",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "4/7 + 4/7 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4/4",
+      "5/4",
+      "6/4",
+      "5/5"
+    ],
+    "correctAnswer": "5/4",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "5/8 + 5/8 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/3",
+      "5/3",
+      "4/3",
+      "4/4"
+    ],
+    "correctAnswer": "4/3",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "6/9 + 6/9 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6/5",
+      "8/5",
+      "7/6",
+      "7/5"
+    ],
+    "correctAnswer": "7/5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "7/10 + 7/10 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16/11",
+      "15/11",
+      "17/11",
+      "16/12"
+    ],
+    "correctAnswer": "16/11",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "8/11 + 8/11 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2/2",
+      "3/2",
+      "4/2",
+      "3/3"
+    ],
+    "correctAnswer": "3/2",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9/12 + 9/12 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19/13",
+      "21/13",
+      "20/13",
+      "20/14"
+    ],
+    "correctAnswer": "20/13",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10/13 + 10/13 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10/7",
+      "12/7",
+      "11/8",
+      "11/7"
+    ],
+    "correctAnswer": "11/7",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11/14 + 11/14 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8/5",
+      "7/5",
+      "9/5",
+      "8/6"
+    ],
+    "correctAnswer": "8/5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12/15 + 12/15 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12/8",
+      "13/8",
+      "14/8",
+      "13/9"
+    ],
+    "correctAnswer": "13/8",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "13/16 + 13/16 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27/17",
+      "29/17",
+      "28/17",
+      "28/18"
+    ],
+    "correctAnswer": "28/17",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "14/17 + 14/17 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4/3",
+      "6/3",
+      "5/4",
+      "5/3"
+    ],
+    "correctAnswer": "5/3",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "15/18 + 15/18 =",
+    "topic": "Fraction Addition (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/5",
+      "4/5",
+      "2/5",
+      "3/4"
+    ],
+    "correctAnswer": "3/5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "4/5 - 1/5 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "2/5"
+    ],
+    "correctAnswer": "1/3",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "5/6 - 3/6 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2/7",
+      "0/1",
+      "1/7",
+      "1/6"
+    ],
+    "correctAnswer": "1/7",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "6/7 - 5/7 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/8",
+      "5/8",
+      "6/7",
+      "3/4"
+    ],
+    "correctAnswer": "3/4",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "7/8 - 1/8 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2/3",
+      "7/9",
+      "5/9",
+      "3/4"
+    ],
+    "correctAnswer": "2/3",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "8/9 - 2/9 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/10",
+      "3/5",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswer": "3/5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "9/10 - 3/10 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/11",
+      "5/11",
+      "6/11",
+      "3/5"
+    ],
+    "correctAnswer": "6/11",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "10/11 - 4/11 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/12",
+      "5/12",
+      "6/11",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "11/12 - 5/12 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6/13",
+      "7/13",
+      "5/13",
+      "1/2"
+    ],
+    "correctAnswer": "6/13",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "12/13 - 6/13 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "3/7",
+      "5/14",
+      "6/13"
+    ],
+    "correctAnswer": "3/7",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "13/14 - 7/14 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/15",
+      "1/3",
+      "2/5",
+      "3/7"
+    ],
+    "correctAnswer": "2/5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "14/15 - 8/15 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/16",
+      "5/16",
+      "2/5",
+      "3/8"
+    ],
+    "correctAnswer": "3/8",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "15/16 - 9/16 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6/17",
+      "7/17",
+      "5/17",
+      "3/8"
+    ],
+    "correctAnswer": "6/17",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "16/17 - 10/17 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/18",
+      "1/3",
+      "5/18",
+      "6/17"
+    ],
+    "correctAnswer": "1/3",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "17/18 - 11/18 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7/19",
+      "5/19",
+      "6/19",
+      "1/3"
+    ],
+    "correctAnswer": "6/19",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "18/19 - 12/19 =",
+    "topic": "Fraction Subtraction (Like Denominators)",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.05",
+      "0.005",
+      "5",
+      "0.5"
+    ],
+    "correctAnswer": "0.5",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 5 in 4.582?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.01",
+      "0.1",
+      "0.001",
+      "1"
+    ],
+    "correctAnswer": "0.01",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 1 in 7.416?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.5",
+      "0.005",
+      "0.05",
+      "5"
+    ],
+    "correctAnswer": "0.005",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 5 in 2.915?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.02",
+      "0.002",
+      "0.2",
+      "2"
+    ],
+    "correctAnswer": "0.2",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 2 in 8.273?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.4",
+      "0.004",
+      "4",
+      "0.04"
+    ],
+    "correctAnswer": "0.04",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 4 in 5.641?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.009",
+      "0.9",
+      "0.09",
+      "9"
+    ],
+    "correctAnswer": "0.009",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 9 in 3.819?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.01",
+      "0.1",
+      "0.001",
+      "1"
+    ],
+    "correctAnswer": "0.1",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 1 in 6.154?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.2",
+      "0.002",
+      "0.02",
+      "2"
+    ],
+    "correctAnswer": "0.02",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 2 in 9.327?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.6",
+      "0.06",
+      "6",
+      "0.006"
+    ],
+    "correctAnswer": "0.006",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 6 in 1.786?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.2",
+      "0.02",
+      "0.002",
+      "2"
+    ],
+    "correctAnswer": "0.2",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 2 in 4.239?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.1",
+      "0.01",
+      "0.001",
+      "1"
+    ],
+    "correctAnswer": "0.01",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 1 in 7.518?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.4",
+      "0.04",
+      "0.004",
+      "4"
+    ],
+    "correctAnswer": "0.004",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 4 in 2.364?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.09",
+      "0.009",
+      "9",
+      "0.9"
+    ],
+    "correctAnswer": "0.9",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 9 in 8.915?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.07",
+      "0.7",
+      "0.007",
+      "7"
+    ],
+    "correctAnswer": "0.07",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 7 in 5.172?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.8",
+      "0.008",
+      "0.08",
+      "8"
+    ],
+    "correctAnswer": "0.008",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "What is the value of the 8 in 3.648?",
+    "topic": "Decimal Place Value",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.20 is greater",
+      "They are equal",
+      "1.21 is greater",
+      "Not enough information"
+    ],
+    "correctAnswer": "1.21 is greater",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.20 or 1.21?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.32 is greater",
+      "They are equal",
+      "Not enough information",
+      "1.33 is greater"
+    ],
+    "correctAnswer": "1.33 is greater",
+    "difficulty": "medium",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.33 or 1.32?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.47 is greater",
+      "1.46 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "1.47 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.46 or 1.47?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.58 is greater",
+      "1.59 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "1.59 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.59 or 1.58?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.72 is greater",
+      "They are equal",
+      "1.73 is greater",
+      "Not enough information"
+    ],
+    "correctAnswer": "1.73 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.72 or 1.73?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.84 is greater",
+      "They are equal",
+      "Not enough information",
+      "1.85 is greater"
+    ],
+    "correctAnswer": "1.85 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.85 or 1.84?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.99 is greater",
+      "1.98 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "1.99 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 1.98 or 1.99?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.10 is greater",
+      "2.11 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "2.11 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.11 or 2.10?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.24 is greater",
+      "They are equal",
+      "2.25 is greater",
+      "Not enough information"
+    ],
+    "correctAnswer": "2.25 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.24 or 2.25?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.36 is greater",
+      "They are equal",
+      "Not enough information",
+      "2.37 is greater"
+    ],
+    "correctAnswer": "2.37 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.37 or 2.36?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.51 is greater",
+      "2.50 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "2.51 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.50 or 2.51?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.62 is greater",
+      "2.63 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "2.63 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.63 or 2.62?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.76 is greater",
+      "They are equal",
+      "2.77 is greater",
+      "Not enough information"
+    ],
+    "correctAnswer": "2.77 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.76 or 2.77?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.88 is greater",
+      "They are equal",
+      "Not enough information",
+      "2.89 is greater"
+    ],
+    "correctAnswer": "2.89 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 2.89 or 2.88?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3.03 is greater",
+      "3.02 is greater",
+      "They are equal",
+      "Not enough information"
+    ],
+    "correctAnswer": "3.03 is greater",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "Which decimal is greater: 3.02 or 3.03?",
+    "topic": "Decimal Comparison",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.63",
+      "1.73",
+      "1.83",
+      "0.77"
+    ],
+    "correctAnswer": "1.73",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "1.25 + 0.48 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0.85",
+      "1.05",
+      "0.95",
+      "2.29"
+    ],
+    "correctAnswer": "0.95",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "1.62 - 0.67 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.75",
+      "2.95",
+      "1.13",
+      "2.85"
+    ],
+    "correctAnswer": "2.85",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "1.99 + 0.86 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.31",
+      "1.21",
+      "1.41",
+      "3.41"
+    ],
+    "correctAnswer": "1.31",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "2.36 - 1.05 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3.87",
+      "3.97",
+      "4.07",
+      "1.49"
+    ],
+    "correctAnswer": "3.97",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "2.73 + 1.24 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1.57",
+      "1.77",
+      "1.67",
+      "4.53"
+    ],
+    "correctAnswer": "1.67",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "3.10 - 1.43 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4.99",
+      "5.19",
+      "1.85",
+      "5.09"
+    ],
+    "correctAnswer": "5.09",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "3.47 + 1.62 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.03",
+      "1.93",
+      "2.13",
+      "5.65"
+    ],
+    "correctAnswer": "2.03",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "3.84 - 1.81 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6.11",
+      "6.21",
+      "6.31",
+      "2.21"
+    ],
+    "correctAnswer": "6.21",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "4.21 + 2.00 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.29",
+      "2.49",
+      "2.39",
+      "6.77"
+    ],
+    "correctAnswer": "2.39",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "4.58 - 2.19 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7.23",
+      "7.43",
+      "2.57",
+      "7.33"
+    ],
+    "correctAnswer": "7.33",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "4.95 + 2.38 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2.75",
+      "2.65",
+      "2.85",
+      "7.89"
+    ],
+    "correctAnswer": "2.75",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "5.32 - 2.57 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8.35",
+      "8.45",
+      "8.55",
+      "2.93"
+    ],
+    "correctAnswer": "8.45",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "5.69 + 2.76 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3.01",
+      "3.21",
+      "3.11",
+      "9.01"
+    ],
+    "correctAnswer": "3.11",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "6.06 - 2.95 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9.47",
+      "9.67",
+      "3.29",
+      "9.57"
+    ],
+    "correctAnswer": "9.57",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "6.43 + 3.14 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3.47",
+      "3.37",
+      "3.57",
+      "10.13"
+    ],
+    "correctAnswer": "3.47",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "6.80 - 3.33 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10.59",
+      "10.69",
+      "10.79",
+      "3.65"
+    ],
+    "correctAnswer": "10.69",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "7.17 + 3.52 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3.73",
+      "3.93",
+      "3.83",
+      "11.25"
+    ],
+    "correctAnswer": "3.83",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "7.54 - 3.71 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11.71",
+      "11.91",
+      "4.01",
+      "11.81"
+    ],
+    "correctAnswer": "11.81",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "7.91 + 3.90 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4.19",
+      "4.09",
+      "4.29",
+      "12.37"
+    ],
+    "correctAnswer": "4.19",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "8.28 - 4.09 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12.83",
+      "12.93",
+      "13.03",
+      "4.37"
+    ],
+    "correctAnswer": "12.93",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "8.65 + 4.28 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4.45",
+      "4.65",
+      "4.55",
+      "13.49"
+    ],
+    "correctAnswer": "4.55",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "9.02 - 4.47 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13.95",
+      "14.15",
+      "4.73",
+      "14.05"
+    ],
+    "correctAnswer": "14.05",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "9.39 + 4.66 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4.91",
+      "4.81",
+      "5.01",
+      "14.61"
+    ],
+    "correctAnswer": "4.91",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "9.76 - 4.85 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15.07",
+      "15.17",
+      "15.27",
+      "5.09"
+    ],
+    "correctAnswer": "15.17",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "10.13 + 5.04 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5.17",
+      "5.37",
+      "5.27",
+      "15.73"
+    ],
+    "correctAnswer": "5.27",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "10.50 - 5.23 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16.19",
+      "16.39",
+      "5.45",
+      "16.29"
+    ],
+    "correctAnswer": "16.29",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "10.87 + 5.42 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5.63",
+      "5.53",
+      "5.73",
+      "16.85"
+    ],
+    "correctAnswer": "5.63",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "11.24 - 5.61 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17.31",
+      "17.41",
+      "17.51",
+      "5.81"
+    ],
+    "correctAnswer": "17.41",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "11.61 + 5.80 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5.89",
+      "6.09",
+      "5.99",
+      "17.97"
+    ],
+    "correctAnswer": "5.99",
+    "difficulty": "hard",
+    "grade": 5,
+    "question": "11.98 - 5.99 =",
+    "topic": "Decimal Operations",
+    "uses_pi": false
+  }
+]
