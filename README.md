@@ -1,5 +1,15 @@
 # Math Cat 🐱➕
 
+<p align="center">
+  <a href="Math-Cat-Trailer.mp4">
+    <img src="docs/images/math-cat-trailer-hero.jpg" alt="Math Cat official trailer" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="Math-Cat-Trailer.mp4">▶ Watch the official trailer</a></strong>
+</p>
+
 A retro 8-bit style educational math trivia game, built in **Godot 4.7** for the **xGames Game Jam - 2026 Microsoft Global Hackathon**.
 
 Player controls a cat, answers 4-choice math questions, and climbs (or falls) through grade levels 1–12 based on performance. **Version 1 covers Grades 1–12, plus a bonus Grade 13 for college level material.**
