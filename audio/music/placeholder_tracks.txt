@@ -1,0 +1,8 @@
+OGG music tracks use these exact names:
+kitten_theme.ogg
+bigcat_theme.ogg
+tiger_theme.ogg
+satcat_theme.ogg
+final_level_theme.ogg
+nerdcat_theme.ogg
+victory_theme.ogg

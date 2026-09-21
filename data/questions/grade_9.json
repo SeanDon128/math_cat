@@ -1,0 +1,5392 @@
+[
+  {
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 3 = 2x + 7",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "6"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 4 = 2x + 10",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "8"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 5 = 2x + 13",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "4",
+      "10",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 6 = 2x + 16",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 7 = 2x + 19",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "14"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 8 = 2x + 22",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "7",
+      "8",
+      "16"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 9 = 2x + 25",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "8",
+      "18",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 10 = 2x + 28",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "20"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 11 = 2x + 31",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "11",
+      "10",
+      "22"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 12 = 2x + 34",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "11",
+      "12",
+      "24"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 13 = 2x + 37",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "12",
+      "26",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 14 = 2x + 40",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "15",
+      "13",
+      "28"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 15 = 2x + 43",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "15",
+      "14",
+      "30"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 16 = 2x + 46",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "15",
+      "16",
+      "32"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve: 4x + 17 = 2x + 49",
+    "topic": "Grade 8 Review: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "1",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 1, find f(2).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "11",
+      "1",
+      "9"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 2, find f(3).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "9",
+      "1",
+      "12"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 3, find f(4).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "1",
+      "11",
+      "15"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 4, find f(5).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "1",
+      "18",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 5, find f(6).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "27",
+      "1",
+      "21"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 6, find f(7).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "17",
+      "1",
+      "24"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 7, find f(8).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "1",
+      "19",
+      "27"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 8, find f(9).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "1",
+      "30",
+      "21"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 9, find f(10).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "43",
+      "1",
+      "33"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 10, find f(11).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "25",
+      "1",
+      "36"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 11, find f(12).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "1",
+      "27",
+      "39"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 12, find f(13).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "55",
+      "1",
+      "42",
+      "29"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 13, find f(14).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "59",
+      "1",
+      "45"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 14, find f(15).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "33",
+      "1",
+      "48"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "For f(x) = 3x - 15, find f(16).",
+    "topic": "Grade 8 Review: Linear Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(6, 9)",
+      "(4, 9)",
+      "(4, 6)",
+      "(6, 4)"
+    ],
+    "correctAnswer": "(4, 6)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (2, 3) and (6, 9)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(7, 10)",
+      "(5, 10)",
+      "(7, 5)",
+      "(5, 7)"
+    ],
+    "correctAnswer": "(5, 7)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (3, 4) and (7, 10)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(6, 8)",
+      "(8, 11)",
+      "(6, 11)",
+      "(8, 6)"
+    ],
+    "correctAnswer": "(6, 8)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (4, 5) and (8, 11)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(9, 12)",
+      "(7, 9)",
+      "(7, 12)",
+      "(9, 7)"
+    ],
+    "correctAnswer": "(7, 9)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (5, 6) and (9, 12)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(10, 13)",
+      "(8, 13)",
+      "(8, 10)",
+      "(10, 8)"
+    ],
+    "correctAnswer": "(8, 10)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (6, 7) and (10, 13)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(11, 14)",
+      "(9, 14)",
+      "(11, 9)",
+      "(9, 11)"
+    ],
+    "correctAnswer": "(9, 11)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (7, 8) and (11, 14)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(10, 12)",
+      "(12, 15)",
+      "(10, 15)",
+      "(12, 10)"
+    ],
+    "correctAnswer": "(10, 12)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (8, 9) and (12, 15)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(13, 16)",
+      "(11, 13)",
+      "(11, 16)",
+      "(13, 11)"
+    ],
+    "correctAnswer": "(11, 13)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (9, 10) and (13, 16)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(14, 17)",
+      "(12, 17)",
+      "(12, 14)",
+      "(14, 12)"
+    ],
+    "correctAnswer": "(12, 14)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (10, 11) and (14, 17)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(15, 18)",
+      "(13, 18)",
+      "(15, 13)",
+      "(13, 15)"
+    ],
+    "correctAnswer": "(13, 15)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (11, 12) and (15, 18)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(14, 16)",
+      "(16, 19)",
+      "(14, 19)",
+      "(16, 14)"
+    ],
+    "correctAnswer": "(14, 16)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (12, 13) and (16, 19)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(17, 20)",
+      "(15, 17)",
+      "(15, 20)",
+      "(17, 15)"
+    ],
+    "correctAnswer": "(15, 17)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (13, 14) and (17, 20)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(18, 21)",
+      "(16, 21)",
+      "(16, 18)",
+      "(18, 16)"
+    ],
+    "correctAnswer": "(16, 18)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (14, 15) and (18, 21)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(19, 22)",
+      "(17, 22)",
+      "(19, 17)",
+      "(17, 19)"
+    ],
+    "correctAnswer": "(17, 19)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (15, 16) and (19, 22)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(18, 20)",
+      "(20, 23)",
+      "(18, 23)",
+      "(20, 18)"
+    ],
+    "correctAnswer": "(18, 20)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is the midpoint of (16, 17) and (20, 23)?",
+    "topic": "Grade 8 Review: Graphing and Coordinate Plane",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "2",
+      "6",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (3, 6).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "8",
+      "2",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (4, 8).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "10",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (5, 10).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "1/2",
+      "12",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (6, 12).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "2",
+      "14",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (7, 14).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "16",
+      "2",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (8, 16).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "18",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (9, 18).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "1/2",
+      "20",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (10, 20).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "2",
+      "22",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (11, 22).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "24",
+      "2",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (12, 24).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "26",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (13, 26).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "1/2",
+      "28",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (14, 28).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "2",
+      "30",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (15, 30).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "32",
+      "2",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (16, 32).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "34",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Find the slope from (0, 0) to (17, 34).",
+    "topic": "Grade 8 Review: Slope and Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "14",
+      "100",
+      "11"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 6 and 8. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "15",
+      "225",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 9 and 12. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "400",
+      "20",
+      "21"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 12 and 16. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "625",
+      "26",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 15 and 20. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "42",
+      "900",
+      "31"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 18 and 24. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "35",
+      "1225",
+      "36"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 21 and 28. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "56",
+      "1600",
+      "40",
+      "41"
+    ],
+    "correctAnswer": "40",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 24 and 32. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "63",
+      "2025",
+      "46",
+      "45"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 27 and 36. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "70",
+      "2500",
+      "51"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 30 and 40. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "77",
+      "55",
+      "3025",
+      "56"
+    ],
+    "correctAnswer": "55",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 33 and 44. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "84",
+      "3600",
+      "60",
+      "61"
+    ],
+    "correctAnswer": "60",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 36 and 48. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "91",
+      "4225",
+      "66",
+      "65"
+    ],
+    "correctAnswer": "65",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 39 and 52. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "70",
+      "98",
+      "4900",
+      "71"
+    ],
+    "correctAnswer": "70",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 42 and 56. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "105",
+      "75",
+      "5625",
+      "76"
+    ],
+    "correctAnswer": "75",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 45 and 60. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "112",
+      "6400",
+      "80",
+      "81"
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 48 and 64. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "119",
+      "7225",
+      "86",
+      "85"
+    ],
+    "correctAnswer": "85",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 51 and 68. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "90",
+      "126",
+      "8100",
+      "91"
+    ],
+    "correctAnswer": "90",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 54 and 72. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "133",
+      "95",
+      "9025",
+      "96"
+    ],
+    "correctAnswer": "95",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 57 and 76. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "140",
+      "10000",
+      "100",
+      "101"
+    ],
+    "correctAnswer": "100",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 60 and 80. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "147",
+      "11025",
+      "106",
+      "105"
+    ],
+    "correctAnswer": "105",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "A right triangle has legs 63 and 84. Find its hypotenuse.",
+    "topic": "Grade 8 Review: Pythagorean Theorem",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "5",
+      "7",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 7 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "3",
+      "9",
+      "-3"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 9 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "11",
+      "4",
+      "-4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 11 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "13",
+      "-5",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 13 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "9",
+      "15",
+      "-6"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 15 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "7",
+      "17",
+      "-7"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 17 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "19",
+      "8",
+      "-8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 19 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "21",
+      "-9",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 21 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "13",
+      "23",
+      "-10"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 23 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "11",
+      "25",
+      "-11"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 25 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "27",
+      "12",
+      "-12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 27 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "29",
+      "-13",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 29 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "17",
+      "31",
+      "-14"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 31 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "15",
+      "33",
+      "-15"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 33 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "35",
+      "16",
+      "-16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Solve x + y = 35 and x - y = -3. Find x.",
+    "topic": "Grade 8 Review: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2⁶",
+      "2⁸",
+      "4²",
+      "2²"
+    ],
+    "correctAnswer": "2²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 2⁴ / 2²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3²",
+      "3⁶",
+      "3⁸",
+      "6²"
+    ],
+    "correctAnswer": "3²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 3⁴ / 3²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4⁶",
+      "4²",
+      "4⁸",
+      "8²"
+    ],
+    "correctAnswer": "4²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 4⁴ / 4²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5⁶",
+      "5⁸",
+      "5²",
+      "10²"
+    ],
+    "correctAnswer": "5²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 5⁴ / 5²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6⁶",
+      "6⁸",
+      "12²",
+      "6²"
+    ],
+    "correctAnswer": "6²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 6⁴ / 6²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7²",
+      "7⁶",
+      "7⁸",
+      "14²"
+    ],
+    "correctAnswer": "7²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 7⁴ / 7²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8⁶",
+      "8²",
+      "8⁸",
+      "16²"
+    ],
+    "correctAnswer": "8²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 8⁴ / 8²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9⁶",
+      "9⁸",
+      "9²",
+      "18²"
+    ],
+    "correctAnswer": "9²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 9⁴ / 9²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10⁶",
+      "10⁸",
+      "20²",
+      "10²"
+    ],
+    "correctAnswer": "10²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 10⁴ / 10²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11²",
+      "11⁶",
+      "11⁸",
+      "22²"
+    ],
+    "correctAnswer": "11²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 11⁴ / 11²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12⁶",
+      "12²",
+      "12⁸",
+      "24²"
+    ],
+    "correctAnswer": "12²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 12⁴ / 12²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13⁶",
+      "13⁸",
+      "13²",
+      "26²"
+    ],
+    "correctAnswer": "13²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 13⁴ / 13²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14⁶",
+      "14⁸",
+      "28²",
+      "14²"
+    ],
+    "correctAnswer": "14²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 14⁴ / 14²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15²",
+      "15⁶",
+      "15⁸",
+      "30²"
+    ],
+    "correctAnswer": "15²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 15⁴ / 15²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16⁶",
+      "16²",
+      "16⁸",
+      "32²"
+    ],
+    "correctAnswer": "16²",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Simplify: 16⁴ / 16²",
+    "topic": "Grade 8 Review: Exponents",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2000",
+      "200000",
+      "20000",
+      "6"
+    ],
+    "correctAnswer": "20000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 2 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3000",
+      "300000",
+      "7",
+      "30000"
+    ],
+    "correctAnswer": "30000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 3 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40000",
+      "4000",
+      "400000",
+      "8"
+    ],
+    "correctAnswer": "40000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 4 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5000",
+      "50000",
+      "500000",
+      "9"
+    ],
+    "correctAnswer": "50000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 5 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6000",
+      "600000",
+      "60000",
+      "10"
+    ],
+    "correctAnswer": "60000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 6 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7000",
+      "700000",
+      "11",
+      "70000"
+    ],
+    "correctAnswer": "70000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 7 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80000",
+      "8000",
+      "800000",
+      "12"
+    ],
+    "correctAnswer": "80000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 8 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9000",
+      "90000",
+      "900000",
+      "13"
+    ],
+    "correctAnswer": "90000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 9 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10000",
+      "1000000",
+      "100000",
+      "14"
+    ],
+    "correctAnswer": "100000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 10 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11000",
+      "1100000",
+      "15",
+      "110000"
+    ],
+    "correctAnswer": "110000",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "What is 11 x 10⁴?",
+    "topic": "Grade 8 Review: Scientific Notation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-4, 2)",
+      "(4, -2)",
+      "(-2, -4)",
+      "(4, 2)"
+    ],
+    "correctAnswer": "(-4, 2)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (2, 4) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(5, -3)",
+      "(-5, 3)",
+      "(-3, -5)",
+      "(5, 3)"
+    ],
+    "correctAnswer": "(-5, 3)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (3, 5) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(6, -4)",
+      "(-4, -6)",
+      "(-6, 4)",
+      "(6, 4)"
+    ],
+    "correctAnswer": "(-6, 4)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (4, 6) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(7, -5)",
+      "(-5, -7)",
+      "(7, 5)",
+      "(-7, 5)"
+    ],
+    "correctAnswer": "(-7, 5)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (5, 7) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-8, 6)",
+      "(8, -6)",
+      "(-6, -8)",
+      "(8, 6)"
+    ],
+    "correctAnswer": "(-8, 6)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (6, 8) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(9, -7)",
+      "(-9, 7)",
+      "(-7, -9)",
+      "(9, 7)"
+    ],
+    "correctAnswer": "(-9, 7)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (7, 9) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(10, -8)",
+      "(-8, -10)",
+      "(-10, 8)",
+      "(10, 8)"
+    ],
+    "correctAnswer": "(-10, 8)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (8, 10) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(11, -9)",
+      "(-9, -11)",
+      "(11, 9)",
+      "(-11, 9)"
+    ],
+    "correctAnswer": "(-11, 9)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (9, 11) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-12, 10)",
+      "(12, -10)",
+      "(-10, -12)",
+      "(12, 10)"
+    ],
+    "correctAnswer": "(-12, 10)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (10, 12) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(13, -11)",
+      "(-13, 11)",
+      "(-11, -13)",
+      "(13, 11)"
+    ],
+    "correctAnswer": "(-13, 11)",
+    "difficulty": "hard",
+    "grade": 9,
+    "question": "Rotate (11, 13) 90 degrees counterclockwise about the origin.",
+    "topic": "Grade 8 Review: Geometry Transformations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "6",
+      "2",
+      "1"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 1) = 9",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "9",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 2) = 15",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "7",
+      "12",
+      "3"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 3) = 21",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "5",
+      "15",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 4) = 27",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "18",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 5) = 33",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "21",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 6) = 39",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "15",
+      "24",
+      "7"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 7) = 45",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "9",
+      "27",
+      "8"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 8) = 51",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "30",
+      "10",
+      "9"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 9) = 57",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "33",
+      "10",
+      "11"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 10) = 63",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "23",
+      "36",
+      "11"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 11) = 69",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "13",
+      "39",
+      "12"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 12) = 75",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "42",
+      "14",
+      "13"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 13) = 81",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "45",
+      "14",
+      "15"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 14) = 87",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "31",
+      "48",
+      "15"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 15) = 93",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "17",
+      "51",
+      "16"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 16) = 99",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "54",
+      "18",
+      "17"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 17) = 105",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37",
+      "57",
+      "18",
+      "19"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 18) = 111",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "39",
+      "60",
+      "19"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 19) = 117",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "21",
+      "63",
+      "20"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 20) = 123",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "66",
+      "22",
+      "21"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 21) = 129",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45",
+      "69",
+      "22",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 22) = 135",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "47",
+      "72",
+      "23"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 23) = 141",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "25",
+      "75",
+      "24"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 24) = 147",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "78",
+      "26",
+      "25"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 25) = 153",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "53",
+      "81",
+      "26",
+      "27"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 26) = 159",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "55",
+      "84",
+      "27"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 27) = 165",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "29",
+      "87",
+      "28"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 28) = 171",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "59",
+      "90",
+      "30",
+      "29"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 29) = 177",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61",
+      "93",
+      "30",
+      "31"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 30) = 183",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "63",
+      "96",
+      "31"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 31) = 189",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65",
+      "33",
+      "99",
+      "32"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 32) = 195",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "67",
+      "102",
+      "34",
+      "33"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 33) = 201",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "69",
+      "105",
+      "34",
+      "35"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: 3(x + 34) = 207",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "71",
+      "108",
+      "35"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: 3(x + 35) = 213",
+    "topic": "Algebra Preview: Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "0",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 2x - 0, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 3x - 1, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 4x - 2, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 5x - 3, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 2x - 4, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 3x - 5, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 4x - 6, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "7",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 5x - 7, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 2x - 8, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 3x - 9, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 4x - 10, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "11",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 5x - 11, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 2x - 12, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 3x - 13, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 4x - 14, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "15",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 5x - 15, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 2x - 16, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 3x - 17, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 4x - 18, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "19",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 5x - 19, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 2x - 20, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 3x - 21, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 4x - 22, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "23",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 5x - 23, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 2x - 24, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 3x - 25, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "-4",
+      "1/2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 4x - 26, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "27",
+      "-5",
+      "1/2"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "For y = 5x - 27, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "2",
+      "-2",
+      "1/2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 2x - 28, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "-3",
+      "3",
+      "1/2"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "For y = 3x - 29, what is the slope?",
+    "topic": "Algebra Preview: Graphing Linear Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "6",
+      "-2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 6 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "8",
+      "-3"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 8 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "6",
+      "10",
+      "-4"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 10 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "12",
+      "7",
+      "-5"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 12 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "14",
+      "-6",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 14 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "7",
+      "16",
+      "-7"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 16 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "10",
+      "18",
+      "-8"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 18 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "20",
+      "11",
+      "-9"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 20 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "22",
+      "-10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 22 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "11",
+      "24",
+      "-11"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 24 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "14",
+      "26",
+      "-12"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 26 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "28",
+      "15",
+      "-13"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 28 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "30",
+      "-14",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 30 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "15",
+      "32",
+      "-15"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 32 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "18",
+      "34",
+      "-16"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 34 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "36",
+      "19",
+      "-17"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 36 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "38",
+      "-18",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 38 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "19",
+      "40",
+      "-19"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 40 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "22",
+      "42",
+      "-20"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 42 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "44",
+      "23",
+      "-21"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 44 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "46",
+      "-22",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 46 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "23",
+      "48",
+      "-23"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 48 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "26",
+      "50",
+      "-24"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 50 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "52",
+      "27",
+      "-25"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve x + y = 52 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "54",
+      "-26",
+      "28"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve x + y = 54 and x - y = -2. What is y?",
+    "topic": "Algebra Preview: Systems of Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 2",
+      "x > 2",
+      "x < 4",
+      "x > -2"
+    ],
+    "correctAnswer": "x < 2",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -4",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 3",
+      "x < 3",
+      "x < 6",
+      "x > -3"
+    ],
+    "correctAnswer": "x < 3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -6",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 4",
+      "x < 8",
+      "x < 4",
+      "x > -4"
+    ],
+    "correctAnswer": "x < 4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -8",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 5",
+      "x < 10",
+      "x > -5",
+      "x < 5"
+    ],
+    "correctAnswer": "x < 5",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -10",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 6",
+      "x > 6",
+      "x < 12",
+      "x > -6"
+    ],
+    "correctAnswer": "x < 6",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -12",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 7",
+      "x < 7",
+      "x < 14",
+      "x > -7"
+    ],
+    "correctAnswer": "x < 7",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -14",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 8",
+      "x < 16",
+      "x < 8",
+      "x > -8"
+    ],
+    "correctAnswer": "x < 8",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -16",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 9",
+      "x < 18",
+      "x > -9",
+      "x < 9"
+    ],
+    "correctAnswer": "x < 9",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -18",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 10",
+      "x > 10",
+      "x < 20",
+      "x > -10"
+    ],
+    "correctAnswer": "x < 10",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -20",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 11",
+      "x < 11",
+      "x < 22",
+      "x > -11"
+    ],
+    "correctAnswer": "x < 11",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -22",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 12",
+      "x < 24",
+      "x < 12",
+      "x > -12"
+    ],
+    "correctAnswer": "x < 12",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -24",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 13",
+      "x < 26",
+      "x > -13",
+      "x < 13"
+    ],
+    "correctAnswer": "x < 13",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -26",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 14",
+      "x > 14",
+      "x < 28",
+      "x > -14"
+    ],
+    "correctAnswer": "x < 14",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -28",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 15",
+      "x < 15",
+      "x < 30",
+      "x > -15"
+    ],
+    "correctAnswer": "x < 15",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -30",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 16",
+      "x < 32",
+      "x < 16",
+      "x > -16"
+    ],
+    "correctAnswer": "x < 16",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -32",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 17",
+      "x < 34",
+      "x > -17",
+      "x < 17"
+    ],
+    "correctAnswer": "x < 17",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -34",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 18",
+      "x > 18",
+      "x < 36",
+      "x > -18"
+    ],
+    "correctAnswer": "x < 18",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -36",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 19",
+      "x < 19",
+      "x < 38",
+      "x > -19"
+    ],
+    "correctAnswer": "x < 19",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -38",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 20",
+      "x < 40",
+      "x < 20",
+      "x > -20"
+    ],
+    "correctAnswer": "x < 20",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -40",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 21",
+      "x < 42",
+      "x > -21",
+      "x < 21"
+    ],
+    "correctAnswer": "x < 21",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -42",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 22",
+      "x > 22",
+      "x < 44",
+      "x > -22"
+    ],
+    "correctAnswer": "x < 22",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -44",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 23",
+      "x < 23",
+      "x < 46",
+      "x > -23"
+    ],
+    "correctAnswer": "x < 23",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -46",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 24",
+      "x < 48",
+      "x < 24",
+      "x > -24"
+    ],
+    "correctAnswer": "x < 24",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -48",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x > 25",
+      "x < 50",
+      "x > -25",
+      "x < 25"
+    ],
+    "correctAnswer": "x < 25",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Solve: -2x > -50",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x < 26",
+      "x > 26",
+      "x < 52",
+      "x > -26"
+    ],
+    "correctAnswer": "x < 26",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Solve: -2x > -52",
+    "topic": "Algebra Preview: Linear Inequalities",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-2",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 2)(x - 4) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-3",
+      "4",
+      "3",
+      "8"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 3)(x - 5) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-4",
+      "5",
+      "10",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 4)(x - 6) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "-5",
+      "6",
+      "12"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 5)(x - 7) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-6",
+      "6",
+      "7",
+      "14"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 6)(x - 8) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-7",
+      "8",
+      "7",
+      "16"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 7)(x - 9) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-8",
+      "9",
+      "18",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 8)(x - 10) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "-9",
+      "10",
+      "20"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 9)(x - 11) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-10",
+      "10",
+      "11",
+      "22"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 10)(x - 12) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-11",
+      "12",
+      "11",
+      "24"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 11)(x - 13) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-12",
+      "13",
+      "26",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 12)(x - 14) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "-13",
+      "14",
+      "28"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 13)(x - 15) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-14",
+      "14",
+      "15",
+      "30"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 14)(x - 16) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-15",
+      "16",
+      "15",
+      "32"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 15)(x - 17) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-16",
+      "17",
+      "34",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 16)(x - 18) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "-17",
+      "18",
+      "36"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 17)(x - 19) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-18",
+      "18",
+      "19",
+      "38"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 18)(x - 20) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-19",
+      "20",
+      "19",
+      "40"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 19)(x - 21) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-20",
+      "21",
+      "42",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 20)(x - 22) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "-21",
+      "22",
+      "44"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 21)(x - 23) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-22",
+      "22",
+      "23",
+      "46"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 22)(x - 24) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-23",
+      "24",
+      "23",
+      "48"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 23)(x - 25) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-24",
+      "25",
+      "50",
+      "24"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 24)(x - 26) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "-25",
+      "26",
+      "52"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 25)(x - 27) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-26",
+      "26",
+      "27",
+      "54"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 26)(x - 28) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-27",
+      "28",
+      "27",
+      "56"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 27)(x - 29) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-28",
+      "29",
+      "58",
+      "28"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 28)(x - 30) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "-29",
+      "30",
+      "60"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 29)(x - 31) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-30",
+      "30",
+      "31",
+      "62"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 30)(x - 32) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-31",
+      "32",
+      "31",
+      "64"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 31)(x - 33) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-32",
+      "33",
+      "66",
+      "32"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 32)(x - 34) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "-33",
+      "34",
+      "68"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 33)(x - 35) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-34",
+      "34",
+      "35",
+      "70"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 34)(x - 36) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-35",
+      "36",
+      "35",
+      "72"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Which value is a root of (x - 35)(x - 37) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "-36",
+      "37",
+      "74",
+      "36"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Which value is a root of (x - 36)(x - 38) = 0?",
+    "topic": "Algebra Preview: Quadratic Equations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(2, 0)",
+      "(-2, 0)",
+      "(2, -0)",
+      "(0, 2)"
+    ],
+    "correctAnswer": "(2, 0)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 2)² + 0?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-3, 1)",
+      "(3, 1)",
+      "(3, -1)",
+      "(1, 3)"
+    ],
+    "correctAnswer": "(3, 1)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 3)² + 1?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-4, 2)",
+      "(4, -2)",
+      "(4, 2)",
+      "(2, 4)"
+    ],
+    "correctAnswer": "(4, 2)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 4)² + 2?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-5, 3)",
+      "(5, -3)",
+      "(3, 5)",
+      "(5, 3)"
+    ],
+    "correctAnswer": "(5, 3)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 5)² + 3?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(6, 4)",
+      "(-6, 4)",
+      "(6, -4)",
+      "(4, 6)"
+    ],
+    "correctAnswer": "(6, 4)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 6)² + 4?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-7, 5)",
+      "(7, 5)",
+      "(7, -5)",
+      "(5, 7)"
+    ],
+    "correctAnswer": "(7, 5)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 7)² + 5?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-8, 6)",
+      "(8, -6)",
+      "(8, 6)",
+      "(6, 8)"
+    ],
+    "correctAnswer": "(8, 6)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 8)² + 6?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-9, 7)",
+      "(9, -7)",
+      "(7, 9)",
+      "(9, 7)"
+    ],
+    "correctAnswer": "(9, 7)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 9)² + 7?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(10, 8)",
+      "(-10, 8)",
+      "(10, -8)",
+      "(8, 10)"
+    ],
+    "correctAnswer": "(10, 8)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 10)² + 8?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-11, 9)",
+      "(11, 9)",
+      "(11, -9)",
+      "(9, 11)"
+    ],
+    "correctAnswer": "(11, 9)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 11)² + 9?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-12, 10)",
+      "(12, -10)",
+      "(12, 10)",
+      "(10, 12)"
+    ],
+    "correctAnswer": "(12, 10)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 12)² + 10?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-13, 11)",
+      "(13, -11)",
+      "(11, 13)",
+      "(13, 11)"
+    ],
+    "correctAnswer": "(13, 11)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 13)² + 11?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(14, 12)",
+      "(-14, 12)",
+      "(14, -12)",
+      "(12, 14)"
+    ],
+    "correctAnswer": "(14, 12)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 14)² + 12?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-15, 13)",
+      "(15, 13)",
+      "(15, -13)",
+      "(13, 15)"
+    ],
+    "correctAnswer": "(15, 13)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 15)² + 13?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-16, 14)",
+      "(16, -14)",
+      "(16, 14)",
+      "(14, 16)"
+    ],
+    "correctAnswer": "(16, 14)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 16)² + 14?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-17, 15)",
+      "(17, -15)",
+      "(15, 17)",
+      "(17, 15)"
+    ],
+    "correctAnswer": "(17, 15)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 17)² + 15?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(18, 16)",
+      "(-18, 16)",
+      "(18, -16)",
+      "(16, 18)"
+    ],
+    "correctAnswer": "(18, 16)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 18)² + 16?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-19, 17)",
+      "(19, 17)",
+      "(19, -17)",
+      "(17, 19)"
+    ],
+    "correctAnswer": "(19, 17)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 19)² + 17?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-20, 18)",
+      "(20, -18)",
+      "(20, 18)",
+      "(18, 20)"
+    ],
+    "correctAnswer": "(20, 18)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 20)² + 18?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-21, 19)",
+      "(21, -19)",
+      "(19, 21)",
+      "(21, 19)"
+    ],
+    "correctAnswer": "(21, 19)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 21)² + 19?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(22, 20)",
+      "(-22, 20)",
+      "(22, -20)",
+      "(20, 22)"
+    ],
+    "correctAnswer": "(22, 20)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 22)² + 20?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-23, 21)",
+      "(23, 21)",
+      "(23, -21)",
+      "(21, 23)"
+    ],
+    "correctAnswer": "(23, 21)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 23)² + 21?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-24, 22)",
+      "(24, -22)",
+      "(24, 22)",
+      "(22, 24)"
+    ],
+    "correctAnswer": "(24, 22)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 24)² + 22?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(-25, 23)",
+      "(25, -23)",
+      "(23, 25)",
+      "(25, 23)"
+    ],
+    "correctAnswer": "(25, 23)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 25)² + 23?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(26, 24)",
+      "(-26, 24)",
+      "(26, -24)",
+      "(24, 26)"
+    ],
+    "correctAnswer": "(26, 24)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "What is the vertex of y = (x - 26)² + 24?",
+    "topic": "Algebra Preview: Quadratic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10x",
+      "7x",
+      "3x",
+      "7x²"
+    ],
+    "correctAnswer": "7x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 2x + 5x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18x",
+      "3x",
+      "9x",
+      "9x²"
+    ],
+    "correctAnswer": "9x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 3x + 6x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28x",
+      "3x",
+      "11x²",
+      "11x"
+    ],
+    "correctAnswer": "11x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 4x + 7x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13x",
+      "40x",
+      "3x",
+      "13x²"
+    ],
+    "correctAnswer": "13x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 5x + 8x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54x",
+      "15x",
+      "3x",
+      "15x²"
+    ],
+    "correctAnswer": "15x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 6x + 9x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "70x",
+      "3x",
+      "17x",
+      "17x²"
+    ],
+    "correctAnswer": "17x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 7x + 10x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "88x",
+      "3x",
+      "19x²",
+      "19x"
+    ],
+    "correctAnswer": "19x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 8x + 11x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21x",
+      "108x",
+      "3x",
+      "21x²"
+    ],
+    "correctAnswer": "21x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 9x + 12x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "130x",
+      "23x",
+      "3x",
+      "23x²"
+    ],
+    "correctAnswer": "23x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 10x + 13x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "154x",
+      "3x",
+      "25x",
+      "25x²"
+    ],
+    "correctAnswer": "25x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 11x + 14x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "180x",
+      "3x",
+      "27x²",
+      "27x"
+    ],
+    "correctAnswer": "27x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 12x + 15x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29x",
+      "208x",
+      "3x",
+      "29x²"
+    ],
+    "correctAnswer": "29x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 13x + 16x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "238x",
+      "31x",
+      "3x",
+      "31x²"
+    ],
+    "correctAnswer": "31x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 14x + 17x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "270x",
+      "3x",
+      "33x",
+      "33x²"
+    ],
+    "correctAnswer": "33x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 15x + 18x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "304x",
+      "3x",
+      "35x²",
+      "35x"
+    ],
+    "correctAnswer": "35x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 16x + 19x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37x",
+      "340x",
+      "3x",
+      "37x²"
+    ],
+    "correctAnswer": "37x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 17x + 20x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "378x",
+      "39x",
+      "3x",
+      "39x²"
+    ],
+    "correctAnswer": "39x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 18x + 21x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "418x",
+      "3x",
+      "41x",
+      "41x²"
+    ],
+    "correctAnswer": "41x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 19x + 22x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "460x",
+      "3x",
+      "43x²",
+      "43x"
+    ],
+    "correctAnswer": "43x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 20x + 23x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45x",
+      "504x",
+      "3x",
+      "45x²"
+    ],
+    "correctAnswer": "45x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 21x + 24x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "550x",
+      "47x",
+      "3x",
+      "47x²"
+    ],
+    "correctAnswer": "47x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 22x + 25x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "598x",
+      "3x",
+      "49x",
+      "49x²"
+    ],
+    "correctAnswer": "49x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 23x + 26x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "648x",
+      "3x",
+      "51x²",
+      "51x"
+    ],
+    "correctAnswer": "51x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 24x + 27x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "53x",
+      "700x",
+      "3x",
+      "53x²"
+    ],
+    "correctAnswer": "53x",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Simplify: 25x + 28x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "754x",
+      "55x",
+      "3x",
+      "55x²"
+    ],
+    "correctAnswer": "55x",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Simplify: 26x + 29x",
+    "topic": "Algebra Preview: Polynomial Operations",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 2)(x - 3)",
+      "(x + 5)²",
+      "(x + 2)(x + 3)",
+      "(x + 2)(x - 3)"
+    ],
+    "correctAnswer": "(x + 2)(x + 3)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 5x + 6",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 3)(x - 4)",
+      "(x + 7)²",
+      "(x + 3)(x - 4)",
+      "(x + 3)(x + 4)"
+    ],
+    "correctAnswer": "(x + 3)(x + 4)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 7x + 12",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 4)(x + 5)",
+      "(x - 4)(x - 5)",
+      "(x + 9)²",
+      "(x + 4)(x - 5)"
+    ],
+    "correctAnswer": "(x + 4)(x + 5)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 9x + 20",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 5)(x - 6)",
+      "(x + 5)(x + 6)",
+      "(x + 11)²",
+      "(x + 5)(x - 6)"
+    ],
+    "correctAnswer": "(x + 5)(x + 6)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 11x + 30",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 6)(x - 7)",
+      "(x + 13)²",
+      "(x + 6)(x + 7)",
+      "(x + 6)(x - 7)"
+    ],
+    "correctAnswer": "(x + 6)(x + 7)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 13x + 42",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 7)(x - 8)",
+      "(x + 15)²",
+      "(x + 7)(x - 8)",
+      "(x + 7)(x + 8)"
+    ],
+    "correctAnswer": "(x + 7)(x + 8)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 15x + 56",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 8)(x + 9)",
+      "(x - 8)(x - 9)",
+      "(x + 17)²",
+      "(x + 8)(x - 9)"
+    ],
+    "correctAnswer": "(x + 8)(x + 9)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 17x + 72",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 9)(x - 10)",
+      "(x + 9)(x + 10)",
+      "(x + 19)²",
+      "(x + 9)(x - 10)"
+    ],
+    "correctAnswer": "(x + 9)(x + 10)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 19x + 90",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 10)(x - 11)",
+      "(x + 21)²",
+      "(x + 10)(x + 11)",
+      "(x + 10)(x - 11)"
+    ],
+    "correctAnswer": "(x + 10)(x + 11)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 21x + 110",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 11)(x - 12)",
+      "(x + 23)²",
+      "(x + 11)(x - 12)",
+      "(x + 11)(x + 12)"
+    ],
+    "correctAnswer": "(x + 11)(x + 12)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 23x + 132",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 12)(x + 13)",
+      "(x - 12)(x - 13)",
+      "(x + 25)²",
+      "(x + 12)(x - 13)"
+    ],
+    "correctAnswer": "(x + 12)(x + 13)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 25x + 156",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 13)(x - 14)",
+      "(x + 13)(x + 14)",
+      "(x + 27)²",
+      "(x + 13)(x - 14)"
+    ],
+    "correctAnswer": "(x + 13)(x + 14)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 27x + 182",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 14)(x - 15)",
+      "(x + 29)²",
+      "(x + 14)(x + 15)",
+      "(x + 14)(x - 15)"
+    ],
+    "correctAnswer": "(x + 14)(x + 15)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 29x + 210",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 15)(x - 16)",
+      "(x + 31)²",
+      "(x + 15)(x - 16)",
+      "(x + 15)(x + 16)"
+    ],
+    "correctAnswer": "(x + 15)(x + 16)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 31x + 240",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 16)(x + 17)",
+      "(x - 16)(x - 17)",
+      "(x + 33)²",
+      "(x + 16)(x - 17)"
+    ],
+    "correctAnswer": "(x + 16)(x + 17)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 33x + 272",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 17)(x - 18)",
+      "(x + 17)(x + 18)",
+      "(x + 35)²",
+      "(x + 17)(x - 18)"
+    ],
+    "correctAnswer": "(x + 17)(x + 18)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 35x + 306",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 18)(x - 19)",
+      "(x + 37)²",
+      "(x + 18)(x + 19)",
+      "(x + 18)(x - 19)"
+    ],
+    "correctAnswer": "(x + 18)(x + 19)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 37x + 342",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 19)(x - 20)",
+      "(x + 39)²",
+      "(x + 19)(x - 20)",
+      "(x + 19)(x + 20)"
+    ],
+    "correctAnswer": "(x + 19)(x + 20)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 39x + 380",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 20)(x + 21)",
+      "(x - 20)(x - 21)",
+      "(x + 41)²",
+      "(x + 20)(x - 21)"
+    ],
+    "correctAnswer": "(x + 20)(x + 21)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 41x + 420",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 21)(x - 22)",
+      "(x + 21)(x + 22)",
+      "(x + 43)²",
+      "(x + 21)(x - 22)"
+    ],
+    "correctAnswer": "(x + 21)(x + 22)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 43x + 462",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 22)(x - 23)",
+      "(x + 45)²",
+      "(x + 22)(x + 23)",
+      "(x + 22)(x - 23)"
+    ],
+    "correctAnswer": "(x + 22)(x + 23)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 45x + 506",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 23)(x - 24)",
+      "(x + 47)²",
+      "(x + 23)(x - 24)",
+      "(x + 23)(x + 24)"
+    ],
+    "correctAnswer": "(x + 23)(x + 24)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 47x + 552",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 24)(x + 25)",
+      "(x - 24)(x - 25)",
+      "(x + 49)²",
+      "(x + 24)(x - 25)"
+    ],
+    "correctAnswer": "(x + 24)(x + 25)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 49x + 600",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 25)(x - 26)",
+      "(x + 25)(x + 26)",
+      "(x + 51)²",
+      "(x + 25)(x - 26)"
+    ],
+    "correctAnswer": "(x + 25)(x + 26)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 51x + 650",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 26)(x - 27)",
+      "(x + 53)²",
+      "(x + 26)(x + 27)",
+      "(x + 26)(x - 27)"
+    ],
+    "correctAnswer": "(x + 26)(x + 27)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 53x + 702",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 27)(x - 28)",
+      "(x + 55)²",
+      "(x + 27)(x - 28)",
+      "(x + 27)(x + 28)"
+    ],
+    "correctAnswer": "(x + 27)(x + 28)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 55x + 756",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x + 28)(x + 29)",
+      "(x - 28)(x - 29)",
+      "(x + 57)²",
+      "(x + 28)(x - 29)"
+    ],
+    "correctAnswer": "(x + 28)(x + 29)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 57x + 812",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 29)(x - 30)",
+      "(x + 29)(x + 30)",
+      "(x + 59)²",
+      "(x + 29)(x - 30)"
+    ],
+    "correctAnswer": "(x + 29)(x + 30)",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "Factor: x² + 59x + 870",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 30)(x - 31)",
+      "(x + 61)²",
+      "(x + 30)(x + 31)",
+      "(x + 30)(x - 31)"
+    ],
+    "correctAnswer": "(x + 30)(x + 31)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 61x + 930",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "(x - 31)(x - 32)",
+      "(x + 63)²",
+      "(x + 31)(x - 32)",
+      "(x + 31)(x + 32)"
+    ],
+    "correctAnswer": "(x + 31)(x + 32)",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "Factor: x² + 63x + 992",
+    "topic": "Algebra Preview: Factoring Polynomials",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 0, find f(2).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "8",
+      "10",
+      "6"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 1, find f(3).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "17",
+      "14",
+      "6"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 2, find f(4).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "26",
+      "6",
+      "22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 3, find f(5).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "2",
+      "37",
+      "6"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 4, find f(6).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "44",
+      "50",
+      "6"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 5, find f(7).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "65",
+      "58",
+      "6"
+    ],
+    "correctAnswer": "58",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 6, find f(8).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "82",
+      "6",
+      "74"
+    ],
+    "correctAnswer": "74",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 7, find f(9).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "92",
+      "2",
+      "101",
+      "6"
+    ],
+    "correctAnswer": "92",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 8, find f(10).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "112",
+      "122",
+      "6"
+    ],
+    "correctAnswer": "112",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 9, find f(11).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "145",
+      "134",
+      "6"
+    ],
+    "correctAnswer": "134",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 10, find f(12).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "170",
+      "6",
+      "158"
+    ],
+    "correctAnswer": "158",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 11, find f(13).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "184",
+      "2",
+      "197",
+      "6"
+    ],
+    "correctAnswer": "184",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 12, find f(14).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "212",
+      "226",
+      "6"
+    ],
+    "correctAnswer": "212",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 13, find f(15).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "257",
+      "242",
+      "6"
+    ],
+    "correctAnswer": "242",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 14, find f(16).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "290",
+      "6",
+      "274"
+    ],
+    "correctAnswer": "274",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 15, find f(17).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "308",
+      "2",
+      "325",
+      "6"
+    ],
+    "correctAnswer": "308",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 16, find f(18).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "344",
+      "362",
+      "6"
+    ],
+    "correctAnswer": "344",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 17, find f(19).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "401",
+      "382",
+      "6"
+    ],
+    "correctAnswer": "382",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 18, find f(20).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "442",
+      "6",
+      "422"
+    ],
+    "correctAnswer": "422",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 19, find f(21).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "464",
+      "2",
+      "485",
+      "6"
+    ],
+    "correctAnswer": "464",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 20, find f(22).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "508",
+      "530",
+      "6"
+    ],
+    "correctAnswer": "508",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 21, find f(23).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "577",
+      "554",
+      "6"
+    ],
+    "correctAnswer": "554",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 22, find f(24).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "626",
+      "6",
+      "602"
+    ],
+    "correctAnswer": "602",
+    "difficulty": "medium",
+    "grade": 9,
+    "question": "If f(x) = x² - 23, find f(25).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "652",
+      "2",
+      "677",
+      "6"
+    ],
+    "correctAnswer": "652",
+    "difficulty": "easy",
+    "grade": 9,
+    "question": "If f(x) = x² - 24, find f(26).",
+    "topic": "Algebra Preview: Function Notation and Evaluation",
+    "uses_pi": false
+  }
+]

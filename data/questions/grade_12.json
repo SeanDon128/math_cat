@@ -1,0 +1,8192 @@
+[
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(30 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1π/2",
+      "1π/4",
+      "45π/180",
+      "2π/4"
+    ],
+    "correctAnswer": "1π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 45 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "5",
+      "3",
+      "9",
+      "7"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 4. What is its maximum value if its midline is y = 5?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(390 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "5π/4",
+      "5π/2",
+      "225π/180",
+      "6π/4"
+    ],
+    "correctAnswer": "5π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 225 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "8",
+      "15",
+      "6",
+      "13"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A sine graph has amplitude 7. What is its maximum value if its midline is y = 8?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(750 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "9π/2",
+      "405π/180",
+      "10π/4",
+      "9π/4"
+    ],
+    "correctAnswer": "9π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 405 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "21",
+      "11",
+      "9",
+      "19"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 10. What is its maximum value if its midline is y = 11?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(1110 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "13π/2",
+      "585π/180",
+      "13π/4",
+      "14π/4"
+    ],
+    "correctAnswer": "13π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 585 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "14",
+      "12",
+      "25",
+      "27"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A sine graph has amplitude 13. What is its maximum value if its midline is y = 14?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(1470 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "17π/2",
+      "17π/4",
+      "765π/180",
+      "18π/4"
+    ],
+    "correctAnswer": "17π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 765 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "17",
+      "15",
+      "33",
+      "31"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 16. What is its maximum value if its midline is y = 17?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(1830 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "21π/4",
+      "21π/2",
+      "945π/180",
+      "22π/4"
+    ],
+    "correctAnswer": "21π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 945 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "20",
+      "39",
+      "18",
+      "37"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A sine graph has amplitude 19. What is its maximum value if its midline is y = 20?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(2190 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "25π/2",
+      "1125π/180",
+      "26π/4",
+      "25π/4"
+    ],
+    "correctAnswer": "25π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 1125 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "45",
+      "23",
+      "21",
+      "43"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 22. What is its maximum value if its midline is y = 23?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(2550 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "29π/2",
+      "1305π/180",
+      "29π/4",
+      "30π/4"
+    ],
+    "correctAnswer": "29π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 1305 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "26",
+      "24",
+      "49",
+      "51"
+    ],
+    "correctAnswer": "51",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A sine graph has amplitude 25. What is its maximum value if its midline is y = 26?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(2910 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "33π/2",
+      "33π/4",
+      "1485π/180",
+      "34π/4"
+    ],
+    "correctAnswer": "33π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 1485 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "29",
+      "27",
+      "57",
+      "55"
+    ],
+    "correctAnswer": "57",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 28. What is its maximum value if its midline is y = 29?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(3270 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "37π/4",
+      "37π/2",
+      "1665π/180",
+      "38π/4"
+    ],
+    "correctAnswer": "37π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 1665 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "32",
+      "63",
+      "30",
+      "61"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A sine graph has amplitude 31. What is its maximum value if its midline is y = 32?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(3630 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "41π/2",
+      "1845π/180",
+      "42π/4",
+      "41π/4"
+    ],
+    "correctAnswer": "41π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 1845 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "69",
+      "35",
+      "33",
+      "67"
+    ],
+    "correctAnswer": "69",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 34. What is its maximum value if its midline is y = 35?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(3990 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "45π/2",
+      "2025π/180",
+      "45π/4",
+      "46π/4"
+    ],
+    "correctAnswer": "45π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 2025 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "38",
+      "36",
+      "73",
+      "75"
+    ],
+    "correctAnswer": "75",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A sine graph has amplitude 37. What is its maximum value if its midline is y = 38?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is sin(4350 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "49π/2",
+      "49π/4",
+      "2205π/180",
+      "50π/4"
+    ],
+    "correctAnswer": "49π/4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Convert 2205 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "41",
+      "39",
+      "81",
+      "79"
+    ],
+    "correctAnswer": "81",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A sine graph has amplitude 40. What is its maximum value if its midline is y = 41?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is sin(4710 degrees)?",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "53π/4",
+      "53π/2",
+      "2385π/180",
+      "54π/4"
+    ],
+    "correctAnswer": "53π/4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Convert 2385 degrees to radians.",
+    "topic": "Advanced Trigonometry",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(1π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(0, 1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 1π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√3",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(1π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(7π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 5π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is tan(5π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(13π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(0, 1)",
+      "(1, 0)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 9π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(9π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(19π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(-1, 0)",
+      "(0, 1)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 13π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is tan(13π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(25π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(0, 1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 17π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√3",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(17π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(31π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 21π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is tan(21π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(37π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(0, 1)",
+      "(1, 0)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 25π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(25π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(43π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(-1, 0)",
+      "(0, 1)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 29π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is tan(29π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(49π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(0, 1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 33π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√3",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(33π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(55π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 37π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is tan(37π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "0",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(61π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(0, 1)",
+      "(1, 0)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 41π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(41π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "-1/2",
+      "1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(67π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(-1, 0)",
+      "(0, 1)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 45π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "√3"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is tan(45π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "√3/2",
+      "1/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is cos(73π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, -1)",
+      "(0, 1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which point is at angle 49π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "-1",
+      "√3",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is tan(49π/4)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1/2",
+      "√3/2",
+      "-1/2",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is cos(79π/3)?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, -1)",
+      "(-1, 0)"
+    ],
+    "correctAnswer": "(0, 1)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which point is at angle 53π/2 on the unit circle?",
+    "topic": "Unit Circle",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "sin(2x)",
+      "1",
+      "cos(2x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin²(2x) + cos²(2x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(3x)",
+      "tan²(3x)",
+      "1 + cos²(3x)",
+      "cos²(3x)"
+    ],
+    "correctAnswer": "cos²(3x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(3x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "tan(4x)",
+      "cot(4x)",
+      "sec(4x)",
+      "csc(4x)"
+    ],
+    "correctAnswer": "tan(4x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin(4x)/cos(4x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "sin(5x)",
+      "cos(5x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin²(5x) + cos²(5x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(6x)",
+      "tan²(6x)",
+      "cos²(6x)",
+      "1 + cos²(6x)"
+    ],
+    "correctAnswer": "cos²(6x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(6x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(7x)",
+      "sec(7x)",
+      "csc(7x)",
+      "tan(7x)"
+    ],
+    "correctAnswer": "tan(7x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin(7x)/cos(7x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "sin(8x)",
+      "cos(8x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin²(8x) + cos²(8x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(9x)",
+      "cos²(9x)",
+      "tan²(9x)",
+      "1 + cos²(9x)"
+    ],
+    "correctAnswer": "cos²(9x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(9x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(10x)",
+      "sec(10x)",
+      "tan(10x)",
+      "csc(10x)"
+    ],
+    "correctAnswer": "tan(10x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin(10x)/cos(10x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "sin(11x)",
+      "cos(11x)",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin²(11x) + cos²(11x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cos²(12x)",
+      "sin²(12x)",
+      "tan²(12x)",
+      "1 + cos²(12x)"
+    ],
+    "correctAnswer": "cos²(12x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(12x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(13x)",
+      "tan(13x)",
+      "sec(13x)",
+      "csc(13x)"
+    ],
+    "correctAnswer": "tan(13x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin(13x)/cos(13x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "sin(14x)",
+      "1",
+      "cos(14x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin²(14x) + cos²(14x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(15x)",
+      "tan²(15x)",
+      "1 + cos²(15x)",
+      "cos²(15x)"
+    ],
+    "correctAnswer": "cos²(15x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(15x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "tan(16x)",
+      "cot(16x)",
+      "sec(16x)",
+      "csc(16x)"
+    ],
+    "correctAnswer": "tan(16x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin(16x)/cos(16x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "sin(17x)",
+      "cos(17x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin²(17x) + cos²(17x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(18x)",
+      "tan²(18x)",
+      "cos²(18x)",
+      "1 + cos²(18x)"
+    ],
+    "correctAnswer": "cos²(18x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(18x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(19x)",
+      "sec(19x)",
+      "csc(19x)",
+      "tan(19x)"
+    ],
+    "correctAnswer": "tan(19x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin(19x)/cos(19x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "1",
+      "0",
+      "sin(20x)",
+      "cos(20x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin²(20x) + cos²(20x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(21x)",
+      "cos²(21x)",
+      "tan²(21x)",
+      "1 + cos²(21x)"
+    ],
+    "correctAnswer": "cos²(21x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(21x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(22x)",
+      "sec(22x)",
+      "tan(22x)",
+      "csc(22x)"
+    ],
+    "correctAnswer": "tan(22x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin(22x)/cos(22x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "sin(23x)",
+      "cos(23x)",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin²(23x) + cos²(23x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cos²(24x)",
+      "sin²(24x)",
+      "tan²(24x)",
+      "1 + cos²(24x)"
+    ],
+    "correctAnswer": "cos²(24x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(24x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(25x)",
+      "tan(25x)",
+      "sec(25x)",
+      "csc(25x)"
+    ],
+    "correctAnswer": "tan(25x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin(25x)/cos(25x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "sin(26x)",
+      "1",
+      "cos(26x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin²(26x) + cos²(26x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(27x)",
+      "tan²(27x)",
+      "1 + cos²(27x)",
+      "cos²(27x)"
+    ],
+    "correctAnswer": "cos²(27x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(27x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "tan(28x)",
+      "cot(28x)",
+      "sec(28x)",
+      "csc(28x)"
+    ],
+    "correctAnswer": "tan(28x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Simplify sin(28x)/cos(28x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "0",
+      "1",
+      "sin(29x)",
+      "cos(29x)"
+    ],
+    "correctAnswer": "1",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin²(29x) + cos²(29x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "sin²(30x)",
+      "tan²(30x)",
+      "cos²(30x)",
+      "1 + cos²(30x)"
+    ],
+    "correctAnswer": "cos²(30x)",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which expression is equivalent to 1 - sin²(30x)?",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "cot(31x)",
+      "sec(31x)",
+      "csc(31x)",
+      "tan(31x)"
+    ],
+    "correctAnswer": "tan(31x)",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Simplify sin(31x)/cos(31x).",
+    "topic": "Trigonometric Identities",
+    "uses_pi": true
+  },
+  {
+    "choices": [
+      "7",
+      "5",
+      "4",
+      "does not exist"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→2 (x + 5).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "6",
+      "3",
+      "does not exist"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→3 (x² - 3).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "16",
+      "8",
+      "0"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→4 (x² - 4²)/(x - 4).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "10",
+      "does not exist",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→5 (x + 8).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "36",
+      "6",
+      "does not exist"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→6 (x² - 6).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "14",
+      "49",
+      "0"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→7 (x² - 7²)/(x - 7).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "16",
+      "19",
+      "does not exist"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→8 (x + 11).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "81",
+      "9",
+      "does not exist",
+      "72"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→9 (x² - 9).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "10",
+      "100",
+      "0"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→10 (x² - 10²)/(x - 10).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "25",
+      "22",
+      "does not exist"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→11 (x + 14).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "144",
+      "12",
+      "132",
+      "does not exist"
+    ],
+    "correctAnswer": "132",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→12 (x² - 12).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "169",
+      "0",
+      "26"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→13 (x² - 13²)/(x - 13).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "17",
+      "28",
+      "does not exist"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→14 (x + 17).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "225",
+      "210",
+      "15",
+      "does not exist"
+    ],
+    "correctAnswer": "210",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→15 (x² - 15).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "256",
+      "32",
+      "0"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→16 (x² - 16²)/(x - 16).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "34",
+      "does not exist",
+      "37"
+    ],
+    "correctAnswer": "37",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→17 (x + 20).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "306",
+      "324",
+      "18",
+      "does not exist"
+    ],
+    "correctAnswer": "306",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→18 (x² - 18).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "38",
+      "361",
+      "0"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→19 (x² - 19²)/(x - 19).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "40",
+      "43",
+      "does not exist"
+    ],
+    "correctAnswer": "43",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→20 (x + 23).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "441",
+      "21",
+      "does not exist",
+      "420"
+    ],
+    "correctAnswer": "420",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→21 (x² - 21).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44",
+      "22",
+      "484",
+      "0"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→22 (x² - 22²)/(x - 22).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "49",
+      "46",
+      "does not exist"
+    ],
+    "correctAnswer": "49",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→23 (x + 26).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "576",
+      "24",
+      "552",
+      "does not exist"
+    ],
+    "correctAnswer": "552",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→24 (x² - 24).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "625",
+      "0",
+      "50"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→25 (x² - 25²)/(x - 25).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "55",
+      "29",
+      "52",
+      "does not exist"
+    ],
+    "correctAnswer": "55",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→26 (x + 29).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "729",
+      "702",
+      "27",
+      "does not exist"
+    ],
+    "correctAnswer": "702",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→27 (x² - 27).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28",
+      "784",
+      "56",
+      "0"
+    ],
+    "correctAnswer": "56",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→28 (x² - 28²)/(x - 28).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "58",
+      "does not exist",
+      "61"
+    ],
+    "correctAnswer": "61",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→29 (x + 32).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "870",
+      "900",
+      "30",
+      "does not exist"
+    ],
+    "correctAnswer": "870",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→30 (x² - 30).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "62",
+      "961",
+      "0"
+    ],
+    "correctAnswer": "62",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→31 (x² - 31²)/(x - 31).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "64",
+      "67",
+      "does not exist"
+    ],
+    "correctAnswer": "67",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→32 (x + 35).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1089",
+      "33",
+      "does not exist",
+      "1056"
+    ],
+    "correctAnswer": "1056",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→33 (x² - 33).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "68",
+      "34",
+      "1156",
+      "0"
+    ],
+    "correctAnswer": "68",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→34 (x² - 34²)/(x - 34).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "73",
+      "70",
+      "does not exist"
+    ],
+    "correctAnswer": "73",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→35 (x + 38).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1296",
+      "36",
+      "1260",
+      "does not exist"
+    ],
+    "correctAnswer": "1260",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→36 (x² - 36).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37",
+      "1369",
+      "0",
+      "74"
+    ],
+    "correctAnswer": "74",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→37 (x² - 37²)/(x - 37).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "79",
+      "41",
+      "76",
+      "does not exist"
+    ],
+    "correctAnswer": "79",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→38 (x + 41).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1521",
+      "1482",
+      "39",
+      "does not exist"
+    ],
+    "correctAnswer": "1482",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→39 (x² - 39).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "1600",
+      "80",
+      "0"
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→40 (x² - 40²)/(x - 40).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44",
+      "82",
+      "does not exist",
+      "85"
+    ],
+    "correctAnswer": "85",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→41 (x + 44).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1722",
+      "1764",
+      "42",
+      "does not exist"
+    ],
+    "correctAnswer": "1722",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→42 (x² - 42).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "86",
+      "1849",
+      "0"
+    ],
+    "correctAnswer": "86",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→43 (x² - 43²)/(x - 43).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "88",
+      "91",
+      "does not exist"
+    ],
+    "correctAnswer": "91",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→44 (x + 47).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2025",
+      "45",
+      "does not exist",
+      "1980"
+    ],
+    "correctAnswer": "1980",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→45 (x² - 45).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "92",
+      "46",
+      "2116",
+      "0"
+    ],
+    "correctAnswer": "92",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→46 (x² - 46²)/(x - 46).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "50",
+      "97",
+      "94",
+      "does not exist"
+    ],
+    "correctAnswer": "97",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→47 (x + 50).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2304",
+      "48",
+      "2256",
+      "does not exist"
+    ],
+    "correctAnswer": "2256",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→48 (x² - 48).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "2401",
+      "0",
+      "98"
+    ],
+    "correctAnswer": "98",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→49 (x² - 49²)/(x - 49).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "103",
+      "53",
+      "100",
+      "does not exist"
+    ],
+    "correctAnswer": "103",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→50 (x + 53).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2601",
+      "2550",
+      "51",
+      "does not exist"
+    ],
+    "correctAnswer": "2550",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: lim x→51 (x² - 51).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "52",
+      "2704",
+      "104",
+      "0"
+    ],
+    "correctAnswer": "104",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: lim x→52 (x² - 52²)/(x - 52).",
+    "topic": "Limits",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2x¹",
+      "4x²",
+      "4",
+      "4x¹"
+    ],
+    "correctAnswer": "4x¹",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 2x²?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "6",
+      "12",
+      "3"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 3x at x = 3?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4x² - 5",
+      "12x² - 5",
+      "12x²",
+      "12x³ - 5"
+    ],
+    "correctAnswer": "12x² - 5",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 4x³ - 5x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3x⁴",
+      "15x⁵",
+      "15x⁴",
+      "15"
+    ],
+    "correctAnswer": "15x⁴",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 3x⁵?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "42",
+      "6",
+      "18"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 6x at x = 6?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21x² - 8",
+      "7x² - 8",
+      "21x²",
+      "21x³ - 8"
+    ],
+    "correctAnswer": "21x² - 8",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 7x³ - 8x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4x²",
+      "12x²",
+      "12x³",
+      "12"
+    ],
+    "correctAnswer": "12x²",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 4x³?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "90",
+      "27",
+      "9"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 9x at x = 9?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10x² - 11",
+      "30x²",
+      "30x³ - 11",
+      "30x² - 11"
+    ],
+    "correctAnswer": "30x² - 11",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 10x³ - 11x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30x⁵",
+      "5x⁵",
+      "30x⁶",
+      "30"
+    ],
+    "correctAnswer": "30x⁵",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 5x⁶?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "36",
+      "156",
+      "12"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 12x at x = 12?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13x² - 14",
+      "39x²",
+      "39x² - 14",
+      "39x³ - 14"
+    ],
+    "correctAnswer": "39x² - 14",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 13x³ - 14x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6x³",
+      "24x⁴",
+      "24",
+      "24x³"
+    ],
+    "correctAnswer": "24x³",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 6x⁴?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "45",
+      "30",
+      "240",
+      "15"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 15x at x = 15?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16x² - 17",
+      "48x² - 17",
+      "48x²",
+      "48x³ - 17"
+    ],
+    "correctAnswer": "48x² - 17",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 16x³ - 17x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7x¹",
+      "14x²",
+      "14x¹",
+      "14"
+    ],
+    "correctAnswer": "14x¹",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 7x²?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "342",
+      "18",
+      "54"
+    ],
+    "correctAnswer": "54",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 18x at x = 18?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57x² - 20",
+      "19x² - 20",
+      "57x²",
+      "57x³ - 20"
+    ],
+    "correctAnswer": "57x² - 20",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 19x³ - 20x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8x⁴",
+      "40x⁴",
+      "40x⁵",
+      "40"
+    ],
+    "correctAnswer": "40x⁴",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 8x⁵?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "42",
+      "462",
+      "63",
+      "21"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 21x at x = 21?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22x² - 23",
+      "66x²",
+      "66x³ - 23",
+      "66x² - 23"
+    ],
+    "correctAnswer": "66x² - 23",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 22x³ - 23x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27x²",
+      "9x²",
+      "27x³",
+      "27"
+    ],
+    "correctAnswer": "27x²",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 9x³?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48",
+      "72",
+      "600",
+      "24"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 24x at x = 24?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25x² - 26",
+      "75x²",
+      "75x² - 26",
+      "75x³ - 26"
+    ],
+    "correctAnswer": "75x² - 26",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 25x³ - 26x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10x⁵",
+      "60x⁶",
+      "60",
+      "60x⁵"
+    ],
+    "correctAnswer": "60x⁵",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 10x⁶?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "81",
+      "54",
+      "756",
+      "27"
+    ],
+    "correctAnswer": "81",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 27x at x = 27?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28x² - 29",
+      "84x² - 29",
+      "84x²",
+      "84x³ - 29"
+    ],
+    "correctAnswer": "84x² - 29",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 28x³ - 29x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11x³",
+      "44x⁴",
+      "44x³",
+      "44"
+    ],
+    "correctAnswer": "44x³",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 11x⁴?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "60",
+      "930",
+      "30",
+      "90"
+    ],
+    "correctAnswer": "90",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 30x at x = 30?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "93x² - 32",
+      "31x² - 32",
+      "93x²",
+      "93x³ - 32"
+    ],
+    "correctAnswer": "93x² - 32",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 31x³ - 32x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12x¹",
+      "24x¹",
+      "24x²",
+      "24"
+    ],
+    "correctAnswer": "24x¹",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 12x²?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "66",
+      "1122",
+      "99",
+      "33"
+    ],
+    "correctAnswer": "99",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 33x at x = 33?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34x² - 35",
+      "102x²",
+      "102x³ - 35",
+      "102x² - 35"
+    ],
+    "correctAnswer": "102x² - 35",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 34x³ - 35x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65x⁴",
+      "13x⁴",
+      "65x⁵",
+      "65"
+    ],
+    "correctAnswer": "65x⁴",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 13x⁵?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "72",
+      "108",
+      "1332",
+      "36"
+    ],
+    "correctAnswer": "108",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 36x at x = 36?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "37x² - 38",
+      "111x²",
+      "111x² - 38",
+      "111x³ - 38"
+    ],
+    "correctAnswer": "111x² - 38",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 37x³ - 38x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14x²",
+      "42x³",
+      "42",
+      "42x²"
+    ],
+    "correctAnswer": "42x²",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 14x³?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "117",
+      "78",
+      "1560",
+      "39"
+    ],
+    "correctAnswer": "117",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 39x at x = 39?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40x² - 41",
+      "120x² - 41",
+      "120x²",
+      "120x³ - 41"
+    ],
+    "correctAnswer": "120x² - 41",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 40x³ - 41x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15x⁵",
+      "90x⁶",
+      "90x⁵",
+      "90"
+    ],
+    "correctAnswer": "90x⁵",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 15x⁶?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "84",
+      "1806",
+      "42",
+      "126"
+    ],
+    "correctAnswer": "126",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 42x at x = 42?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "129x² - 44",
+      "43x² - 44",
+      "129x²",
+      "129x³ - 44"
+    ],
+    "correctAnswer": "129x² - 44",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 43x³ - 44x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16x³",
+      "64x³",
+      "64x⁴",
+      "64"
+    ],
+    "correctAnswer": "64x³",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 16x⁴?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "90",
+      "2070",
+      "135",
+      "45"
+    ],
+    "correctAnswer": "135",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 45x at x = 45?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "46x² - 47",
+      "138x²",
+      "138x³ - 47",
+      "138x² - 47"
+    ],
+    "correctAnswer": "138x² - 47",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 46x³ - 47x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "34x¹",
+      "17x¹",
+      "34x²",
+      "34"
+    ],
+    "correctAnswer": "34x¹",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 17x²?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "96",
+      "144",
+      "2352",
+      "48"
+    ],
+    "correctAnswer": "144",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 48x at x = 48?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49x² - 50",
+      "147x²",
+      "147x² - 50",
+      "147x³ - 50"
+    ],
+    "correctAnswer": "147x² - 50",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 49x³ - 50x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18x⁴",
+      "90x⁵",
+      "90",
+      "90x⁴"
+    ],
+    "correctAnswer": "90x⁴",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 18x⁵?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "153",
+      "102",
+      "2652",
+      "51"
+    ],
+    "correctAnswer": "153",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 51x at x = 51?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "52x² - 53",
+      "156x² - 53",
+      "156x²",
+      "156x³ - 53"
+    ],
+    "correctAnswer": "156x² - 53",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 52x³ - 53x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19x²",
+      "57x³",
+      "57x²",
+      "57"
+    ],
+    "correctAnswer": "57x²",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 19x³?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "108",
+      "2970",
+      "54",
+      "162"
+    ],
+    "correctAnswer": "162",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 54x at x = 54?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "165x² - 56",
+      "55x² - 56",
+      "165x²",
+      "165x³ - 56"
+    ],
+    "correctAnswer": "165x² - 56",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 55x³ - 56x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20x⁵",
+      "120x⁵",
+      "120x⁶",
+      "120"
+    ],
+    "correctAnswer": "120x⁵",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 20x⁶?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "114",
+      "3306",
+      "171",
+      "57"
+    ],
+    "correctAnswer": "171",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 57x at x = 57?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "58x² - 59",
+      "174x²",
+      "174x³ - 59",
+      "174x² - 59"
+    ],
+    "correctAnswer": "174x² - 59",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 58x³ - 59x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "84x³",
+      "21x³",
+      "84x⁴",
+      "84"
+    ],
+    "correctAnswer": "84x³",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 21x⁴?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "120",
+      "180",
+      "3660",
+      "60"
+    ],
+    "correctAnswer": "180",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the slope of y = x² + 60x at x = 60?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "61x² - 62",
+      "183x²",
+      "183x² - 62",
+      "183x³ - 62"
+    ],
+    "correctAnswer": "183x² - 62",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is d/dx of 61x³ - 62x?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22x¹",
+      "44x²",
+      "44",
+      "44x¹"
+    ],
+    "correctAnswer": "44x¹",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is d/dx of 22x²?",
+    "topic": "Introductory Derivatives",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8 m/s",
+      "4 m/s",
+      "5 m/s",
+      "9 m/s"
+    ],
+    "correctAnswer": "8 m/s",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A position is s(t) = 2t² meters. What is velocity at t = 2?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "8",
+      "6",
+      "25"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 3 to x = 5 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "60 km/h",
+      "10 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If a distance changes from 40 km to 60 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25 m/s",
+      "11 m/s",
+      "126 m/s",
+      "50 m/s"
+    ],
+    "correctAnswer": "50 m/s",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A position is s(t) = 5t² meters. What is velocity at t = 5?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "8",
+      "12",
+      "64"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 6 to x = 8 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "10 km/h",
+      "90 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If a distance changes from 70 km to 90 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "64 m/s",
+      "17 m/s",
+      "128 m/s",
+      "513 m/s"
+    ],
+    "correctAnswer": "128 m/s",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A position is s(t) = 8t² meters. What is velocity at t = 8?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "18",
+      "121",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 9 to x = 11 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10 km/h",
+      "20 km/h",
+      "120 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If a distance changes from 100 km to 120 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "121 m/s",
+      "242 m/s",
+      "23 m/s",
+      "1332 m/s"
+    ],
+    "correctAnswer": "242 m/s",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A position is s(t) = 11t² meters. What is velocity at t = 11?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "24",
+      "26",
+      "196"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 12 to x = 14 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "150 km/h",
+      "5 km/h",
+      "10 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If a distance changes from 130 km to 150 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "392 m/s",
+      "196 m/s",
+      "29 m/s",
+      "2745 m/s"
+    ],
+    "correctAnswer": "392 m/s",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A position is s(t) = 14t² meters. What is velocity at t = 14?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "32",
+      "30",
+      "289"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 15 to x = 17 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "180 km/h",
+      "10 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If a distance changes from 160 km to 180 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "289 m/s",
+      "35 m/s",
+      "4914 m/s",
+      "578 m/s"
+    ],
+    "correctAnswer": "578 m/s",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A position is s(t) = 17t² meters. What is velocity at t = 17?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "20",
+      "36",
+      "400"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 18 to x = 20 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "10 km/h",
+      "210 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If a distance changes from 190 km to 210 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "400 m/s",
+      "41 m/s",
+      "800 m/s",
+      "8001 m/s"
+    ],
+    "correctAnswer": "800 m/s",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A position is s(t) = 20t² meters. What is velocity at t = 20?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "42",
+      "529",
+      "44"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 21 to x = 23 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10 km/h",
+      "20 km/h",
+      "240 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If a distance changes from 220 km to 240 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "529 m/s",
+      "1058 m/s",
+      "47 m/s",
+      "12168 m/s"
+    ],
+    "correctAnswer": "1058 m/s",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A position is s(t) = 23t² meters. What is velocity at t = 23?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "48",
+      "50",
+      "676"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 24 to x = 26 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "270 km/h",
+      "5 km/h",
+      "10 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If a distance changes from 250 km to 270 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1352 m/s",
+      "676 m/s",
+      "53 m/s",
+      "17577 m/s"
+    ],
+    "correctAnswer": "1352 m/s",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A position is s(t) = 26t² meters. What is velocity at t = 26?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "56",
+      "54",
+      "841"
+    ],
+    "correctAnswer": "56",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 27 to x = 29 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "300 km/h",
+      "10 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If a distance changes from 280 km to 300 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "841 m/s",
+      "59 m/s",
+      "24390 m/s",
+      "1682 m/s"
+    ],
+    "correctAnswer": "1682 m/s",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A position is s(t) = 29t² meters. What is velocity at t = 29?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "62",
+      "32",
+      "60",
+      "1024"
+    ],
+    "correctAnswer": "62",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "The average rate of change of f(x) = x² from x = 30 to x = 32 is:",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 km/h",
+      "10 km/h",
+      "330 km/h",
+      "5 km/h"
+    ],
+    "correctAnswer": "10 km/h",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If a distance changes from 310 km to 330 km in 2 hours, what is the average speed?",
+    "topic": "Rate of Change",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "x > 2",
+      "all real x except 2",
+      "x < 2"
+    ],
+    "correctAnswer": "all real x except 2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 2)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "0",
+      "7",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 3x + 4?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 4",
+      "x = 0",
+      "x = -4",
+      "x = 8"
+    ],
+    "correctAnswer": "x = 4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = (x - 4)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "all real x except 5",
+      "x > 5",
+      "x < 5"
+    ],
+    "correctAnswer": "all real x except 5",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 5)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "0",
+      "7",
+      "13"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 6x + 7?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = -7",
+      "x = 14",
+      "x = 7"
+    ],
+    "correctAnswer": "x = 7",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = (x - 7)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x except 8",
+      "all real x",
+      "x > 8",
+      "x < 8"
+    ],
+    "correctAnswer": "all real x except 8",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 8)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "10",
+      "0",
+      "19"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 9x + 10?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = -10",
+      "x = 10",
+      "x = 20"
+    ],
+    "correctAnswer": "x = 10",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = (x - 10)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "x > 11",
+      "x < 11",
+      "all real x except 11"
+    ],
+    "correctAnswer": "all real x except 11",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 11)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "12",
+      "0",
+      "25"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 12x + 13?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 13",
+      "x = -13",
+      "x = 26"
+    ],
+    "correctAnswer": "x = 13",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = (x - 13)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "x > 14",
+      "all real x except 14",
+      "x < 14"
+    ],
+    "correctAnswer": "all real x except 14",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 14)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "0",
+      "31",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 15x + 16?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 16",
+      "x = 0",
+      "x = -16",
+      "x = 32"
+    ],
+    "correctAnswer": "x = 16",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = (x - 16)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "all real x except 17",
+      "x > 17",
+      "x < 17"
+    ],
+    "correctAnswer": "all real x except 17",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 17)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "0",
+      "19",
+      "37"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 18x + 19?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = -19",
+      "x = 38",
+      "x = 19"
+    ],
+    "correctAnswer": "x = 19",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = (x - 19)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x except 20",
+      "all real x",
+      "x > 20",
+      "x < 20"
+    ],
+    "correctAnswer": "all real x except 20",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 20)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "22",
+      "0",
+      "43"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 21x + 22?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = -22",
+      "x = 22",
+      "x = 44"
+    ],
+    "correctAnswer": "x = 22",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = (x - 22)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "x > 23",
+      "x < 23",
+      "all real x except 23"
+    ],
+    "correctAnswer": "all real x except 23",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 23)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "24",
+      "0",
+      "49"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 24x + 25?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 25",
+      "x = -25",
+      "x = 50"
+    ],
+    "correctAnswer": "x = 25",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = (x - 25)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "x > 26",
+      "all real x except 26",
+      "x < 26"
+    ],
+    "correctAnswer": "all real x except 26",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 26)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "0",
+      "55",
+      "28"
+    ],
+    "correctAnswer": "28",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 27x + 28?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 28",
+      "x = 0",
+      "x = -28",
+      "x = 56"
+    ],
+    "correctAnswer": "x = 28",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = (x - 28)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "all real x",
+      "all real x except 29",
+      "x > 29",
+      "x < 29"
+    ],
+    "correctAnswer": "all real x except 29",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the domain of f(x) = 1/(x - 29)?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "30",
+      "0",
+      "31",
+      "61"
+    ],
+    "correctAnswer": "31",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is the y-intercept of f(x) = 30x + 31?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = -31",
+      "x = 62",
+      "x = 31"
+    ],
+    "correctAnswer": "x = 31",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = (x - 31)², where is the minimum?",
+    "topic": "Function Analysis",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8",
+      "5",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 2 and g(x) = 2x, what is f(g(3))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "15",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 3 and g(x) = 3x, what is f(g(4))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "16",
+      "24",
+      "20"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 4 and g(x) = 4x, what is f(g(5))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "10",
+      "12",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 5 and g(x) = 2x, what is f(g(6))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "13",
+      "18",
+      "21"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 6 and g(x) = 3x, what is f(g(7))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "39",
+      "28",
+      "32"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 7 and g(x) = 4x, what is f(g(8))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "16",
+      "26",
+      "18"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 8 and g(x) = 2x, what is f(g(9))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "27",
+      "30",
+      "39"
+    ],
+    "correctAnswer": "39",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 9 and g(x) = 3x, what is f(g(10))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54",
+      "21",
+      "40",
+      "44"
+    ],
+    "correctAnswer": "54",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 10 and g(x) = 4x, what is f(g(11))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "35",
+      "22",
+      "24"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 11 and g(x) = 2x, what is f(g(12))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "36",
+      "51",
+      "39"
+    ],
+    "correctAnswer": "51",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 12 and g(x) = 3x, what is f(g(13))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "52",
+      "56",
+      "69"
+    ],
+    "correctAnswer": "69",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 13 and g(x) = 4x, what is f(g(14))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "44",
+      "29",
+      "28",
+      "30"
+    ],
+    "correctAnswer": "44",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 14 and g(x) = 2x, what is f(g(15))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "31",
+      "63",
+      "45",
+      "48"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 15 and g(x) = 3x, what is f(g(16))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33",
+      "64",
+      "84",
+      "68"
+    ],
+    "correctAnswer": "84",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 16 and g(x) = 4x, what is f(g(17))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35",
+      "34",
+      "36",
+      "53"
+    ],
+    "correctAnswer": "53",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 17 and g(x) = 2x, what is f(g(18))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "75",
+      "37",
+      "54",
+      "57"
+    ],
+    "correctAnswer": "75",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 18 and g(x) = 3x, what is f(g(19))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "99",
+      "76",
+      "80"
+    ],
+    "correctAnswer": "99",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 19 and g(x) = 4x, what is f(g(20))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "41",
+      "40",
+      "62",
+      "42"
+    ],
+    "correctAnswer": "62",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 20 and g(x) = 2x, what is f(g(21))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "43",
+      "63",
+      "66",
+      "87"
+    ],
+    "correctAnswer": "87",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 21 and g(x) = 3x, what is f(g(22))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "114",
+      "45",
+      "88",
+      "92"
+    ],
+    "correctAnswer": "114",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 22 and g(x) = 4x, what is f(g(23))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "47",
+      "71",
+      "46",
+      "48"
+    ],
+    "correctAnswer": "71",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 23 and g(x) = 2x, what is f(g(24))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "49",
+      "72",
+      "99",
+      "75"
+    ],
+    "correctAnswer": "99",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 24 and g(x) = 3x, what is f(g(25))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "51",
+      "100",
+      "104",
+      "129"
+    ],
+    "correctAnswer": "129",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = x + 25 and g(x) = 4x, what is f(g(26))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "80",
+      "53",
+      "52",
+      "54"
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = x + 26 and g(x) = 2x, what is f(g(27))?",
+    "topic": "Composite Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "4",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 2, what is f⁻¹(10)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "9",
+      "4.5",
+      "12"
+    ],
+    "correctAnswer": "4.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 3, what is f⁻¹(12)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "10",
+      "14",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 4, what is f⁻¹(14)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5.5",
+      "8",
+      "11",
+      "16"
+    ],
+    "correctAnswer": "5.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 5, what is f⁻¹(16)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "6",
+      "12",
+      "18"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 6, what is f⁻¹(18)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "13",
+      "6.5",
+      "20"
+    ],
+    "correctAnswer": "6.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 7, what is f⁻¹(20)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "14",
+      "22",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 8, what is f⁻¹(22)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7.5",
+      "12",
+      "15",
+      "24"
+    ],
+    "correctAnswer": "7.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 9, what is f⁻¹(24)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "8",
+      "16",
+      "26"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 10, what is f⁻¹(26)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "17",
+      "8.5",
+      "28"
+    ],
+    "correctAnswer": "8.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 11, what is f⁻¹(28)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "18",
+      "30",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 12, what is f⁻¹(30)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9.5",
+      "16",
+      "19",
+      "32"
+    ],
+    "correctAnswer": "9.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 13, what is f⁻¹(32)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "10",
+      "20",
+      "34"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 14, what is f⁻¹(34)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "21",
+      "10.5",
+      "36"
+    ],
+    "correctAnswer": "10.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 15, what is f⁻¹(36)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "22",
+      "38",
+      "11"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 16, what is f⁻¹(38)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11.5",
+      "20",
+      "23",
+      "40"
+    ],
+    "correctAnswer": "11.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 17, what is f⁻¹(40)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "12",
+      "24",
+      "42"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 18, what is f⁻¹(42)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "25",
+      "12.5",
+      "44"
+    ],
+    "correctAnswer": "12.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 19, what is f⁻¹(44)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "26",
+      "46",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 20, what is f⁻¹(46)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13.5",
+      "24",
+      "27",
+      "48"
+    ],
+    "correctAnswer": "13.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 21, what is f⁻¹(48)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "14",
+      "28",
+      "50"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 22, what is f⁻¹(50)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "29",
+      "14.5",
+      "52"
+    ],
+    "correctAnswer": "14.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 23, what is f⁻¹(52)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "27",
+      "30",
+      "54",
+      "15"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 24, what is f⁻¹(54)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15.5",
+      "28",
+      "31",
+      "56"
+    ],
+    "correctAnswer": "15.5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f(x) = 2x + 25, what is f⁻¹(56)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "16",
+      "32",
+      "58"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f(x) = 2x + 26, what is f⁻¹(58)?",
+    "topic": "Inverse Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 2².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "28",
+      "29",
+      "27"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 3³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "256",
+      "255",
+      "257",
+      "258"
+    ],
+    "correctAnswer": "256",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 4⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 5².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "215",
+      "217",
+      "216",
+      "218"
+    ],
+    "correctAnswer": "216",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 6³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2400",
+      "2402",
+      "2403",
+      "2401"
+    ],
+    "correctAnswer": "2401",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 7⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "64",
+      "63",
+      "65",
+      "66"
+    ],
+    "correctAnswer": "64",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 8².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "728",
+      "729",
+      "730",
+      "731"
+    ],
+    "correctAnswer": "729",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 9³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9999",
+      "10001",
+      "10000",
+      "10002"
+    ],
+    "correctAnswer": "10000",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 10⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "120",
+      "122",
+      "123",
+      "121"
+    ],
+    "correctAnswer": "121",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 11².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1728",
+      "1727",
+      "1729",
+      "1730"
+    ],
+    "correctAnswer": "1728",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 12³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "28560",
+      "28561",
+      "28562",
+      "28563"
+    ],
+    "correctAnswer": "28561",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 13⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "195",
+      "197",
+      "196",
+      "198"
+    ],
+    "correctAnswer": "196",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 14².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3374",
+      "3376",
+      "3377",
+      "3375"
+    ],
+    "correctAnswer": "3375",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 15³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "65536",
+      "65535",
+      "65537",
+      "65538"
+    ],
+    "correctAnswer": "65536",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 16⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "288",
+      "289",
+      "290",
+      "291"
+    ],
+    "correctAnswer": "289",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 17².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5831",
+      "5833",
+      "5832",
+      "5834"
+    ],
+    "correctAnswer": "5832",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 18³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "130320",
+      "130322",
+      "130323",
+      "130321"
+    ],
+    "correctAnswer": "130321",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 19⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "400",
+      "399",
+      "401",
+      "402"
+    ],
+    "correctAnswer": "400",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 20².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9260",
+      "9261",
+      "9262",
+      "9263"
+    ],
+    "correctAnswer": "9261",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 21³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "234255",
+      "234257",
+      "234256",
+      "234258"
+    ],
+    "correctAnswer": "234256",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 22⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "528",
+      "530",
+      "531",
+      "529"
+    ],
+    "correctAnswer": "529",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 23².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13824",
+      "13823",
+      "13825",
+      "13826"
+    ],
+    "correctAnswer": "13824",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 24³.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "390624",
+      "390625",
+      "390626",
+      "390627"
+    ],
+    "correctAnswer": "390625",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Evaluate: 25⁴.",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "675",
+      "677",
+      "676",
+      "678"
+    ],
+    "correctAnswer": "676",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Evaluate: 26².",
+    "topic": "Exponential Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_2(4)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "27"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_3(27)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "256"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_4(256)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "2",
+      "25"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_5(25)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "216",
+      "3"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_6(216)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "2401"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_7(2401)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "64"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_8(64)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "729"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_9(729)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "10000",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_10(10000)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "1",
+      "3",
+      "121"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_11(121)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "1728"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_12(1728)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "28561"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_13(28561)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "196",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_14(196)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "3375"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_15(3375)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "65536"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_16(65536)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "2",
+      "289"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_17(289)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "5832",
+      "3"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_18(5832)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "130321"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_19(130321)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "400"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_20(400)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "9261"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_21(9261)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "234256",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_22(234256)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "1",
+      "3",
+      "529"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_23(529)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "13824"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_24(13824)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "390625"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is log_25(390625)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1",
+      "3",
+      "676",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is log_26(676)?",
+    "topic": "Logarithmic Functions",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "11",
+      "17",
+      "10"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 2, 5, 8. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "24",
+      "12",
+      "48"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A geometric sequence begins 3, 6, 12. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "12",
+      "10",
+      "18",
+      "24"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 4 + 6 + 8.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "20",
+      "25",
+      "17"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 5, 8, 11. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48",
+      "36",
+      "24",
+      "96"
+    ],
+    "correctAnswer": "48",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A geometric sequence begins 6, 12, 24. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "27",
+      "13",
+      "33"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 7 + 9 + 11.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "23",
+      "20",
+      "40"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 8, 11, 14. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "54",
+      "36",
+      "144",
+      "72"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A geometric sequence begins 9, 18, 36. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "30",
+      "16",
+      "42"
+    ],
+    "correctAnswer": "36",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 10 + 12 + 14.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20",
+      "23",
+      "26",
+      "55"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 11, 14, 17. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "72",
+      "48",
+      "96",
+      "192"
+    ],
+    "correctAnswer": "96",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A geometric sequence begins 12, 24, 48. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "39",
+      "19",
+      "51",
+      "45"
+    ],
+    "correctAnswer": "45",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 13 + 15 + 17.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "23",
+      "29",
+      "70"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 14, 17, 20. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "90",
+      "120",
+      "60",
+      "240"
+    ],
+    "correctAnswer": "120",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A geometric sequence begins 15, 30, 60. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "48",
+      "22",
+      "54",
+      "60"
+    ],
+    "correctAnswer": "54",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 16 + 18 + 20.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "32",
+      "85",
+      "29"
+    ],
+    "correctAnswer": "29",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 17, 20, 23. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "144",
+      "108",
+      "72",
+      "288"
+    ],
+    "correctAnswer": "144",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A geometric sequence begins 18, 36, 72. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "57",
+      "63",
+      "25",
+      "69"
+    ],
+    "correctAnswer": "63",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 19 + 21 + 23.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29",
+      "35",
+      "32",
+      "100"
+    ],
+    "correctAnswer": "32",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 20, 23, 26. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "126",
+      "84",
+      "336",
+      "168"
+    ],
+    "correctAnswer": "168",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A geometric sequence begins 21, 42, 84. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "72",
+      "66",
+      "28",
+      "78"
+    ],
+    "correctAnswer": "72",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 22 + 24 + 26.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "32",
+      "35",
+      "38",
+      "115"
+    ],
+    "correctAnswer": "35",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 23, 26, 29. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "144",
+      "96",
+      "192",
+      "384"
+    ],
+    "correctAnswer": "192",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A geometric sequence begins 24, 48, 96. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "75",
+      "31",
+      "87",
+      "81"
+    ],
+    "correctAnswer": "81",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 25 + 27 + 29.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "35",
+      "41",
+      "130"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 26, 29, 32. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "162",
+      "216",
+      "108",
+      "432"
+    ],
+    "correctAnswer": "216",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A geometric sequence begins 27, 54, 108. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "84",
+      "34",
+      "90",
+      "96"
+    ],
+    "correctAnswer": "90",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 28 + 30 + 32.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "38",
+      "44",
+      "145",
+      "41"
+    ],
+    "correctAnswer": "41",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An arithmetic sequence begins 29, 32, 35. What is term 5?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "240",
+      "180",
+      "120",
+      "480"
+    ],
+    "correctAnswer": "240",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A geometric sequence begins 30, 60, 120. What is term 4?",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "93",
+      "99",
+      "37",
+      "105"
+    ],
+    "correctAnswer": "99",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Find the sum of the first 3 terms: 31 + 33 + 35.",
+    "topic": "Sequences and Series",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/6",
+      "5/6",
+      "4/6",
+      "6/6"
+    ],
+    "correctAnswer": "4/6",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "On roll 2 of a fair-die simulation, what is P(rolling a number greater than 2)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "In trial 3, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$4",
+      "$8",
+      "$0",
+      "$5"
+    ],
+    "correctAnswer": "$4",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A game pays $8 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5/6",
+      "6/6",
+      "7/6",
+      "8/6"
+    ],
+    "correctAnswer": "6/6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "On roll 5 of a fair-die simulation, what is P(rolling a number greater than 0)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "In trial 6, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$14",
+      "$0",
+      "$8",
+      "$7"
+    ],
+    "correctAnswer": "$7",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A game pays $14 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/6",
+      "2/6",
+      "4/6",
+      "5/6"
+    ],
+    "correctAnswer": "3/6",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "On roll 8 of a fair-die simulation, what is P(rolling a number greater than 3)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "In trial 9, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$20",
+      "$0",
+      "$10",
+      "$11"
+    ],
+    "correctAnswer": "$10",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A game pays $20 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4/6",
+      "6/6",
+      "7/6",
+      "5/6"
+    ],
+    "correctAnswer": "5/6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "On roll 11 of a fair-die simulation, what is P(rolling a number greater than 1)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "In trial 12, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$26",
+      "$13",
+      "$0",
+      "$14"
+    ],
+    "correctAnswer": "$13",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A game pays $26 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/6",
+      "3/6",
+      "2/6",
+      "4/6"
+    ],
+    "correctAnswer": "2/6",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "On roll 14 of a fair-die simulation, what is P(rolling a number greater than 4)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "In trial 15, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$16",
+      "$32",
+      "$0",
+      "$17"
+    ],
+    "correctAnswer": "$16",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A game pays $32 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3/6",
+      "4/6",
+      "5/6",
+      "6/6"
+    ],
+    "correctAnswer": "4/6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "On roll 17 of a fair-die simulation, what is P(rolling a number greater than 2)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "In trial 18, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$38",
+      "$0",
+      "$20",
+      "$19"
+    ],
+    "correctAnswer": "$19",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A game pays $38 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6/6",
+      "5/6",
+      "7/6",
+      "8/6"
+    ],
+    "correctAnswer": "6/6",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "On roll 20 of a fair-die simulation, what is P(rolling a number greater than 0)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "In trial 21, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$44",
+      "$0",
+      "$22",
+      "$23"
+    ],
+    "correctAnswer": "$22",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A game pays $44 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2/6",
+      "4/6",
+      "5/6",
+      "3/6"
+    ],
+    "correctAnswer": "3/6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "On roll 23 of a fair-die simulation, what is P(rolling a number greater than 3)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "In trial 24, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$50",
+      "$25",
+      "$0",
+      "$26"
+    ],
+    "correctAnswer": "$25",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A game pays $50 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4/6",
+      "6/6",
+      "5/6",
+      "7/6"
+    ],
+    "correctAnswer": "5/6",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "On roll 26 of a fair-die simulation, what is P(rolling a number greater than 1)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1",
+      "1/2"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "In trial 27, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$28",
+      "$56",
+      "$0",
+      "$29"
+    ],
+    "correctAnswer": "$28",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A game pays $56 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/6",
+      "2/6",
+      "3/6",
+      "4/6"
+    ],
+    "correctAnswer": "2/6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "On roll 29 of a fair-die simulation, what is P(rolling a number greater than 4)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "1/4",
+      "3/4",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "In trial 30, two fair coins are flipped. What is P(exactly one head)?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$62",
+      "$0",
+      "$32",
+      "$31"
+    ],
+    "correctAnswer": "$31",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A game pays $62 with probability 1/2 and $0 otherwise. What is its expected value?",
+    "topic": "Probability",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a random sample of students",
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 100 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger standard deviation",
+      "the set with the larger median",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Two data sets about 103 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "the method captures the true parameter about 95% of repeated samples",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 4 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "students who volunteer",
+      "a random sample of students"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 103 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the larger standard deviation",
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Two data sets about 106 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "the method captures the true parameter about 95% of repeated samples",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 7 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "a random sample of students",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 106 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "they must have equal variability",
+      "the set with the larger standard deviation"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Two data sets about 109 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the method captures the true parameter about 95% of repeated samples",
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 10 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "a random sample of students",
+      "only varsity athletes",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 109 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "the set with the larger standard deviation",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Two data sets about 112 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled",
+      "the method captures the true parameter about 95% of repeated samples"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 13 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a random sample of students",
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 112 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger standard deviation",
+      "the set with the larger median",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Two data sets about 115 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "the method captures the true parameter about 95% of repeated samples",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 16 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "students who volunteer",
+      "a random sample of students"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 115 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the larger standard deviation",
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Two data sets about 118 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "the method captures the true parameter about 95% of repeated samples",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 19 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "a random sample of students",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 118 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "they must have equal variability",
+      "the set with the larger standard deviation"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Two data sets about 121 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the method captures the true parameter about 95% of repeated samples",
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 22 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "a random sample of students",
+      "only varsity athletes",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 121 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "the set with the larger standard deviation",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Two data sets about 124 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled",
+      "the method captures the true parameter about 95% of repeated samples"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 25 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "a random sample of students",
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "students who volunteer"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 124 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the smaller mean",
+      "the set with the larger standard deviation",
+      "the set with the larger median",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Two data sets about 127 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "there is a 95% chance the parameter changes",
+      "the method captures the true parameter about 95% of repeated samples",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 28 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the first 20 students arriving",
+      "only varsity athletes",
+      "students who volunteer",
+      "a random sample of students"
+    ],
+    "correctAnswer": "a random sample of students",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "Which sample best supports a claim about every student in a school of 127 students?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "the set with the larger standard deviation",
+      "the set with the smaller mean",
+      "the set with the larger median",
+      "they must have equal variability"
+    ],
+    "correctAnswer": "the set with the larger standard deviation",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Two data sets about 130 students have the same mean. Which has more variability?",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "95% of data values are in the interval",
+      "the method captures the true parameter about 95% of repeated samples",
+      "there is a 95% chance the parameter changes",
+      "95% of individuals are sampled"
+    ],
+    "correctAnswer": "the method captures the true parameter about 95% of repeated samples",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A 95% confidence interval from sample 31 means:",
+    "topic": "Statistical Inference",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[2, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "3",
+      "5",
+      "2",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[3, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "4",
+      "1",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[4, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5",
+      "10",
+      "7",
+      "2"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[5, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "6",
+      "1",
+      "7",
+      "9"
+    ],
+    "correctAnswer": "7",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[6, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "7",
+      "9",
+      "2",
+      "14"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[7, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "8",
+      "1",
+      "11"
+    ],
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[8, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9",
+      "18",
+      "11",
+      "2"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[9, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10",
+      "1",
+      "11",
+      "13"
+    ],
+    "correctAnswer": "11",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[10, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11",
+      "13",
+      "2",
+      "22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[11, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "12",
+      "1",
+      "15"
+    ],
+    "correctAnswer": "13",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[12, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "13",
+      "26",
+      "15",
+      "2"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[13, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14",
+      "1",
+      "15",
+      "17"
+    ],
+    "correctAnswer": "15",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[14, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "15",
+      "17",
+      "2",
+      "30"
+    ],
+    "correctAnswer": "30",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[15, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "16",
+      "1",
+      "19"
+    ],
+    "correctAnswer": "17",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[16, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17",
+      "34",
+      "19",
+      "2"
+    ],
+    "correctAnswer": "34",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[17, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "18",
+      "1",
+      "19",
+      "21"
+    ],
+    "correctAnswer": "19",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[18, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "19",
+      "21",
+      "2",
+      "38"
+    ],
+    "correctAnswer": "38",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[19, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "20",
+      "1",
+      "23"
+    ],
+    "correctAnswer": "21",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[20, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21",
+      "42",
+      "23",
+      "2"
+    ],
+    "correctAnswer": "42",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[21, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "22",
+      "1",
+      "23",
+      "25"
+    ],
+    "correctAnswer": "23",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[22, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23",
+      "25",
+      "2",
+      "46"
+    ],
+    "correctAnswer": "46",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[23, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "24",
+      "1",
+      "27"
+    ],
+    "correctAnswer": "25",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[24, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "25",
+      "50",
+      "27",
+      "2"
+    ],
+    "correctAnswer": "50",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For A = [[25, 1], [0, 1]], what is the top-left entry of 2A?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26",
+      "1",
+      "27",
+      "29"
+    ],
+    "correctAnswer": "27",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "Add matrices [[26, 1], [2, 3]] + [[1, 2], [3, 4]]. What is the top-left entry?",
+    "topic": "Matrices",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "4",
+      "0",
+      "3",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <2, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<4, 3>",
+      "<2, 5>",
+      "<3, 3>",
+      "<4, 5>"
+    ],
+    "correctAnswer": "<4, 3>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <3, 4> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "16",
+      "4",
+      "0",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <4, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<4, 7>",
+      "<5, 5>",
+      "<6, 5>",
+      "<6, 7>"
+    ],
+    "correctAnswer": "<6, 5>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <5, 6> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "36",
+      "0",
+      "7",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <6, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<8, 7>",
+      "<6, 9>",
+      "<7, 7>",
+      "<8, 9>"
+    ],
+    "correctAnswer": "<8, 7>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <7, 8> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "64",
+      "8",
+      "0",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <8, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<8, 11>",
+      "<9, 9>",
+      "<10, 9>",
+      "<10, 11>"
+    ],
+    "correctAnswer": "<10, 9>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <9, 10> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "100",
+      "0",
+      "11",
+      "10"
+    ],
+    "correctAnswer": "10",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <10, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<12, 11>",
+      "<10, 13>",
+      "<11, 11>",
+      "<12, 13>"
+    ],
+    "correctAnswer": "<12, 11>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <11, 12> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "144",
+      "12",
+      "0",
+      "13"
+    ],
+    "correctAnswer": "12",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <12, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<12, 15>",
+      "<13, 13>",
+      "<14, 13>",
+      "<14, 15>"
+    ],
+    "correctAnswer": "<14, 13>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <13, 14> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "196",
+      "0",
+      "15",
+      "14"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <14, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<16, 15>",
+      "<14, 17>",
+      "<15, 15>",
+      "<16, 17>"
+    ],
+    "correctAnswer": "<16, 15>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <15, 16> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "256",
+      "16",
+      "0",
+      "17"
+    ],
+    "correctAnswer": "16",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <16, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<16, 19>",
+      "<17, 17>",
+      "<18, 17>",
+      "<18, 19>"
+    ],
+    "correctAnswer": "<18, 17>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <17, 18> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "324",
+      "0",
+      "19",
+      "18"
+    ],
+    "correctAnswer": "18",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <18, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<20, 19>",
+      "<18, 21>",
+      "<19, 19>",
+      "<20, 21>"
+    ],
+    "correctAnswer": "<20, 19>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <19, 20> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "400",
+      "20",
+      "0",
+      "21"
+    ],
+    "correctAnswer": "20",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <20, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<20, 23>",
+      "<21, 21>",
+      "<22, 21>",
+      "<22, 23>"
+    ],
+    "correctAnswer": "<22, 21>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <21, 22> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "484",
+      "0",
+      "23",
+      "22"
+    ],
+    "correctAnswer": "22",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <22, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<24, 23>",
+      "<22, 25>",
+      "<23, 23>",
+      "<24, 25>"
+    ],
+    "correctAnswer": "<24, 23>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <23, 24> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "576",
+      "24",
+      "0",
+      "25"
+    ],
+    "correctAnswer": "24",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <24, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "<24, 27>",
+      "<25, 25>",
+      "<26, 25>",
+      "<26, 27>"
+    ],
+    "correctAnswer": "<26, 25>",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "What is <25, 26> + <1, -1>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "676",
+      "0",
+      "27",
+      "26"
+    ],
+    "correctAnswer": "26",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "What is the magnitude of vector <26, 0>?",
+    "topic": "Vectors",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$20",
+      "$10",
+      "$220",
+      "$100"
+    ],
+    "correctAnswer": "$20",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An investment of $200 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "40",
+      "33",
+      "3",
+      "60"
+    ],
+    "correctAnswer": "33",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A population of 30 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5 hours",
+      "40 hours",
+      "10 hours",
+      "1 hour"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A car travels 40 miles at 4 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$25",
+      "$550",
+      "$250",
+      "$50"
+    ],
+    "correctAnswer": "$50",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An investment of $500 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "66",
+      "70",
+      "6",
+      "120"
+    ],
+    "correctAnswer": "66",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A population of 60 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "8 hours",
+      "10 hours",
+      "70 hours",
+      "1 hour"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A car travels 70 miles at 7 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$40",
+      "$880",
+      "$80",
+      "$400"
+    ],
+    "correctAnswer": "$80",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An investment of $800 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "100",
+      "9",
+      "180",
+      "99"
+    ],
+    "correctAnswer": "99",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A population of 90 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10 hours",
+      "11 hours",
+      "100 hours",
+      "1 hour"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A car travels 100 miles at 10 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$55",
+      "$110",
+      "$1210",
+      "$550"
+    ],
+    "correctAnswer": "$110",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An investment of $1100 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "130",
+      "12",
+      "132",
+      "240"
+    ],
+    "correctAnswer": "132",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A population of 120 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14 hours",
+      "130 hours",
+      "1 hour",
+      "10 hours"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A car travels 130 miles at 13 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$140",
+      "$70",
+      "$1540",
+      "$700"
+    ],
+    "correctAnswer": "$140",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An investment of $1400 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "160",
+      "165",
+      "15",
+      "300"
+    ],
+    "correctAnswer": "165",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A population of 150 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17 hours",
+      "160 hours",
+      "10 hours",
+      "1 hour"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A car travels 160 miles at 16 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$85",
+      "$1870",
+      "$850",
+      "$170"
+    ],
+    "correctAnswer": "$170",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An investment of $1700 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "198",
+      "190",
+      "18",
+      "360"
+    ],
+    "correctAnswer": "198",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A population of 180 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "20 hours",
+      "10 hours",
+      "190 hours",
+      "1 hour"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A car travels 190 miles at 19 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$100",
+      "$2200",
+      "$200",
+      "$1000"
+    ],
+    "correctAnswer": "$200",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An investment of $2000 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "220",
+      "21",
+      "420",
+      "231"
+    ],
+    "correctAnswer": "231",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A population of 210 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "10 hours",
+      "23 hours",
+      "220 hours",
+      "1 hour"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A car travels 220 miles at 22 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$115",
+      "$230",
+      "$2530",
+      "$1150"
+    ],
+    "correctAnswer": "$230",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "An investment of $2300 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "250",
+      "24",
+      "264",
+      "480"
+    ],
+    "correctAnswer": "264",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A population of 240 grows by 10% once. What is the new population?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26 hours",
+      "250 hours",
+      "1 hour",
+      "10 hours"
+    ],
+    "correctAnswer": "10 hours",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A car travels 250 miles at 25 mph. How long does the trip take?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "$260",
+      "$130",
+      "$2860",
+      "$1300"
+    ],
+    "correctAnswer": "$260",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "An investment of $2600 earns 5% simple interest for 2 years. What is the interest?",
+    "topic": "Real-World Modeling",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 2",
+      "x = 4",
+      "x = -2"
+    ],
+    "correctAnswer": "x = 2",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = x² - 4x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "2 by 4",
+      "1 by 4",
+      "3 by 3",
+      "1 by 5"
+    ],
+    "correctAnswer": "3 by 3",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A rectangle has perimeter 12. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "constant",
+      "undefined",
+      "increasing"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f'(x) is positive on (4, 7), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 5",
+      "x = 0",
+      "x = 10",
+      "x = -5"
+    ],
+    "correctAnswer": "x = 5",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = x² - 10x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "5 by 7",
+      "6 by 6",
+      "1 by 10",
+      "4 by 8"
+    ],
+    "correctAnswer": "6 by 6",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A rectangle has perimeter 24. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "constant",
+      "increasing",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f'(x) is positive on (7, 10), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 16",
+      "x = -8",
+      "x = 8"
+    ],
+    "correctAnswer": "x = 8",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = x² - 16x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "9 by 9",
+      "8 by 10",
+      "1 by 16",
+      "7 by 11"
+    ],
+    "correctAnswer": "9 by 9",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A rectangle has perimeter 36. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "increasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f'(x) is positive on (10, 13), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 22",
+      "x = 11",
+      "x = -11"
+    ],
+    "correctAnswer": "x = 11",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = x² - 22x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "11 by 13",
+      "1 by 22",
+      "10 by 14",
+      "12 by 12"
+    ],
+    "correctAnswer": "12 by 12",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A rectangle has perimeter 48. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "increasing",
+      "decreasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f'(x) is positive on (13, 16), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 14",
+      "x = 28",
+      "x = -14"
+    ],
+    "correctAnswer": "x = 14",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = x² - 28x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "14 by 16",
+      "1 by 28",
+      "15 by 15",
+      "13 by 17"
+    ],
+    "correctAnswer": "15 by 15",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A rectangle has perimeter 60. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "constant",
+      "undefined",
+      "increasing"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f'(x) is positive on (16, 19), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 17",
+      "x = 0",
+      "x = 34",
+      "x = -17"
+    ],
+    "correctAnswer": "x = 17",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = x² - 34x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "17 by 19",
+      "18 by 18",
+      "1 by 34",
+      "16 by 20"
+    ],
+    "correctAnswer": "18 by 18",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A rectangle has perimeter 72. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "constant",
+      "increasing",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f'(x) is positive on (19, 22), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 40",
+      "x = -20",
+      "x = 20"
+    ],
+    "correctAnswer": "x = 20",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = x² - 40x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "21 by 21",
+      "20 by 22",
+      "1 by 40",
+      "19 by 23"
+    ],
+    "correctAnswer": "21 by 21",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A rectangle has perimeter 84. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "increasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f'(x) is positive on (22, 25), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 46",
+      "x = 23",
+      "x = -23"
+    ],
+    "correctAnswer": "x = 23",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = x² - 46x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "23 by 25",
+      "1 by 46",
+      "22 by 26",
+      "24 by 24"
+    ],
+    "correctAnswer": "24 by 24",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A rectangle has perimeter 96. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "increasing",
+      "decreasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f'(x) is positive on (25, 28), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 26",
+      "x = 52",
+      "x = -26"
+    ],
+    "correctAnswer": "x = 26",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = x² - 52x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "26 by 28",
+      "1 by 52",
+      "27 by 27",
+      "25 by 29"
+    ],
+    "correctAnswer": "27 by 27",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A rectangle has perimeter 108. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "constant",
+      "undefined",
+      "increasing"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f'(x) is positive on (28, 31), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 29",
+      "x = 0",
+      "x = 58",
+      "x = -29"
+    ],
+    "correctAnswer": "x = 29",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = x² - 58x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "29 by 31",
+      "30 by 30",
+      "1 by 58",
+      "28 by 32"
+    ],
+    "correctAnswer": "30 by 30",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A rectangle has perimeter 120. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "constant",
+      "increasing",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f'(x) is positive on (31, 34), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 64",
+      "x = -32",
+      "x = 32"
+    ],
+    "correctAnswer": "x = 32",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "For f(x) = x² - 64x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "33 by 33",
+      "32 by 34",
+      "1 by 64",
+      "31 by 35"
+    ],
+    "correctAnswer": "33 by 33",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "A rectangle has perimeter 132. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "decreasing",
+      "increasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "If f'(x) is positive on (34, 37), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "x = 0",
+      "x = 70",
+      "x = 35",
+      "x = -35"
+    ],
+    "correctAnswer": "x = 35",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "For f(x) = x² - 70x, where is f'(x) = 0?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "35 by 37",
+      "1 by 70",
+      "34 by 38",
+      "36 by 36"
+    ],
+    "correctAnswer": "36 by 36",
+    "difficulty": "hard",
+    "grade": 12,
+    "question": "A rectangle has perimeter 144. Which dimensions maximize its area?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  },
+  {
+    "choices": [
+      "increasing",
+      "decreasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "increasing",
+    "difficulty": "medium",
+    "grade": 12,
+    "question": "If f'(x) is positive on (37, 40), what is f doing there?",
+    "topic": "AP Calculus-Style Problems",
+    "uses_pi": false
+  }
+]

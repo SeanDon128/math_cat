@@ -1,0 +1,221 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scenes/title/title.gd" id="1_title"]
+
+[sub_resource type="StyleBoxFlat" id="StylePanel"]
+bg_color = Color(0.101961, 0.141176, 0.235294, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.941176, 0.827451, 0.368627, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleStart"]
+bg_color = Color(0.172549, 0.592157, 0.27451, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.760784, 0.94902, 0.733333, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleStartHover"]
+bg_color = Color(0.239216, 0.713725, 0.352941, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleMenu"]
+bg_color = Color(0.101961, 0.141176, 0.235294, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.388235, 0.541176, 0.717647, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleMenuHover"]
+bg_color = Color(0.168627, 0.258824, 0.411765, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.941176, 0.827451, 0.368627, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[node name="Title" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_title")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.0470588, 0.0705882, 0.117647, 1)
+mouse_filter = 2
+
+[node name="Panel" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -260.0
+offset_top = -312.0
+offset_right = 260.0
+offset_bottom = 312.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StylePanel")
+
+[node name="Margin" type="MarginContainer" parent="Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 36
+theme_override_constants/margin_top = 24
+theme_override_constants/margin_right = 36
+theme_override_constants/margin_bottom = 24
+
+[node name="Layout" type="VBoxContainer" parent="Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 8
+alignment = 1
+
+[node name="GameTitle" type="Label" parent="Panel/Margin/Layout"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.941176, 0.827451, 0.368627, 1)
+theme_override_font_sizes/font_size = 44
+text = "MATH CAT"
+horizontal_alignment = 1
+
+[node name="Subtitle" type="Label" parent="Panel/Margin/Layout"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.588235, 0.815686, 0.941176, 1)
+theme_override_font_sizes/font_size = 20
+text = "Because worksheets don't have boss battles."
+horizontal_alignment = 1
+
+[node name="StartButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleStart")
+theme_override_styles/hover = SubResource("StyleStartHover")
+theme_override_styles/focus = SubResource("StyleStartHover")
+text = "RETRO MODE"
+
+[node name="BlitzButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleMenu")
+theme_override_styles/hover = SubResource("StyleMenuHover")
+theme_override_styles/focus = SubResource("StyleMenuHover")
+text = "BLITZ"
+
+[node name="AdventureButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleMenu")
+theme_override_styles/hover = SubResource("StyleMenuHover")
+theme_override_styles/focus = SubResource("StyleMenuHover")
+text = "ADVENTURE"
+
+[node name="OptionsButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleMenu")
+theme_override_styles/hover = SubResource("StyleMenuHover")
+theme_override_styles/focus = SubResource("StyleMenuHover")
+text = "OPTIONS"
+
+[node name="StatsButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleMenu")
+theme_override_styles/hover = SubResource("StyleMenuHover")
+theme_override_styles/focus = SubResource("StyleMenuHover")
+text = "STATS"
+
+[node name="AchievementsButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleMenu")
+theme_override_styles/hover = SubResource("StyleMenuHover")
+theme_override_styles/focus = SubResource("StyleMenuHover")
+text = "ACHIEVEMENTS"
+
+[node name="ExitButton" type="Button" parent="Panel/Margin/Layout"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_font_sizes/font_size = 24
+theme_override_styles/normal = SubResource("StyleMenu")
+theme_override_styles/hover = SubResource("StyleMenuHover")
+theme_override_styles/focus = SubResource("StyleMenuHover")
+text = "EXIT GAME"
+
+[node name="PauseHint" type="Label" parent="Panel/Margin/Layout"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.921569, 0.941176, 0.968627, 1)
+theme_override_font_sizes/font_size = 16
+text = "ARROWS / D-PAD TO NAVIGATE  |  ENTER / A TO SELECT"
+horizontal_alignment = 1

@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bjmc1mr6n0vs2"]
+
+[ext_resource type="AudioStream" uid="uid://b4yeqo5vyuts" path="res://audio/music/kitten_theme.ogg" id="1_k7ygm"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" unique_id=1553305055]
+stream = ExtResource("1_k7ygm")
+autoplay = true

@@ -1,0 +1,14 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scenes/characters/math_cat.gd" id="1_mathcat"]
+[ext_resource type="SpriteFrames" path="res://assets/characters/math_cat/math_cat_kitten_frames.tres" id="2_kitten"]
+[ext_resource type="SpriteFrames" path="res://assets/characters/math_cat/math_cat_big_cat_frames.tres" id="3_big_cat"]
+[ext_resource type="SpriteFrames" path="res://assets/characters/math_cat/math_cat_tiger_frames.tres" id="4_tiger"]
+[ext_resource type="SpriteFrames" path="res://assets/characters/math_cat/math_cat_nerd_cat_frames.tres" id="5_nerd_cat"]
+
+[node name="MathCat" type="AnimatedSprite2D"]
+script = ExtResource("1_mathcat")
+kitten_frames = ExtResource("2_kitten")
+big_cat_frames = ExtResource("3_big_cat")
+tiger_frames = ExtResource("4_tiger")
+nerd_cat_frames = ExtResource("5_nerd_cat")

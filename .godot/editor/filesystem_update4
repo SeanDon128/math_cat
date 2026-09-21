@@ -1,0 +1,4 @@
+res://scenes/adventure/adventure_hub.gd
+res://scripts/background/background_evolution_manager.gd
+res://shaders/synthwave_background.gdshader
+res://tests/adventure_ui_smoke_test.gd
